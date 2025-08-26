@@ -10,6 +10,8 @@ Essentially, this is a show case of what is possible with similarity search on y
 
 ![Similarity Search Bot Preview](https://img.shields.io/badge/Status-Ready%20for%20Deployment-green) ![.NET 9](https://img.shields.io/badge/.NET-9.0-purple) ![License](https://img.shields.io/badge/License-MIT-blue)
 
+![Similarity Search Bot](https://github.com/tacticaxyz/tactica.faq.similaritysearch/blob/main/images/tactica-faq-ai-small.png)
+
 ## 🌟 Features
 
 - **Smart FAQ Matching**: Uses vector embeddings for intelligent question matching
