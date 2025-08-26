@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TacTicA FAQ ChatBot</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50 min-h-screen">
+    <div class="container mx-auto px-4 py-8">
+        <!-- Header -->
+        <header class="text-center mb-8">
+            <h1 class="text-4xl font-bold text-blue-600 mb-2">
+                <i class="fas fa-robot mr-2"></i>
+                AI similarity search over Chromium codebase
+            </h1>
+            <p class="text-gray-600 text-lg">
+                Quickly retrieve relevant documentation links from [Chromium codebase] by AI-powered assistance. 
+            </p>
+            <p class="text-gray-600 text-lg">
+                It is a show case of what is possible on your internal corporate data, while might not be best example.
+            </p>
+            <p class="text-gray-600 text-lg">
+                There is still room for improvement and fine-tuning.
+            </p>
+        </header>
+
+        <!-- Main Chat Interface -->
+        <div class="max-w-4xl mx-auto bg-white rounded-lg shadow-lg overflow-hidden flex flex-col" style="height: calc(100vh - 400px);">
+            <!-- Chat Messages Container -->
+            <div id="chatMessages" class="flex-1 overflow-y-auto p-6 space-y-4 bg-gray-50">
+                <!-- Welcome Message -->
+                <div class="flex items-start space-x-3">
+                    <div class="flex-shrink-0">
+                        <div class="w-8 h-8 bg-blue-500 rounded-full flex items-center justify-center">
+                            <i class="fas fa-robot text-white text-sm"></i>
+                        </div>
+                    </div>
+                    <div class="bg-white p-4 rounded-lg shadow-sm max-w-md">
+                        <p class="text-gray-800">
+                            Hello! I'm here to help you find relevant Wiki links for [Chromium codebase] questions.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Input Area -->
+            <div class="border-t border-gray-200 p-4 bg-white flex-shrink-0">
+                <div class="flex items-center space-x-4">
+                    <input 
+                        type="text" 
+                        id="userInput" 
+                        placeholder="Ask your [Chromium codebase] question..." 
+                        class="flex-1 px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                        maxlength="500"
+                    >
+                    <button 
+                        id="sendButton" 
+                        class="px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+                    >
+                        <i class="fas fa-paper-plane mr-2"></i>
+                        Send
+                    </button>
+                </div>
+                <div class="mt-2 flex justify-between text-xs text-gray-500">
+                    <span>Press Enter to send</span>
+                    <span id="characterCount">0/500</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Quick Actions -->
+        <div class="max-w-4xl mx-auto mt-4">
+            <h3 class="text-lg font-semibold text-gray-700 mb-2">Quick Questions</h3>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2">
+                <button class="quick-question px-3 py-2 bg-white border border-gray-200 rounded-lg hover:border-blue-300 hover:bg-blue-50 text-left transition-colors text-sm">
+                    How do I use Rust in Chromium codebase?
+                </button>
+                <button class="quick-question px-3 py-2 bg-white border border-gray-200 rounded-lg hover:border-blue-300 hover:bg-blue-50 text-left transition-colors text-sm">
+                    Any guidelines regarding C++?
+                </button>
+                <button class="quick-question px-3 py-2 bg-white border border-gray-200 rounded-lg hover:border-blue-300 hover:bg-blue-50 text-left transition-colors text-sm">
+                    Tell me about life of a Chromium Developer
+                </button>
+                <button class="quick-question px-3 py-2 bg-white border border-gray-200 rounded-lg hover:border-blue-300 hover:bg-blue-50 text-left transition-colors text-sm">
+                    Where is Commit Checklist?
+                </button>
+                <button class="quick-question px-3 py-2 bg-white border border-gray-200 rounded-lg hover:border-blue-300 hover:bg-blue-50 text-left transition-colors text-sm">
+                    Is there guide to Chromium checkout and build?
+                </button>
+                <button class="quick-question px-3 py-2 bg-white border border-gray-200 rounded-lg hover:border-blue-300 hover:bg-blue-50 text-left transition-colors text-sm">
+                    Is there Web Assembly?
+                </button>
+            </div>
+        </div>
+
+        <!-- Status Indicator -->
+        <div id="statusIndicator" class="fixed bottom-4 right-4 hidden">
+            <div class="bg-blue-600 text-white px-4 py-2 rounded-lg shadow-lg flex items-center space-x-2">
+                <div class="animate-spin rounded-full h-4 w-4 border-b-2 border-white"></div>
+                <span>Processing your question...</span>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="text-center mt-4 text-gray-500 text-sm">
+            <p>AI FAQ ChatBot • Powered by <a href="https://tactica.xyz">TacTicA</a> • 
+                <a href="https://github.com/optiklab" class="text-blue-600 hover:underline">Learn More</a>
+            </p>
+        </footer>
+    </div>
+    <!-- ONNX Runtime Web -->
+    <script src="https://cdn.jsdelivr.net/npm/onnxruntime-web@1.19.0/dist/ort.min.js"
+            integrity=""
+            crossorigin="anonymous"></script>
+    <script src="js/chatbot.js?v=6"></script>
+</body>
+</html>

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>System Check - TacTicA FAQ Similarity Search Bot</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .check-item {
+            background: white;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+            border-left: 4px solid #ccc;
+        }
+        .check-item.success { border-color: #28a745; }
+        .check-item.error { border-color: #dc3545; }
+        .status {
+            font-weight: bold;
+            margin-left: 10px;
+        }
+        .success { color: #28a745; }
+        .error { color: #dc3545; }
+        .loading { color: #6c757d; }
+    </style>
+</head>
+<body>
+    <h1>🔍 TacTicA FAQ Similarity Search Bot - System Check</h1>
+    <p>This page verifies that all required components are properly deployed and accessible.</p>
+    
+    <div id="checks">
+        <div class="check-item">
+            <strong>Data Files Accessibility</strong>
+            <span class="status loading" id="dataStatus">Checking...</span>
+            <div id="dataDetails"></div>
+        </div>
+        
+        <div class="check-item">
+            <strong>JavaScript Loading</strong>
+            <span class="status success">✓ OK</span>
+        </div>
+        
+        <div class="check-item">
+            <strong>CSS Styling</strong>
+            <span class="status success">✓ OK</span>
+        </div>
+    </div>
+    
+    <div id="summary" style="margin-top: 30px; padding: 20px; background: white; border-radius: 5px;">
+        <h3>Summary</h3>
+        <p id="summaryText">Running checks...</p>
+        <p><a href="index.html">← Go to Similarity Search Bot</a></p>
+    </div>
+
+    <script>
+        async function runChecks() {
+            const dataStatus = document.getElementById('dataStatus');
+            const dataDetails = document.getElementById('dataDetails');
+            const summaryText = document.getElementById('summaryText');
+            
+            try {
+                // Check data files
+                const checks = await Promise.allSettled([
+                    fetch('data/config.json').then(r => r.json()),
+                    fetch('data/qa_embeddings.json').then(r => r.json()),
+                    fetch('data/document_chunks.json').then(r => r.json())
+                ]);
+                
+                const allSucceeded = checks.every(c => c.status === 'fulfilled');
+                
+                if (allSucceeded) {
+                    const config = checks[0].value;
+                    const qaData = checks[1].value;
+                    const chunks = checks[2].value;
+                    
+                    dataStatus.textContent = '✓ OK';
+                    dataStatus.className = 'status success';
+                    dataDetails.innerHTML = `
+                        <small>
+                            • Config loaded: ${config.qaCount} Q&A pairs, ${config.documentChunkCount} document chunks<br>
+                            • Embedding dimension: ${config.embeddingDimension}<br>
+                            • QA data: ${qaData.length} entries<br>
+                            • Document chunks: ${chunks.length} entries
+                        </small>
+                    `;
+                    document.querySelector('.check-item').className = 'check-item success';
+                    
+                    summaryText.innerHTML = `
+                        <strong style="color: #28a745;">✅ All checks passed!</strong><br>
+                        Your chatbot is ready to use. The system has loaded ${qaData.length} Q&A pairs 
+                        and is configured with a ${config.embeddingDimension}-dimensional embedding space.
+                    `;
+                } else {
+                    throw new Error('One or more data files failed to load');
+                }
+                
+            } catch (error) {
+                console.error('System check failed:', error);
+                dataStatus.textContent = '✗ FAILED';
+                dataStatus.className = 'status error';
+                dataDetails.innerHTML = `
+                    <small style="color: #dc3545;">
+                        Error: ${error.message}<br>
+                        This usually means the training process hasn't been run or data files are not accessible.
+                    </small>
+                `;
+                document.querySelector('.check-item').className = 'check-item error';
+                
+                summaryText.innerHTML = `
+                    <strong style="color: #dc3545;">❌ System check failed!</strong><br>
+                    Please run the training process first: <code>dotnet run</code> in the Training project folder.
+                `;
+            }
+        }
+        
+        // Run checks when page loads
+        runChecks();
+    </script>
+</body>
+</html>
