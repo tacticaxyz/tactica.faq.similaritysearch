@@ -1,0 +1,2 @@
+URL:https://source.chromium.org/chromium/chromium/src/+/main:third_party\tflite\src\third_party\xla\xla\service\gpu\transforms\README.md
+This folder consolidates GPU specific HLO transformation passes.

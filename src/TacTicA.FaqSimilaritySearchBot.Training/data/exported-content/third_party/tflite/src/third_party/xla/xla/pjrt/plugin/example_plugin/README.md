@@ -1,0 +1,2 @@
+URL:https://source.chromium.org/chromium/chromium/src/+/main:third_party\tflite\src\third_party\xla\xla\pjrt\plugin\example_plugin\README.md
+Basics on how to write all the boilerplate code required to make a PJRT plugin.

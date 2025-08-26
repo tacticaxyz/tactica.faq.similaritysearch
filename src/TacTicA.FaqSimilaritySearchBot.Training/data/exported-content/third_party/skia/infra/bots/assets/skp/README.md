@@ -1,0 +1,2 @@
+URL:https://source.chromium.org/chromium/chromium/src/+/main:third_party\skia\infra\bots\assets\skp\README.md
+Humans shouldn't have to call this - the RecreateSKPs bot calls this, e.g. https://skia-review.googlesource.com/c/9515/

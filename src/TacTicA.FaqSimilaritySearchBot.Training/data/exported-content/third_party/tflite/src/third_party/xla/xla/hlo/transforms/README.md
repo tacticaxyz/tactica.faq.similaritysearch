@@ -1,0 +1,2 @@
+URL:https://source.chromium.org/chromium/chromium/src/+/main:third_party\tflite\src\third_party\xla\xla\hlo\transforms\README.md
+This folder consolidates hardware independent HLO transformation passes.

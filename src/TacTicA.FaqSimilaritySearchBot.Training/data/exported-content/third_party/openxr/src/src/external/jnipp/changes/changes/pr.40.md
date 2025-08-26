@@ -1,0 +1,2 @@
+URL:https://source.chromium.org/chromium/chromium/src/+/main:third_party\openxr\src\src\external\jnipp\changes\changes\pr.40.md
+Stop using `std::basic_string<jchar>` internally, because it is `std::basic_string<unsigned short>` on some platforms, and this specialization is not technically provided by the standard library. libc++ is removing support for it, so this internal change is required to continue to compile against libc++. In place of it, use `std::vector<jchar>`.

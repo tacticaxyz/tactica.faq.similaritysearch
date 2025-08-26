@@ -1,0 +1,14 @@
+URL:https://source.chromium.org/chromium/chromium/src/+/main:third_party\perfetto\docs\_coverpage.md
+# Perfetto
+
+![logo](logo.png ':size=300')
+
+> Performance instrumentation and tracing for Android, Linux and Chrome
+
+* Open-source project for platform tracing
+* Trace processing and analysis
+* Web-based trace viewer UI
+
+[Docs](#perfetto-performance-instrumentation-and-tracing)
+[Sources](https://github.com/google/perfetto)
+[Trace viewer UI](https://ui.perfetto.dev)
