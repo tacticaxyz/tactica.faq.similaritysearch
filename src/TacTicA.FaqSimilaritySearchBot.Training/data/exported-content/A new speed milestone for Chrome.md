@@ -1,0 +1,28 @@
+URL:https://blog.chromium.org/2022/03/a-new-speed-milestone-for-chrome.html
+# A new speed milestone for Chrome
+- **Published**: 2022-03-07T09:22:00.003-08:00
+[![](https://blogger.googleusercontent.com/img/a/AVvXsEivSR_V1Ziv2JzX0XP-K7q2qzwduBbuqdg-jP_VyxY-MHXyRA-mcZ-TsEhCsFLsJl7yv1XR1GJ6OsNinkIbJxR5R6yB0CdLp9Kijue908R-AWb26hANpMJvVPQY96qtiCGRFDAla4lWLzvLt02kUipX_TRfnIB64qIL6-hiejAnaBiQGTk-9Su4MZZwiQ=w564-h234)](https://blogger.googleusercontent.com/img/a/AVvXsEivSR_V1Ziv2JzX0XP-K7q2qzwduBbuqdg-jP_VyxY-MHXyRA-mcZ-TsEhCsFLsJl7yv1XR1GJ6OsNinkIbJxR5R6yB0CdLp9Kijue908R-AWb26hANpMJvVPQY96qtiCGRFDAla4lWLzvLt02kUipX_TRfnIB64qIL6-hiejAnaBiQGTk-9Su4MZZwiQ=s4501)
+
+  
+  
+*Everyday, billions of people around the world turn to Chrome to get things done quickly on their devices, whether [shopping](https://www.blog.google/products/chrome/5-tips-finish-your-holiday-shopping-chrome/) for a new pair of headphones or pulling together a sales report for [work](https://www.blog.google/products/chrome/more-helpful-chrome-throughout-your-workday/). Nothing is more frustrating than having a slow experience while browsing the web. That’s why Chrome has always been focused on building the fastest possible browser since [its launch in 2008](https://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html), without compromising on feature functionality or security. In our first [The Fast and the Curious](https://blog.chromium.org/search/label/the%20fast%20and%20the%20curious) post of 2022, we are thrilled to celebrate how in the M99 release of Chrome we were able to substantially increase the speed of Chrome across all major platforms.*  
+We go deep on every platform where Chrome runs to provide the fastest possible experience. We’re excited to announce that in M99, Chrome on Mac has achieved the highest score to date of any browser – 300 – in Apple’s [Speedometer](https://browserbench.org/Speedometer2.0/) browser responsiveness benchmark.  
+  
+Building on many performance changes over the last year, we enabled [ThinLTO](https://blog.chromium.org/2021/12/faster-chrome-let-the-compiler-do-the-work.html#:~:text=But%20we%20can%20do%20more%20(ThinLTO)) in M99, a build optimization technique that inlines speed-critical parts of the code base, even when they span multiple files or libraries. The result? An additional across-the-board speed bump that makes Chrome 7% faster than current builds of Safari. Combined with recent graphics optimizations (namely, pass-through decoder and out-of-process rasterization), our tests have also shown Chrome’s graphics performance to be 15% faster than Safari. Overall, since launching Chrome on M1-based Macs in late 2020, Chrome is now 43% faster than it was just 17 months ago!
+
+[![](https://blogger.googleusercontent.com/img/a/AVvXsEjX8Hmp7qxO9OifS66gENpGRMjACuwoMAZFDebrhd493GJIoEkzXcA5G6vktKshP9Jj4JS9d0kLYNI6LBUj3DXN6euIFTmSjxmCzfYgwRvAFqzZY-PaEODvgz3-q8n_b7UW4B6WaznM0SDgKqdVV9RdQ2VTJHNUyGs-aZvkFPJmyjw_j2kd3-F-NszJ3Q=s320)](https://blogger.googleusercontent.com/img/a/AVvXsEjX8Hmp7qxO9OifS66gENpGRMjACuwoMAZFDebrhd493GJIoEkzXcA5G6vktKshP9Jj4JS9d0kLYNI6LBUj3DXN6euIFTmSjxmCzfYgwRvAFqzZY-PaEODvgz3-q8n_b7UW4B6WaznM0SDgKqdVV9RdQ2VTJHNUyGs-aZvkFPJmyjw_j2kd3-F-NszJ3Q=s1080)
+
+  
+
+Two of the other recent major contributors to Chrome’s speed are the [V8 Sparkplug compiler and short builtin calls](https://blog.chromium.org/2021/05/chrome-is-faster-in-m91.html). Sparkplug is a new mid-tier JavaScript compiler for V8 that generates efficient code with low compilation overhead. Short builtin calls are used by the V8 JavaScript engine to optimize the placement of generated code inside the device’s memory. This technique boosts performance by avoiding indirect jumps when calling functions and makes a substantial difference on Apple M1-based Macs.  
+  
+Chrome continues to get faster on Android as well. Loading a page now takes 15% less time, thanks to prioritizing critical navigation moments on the browser user interface thread. Last year we also reduced startup time for Chrome on Android by 13% using [Freeze-Dried Tabs](https://blog.chromium.org/2021/03/advanced-memory-management-and-more.html#:~:text=Finally%2C%20we%E2%80%99ve%20built%20a%20way%20for%20Chrome%20on%20Android%20to%20start%20up%2013%25%20faster%3A%20Freeze%2DDried%20Tabs.). This approach conserves resources across the board by using a lightweight version of tabs on load, while the actual tab loads in the background. Finally, we were able to improve speed and memory usage using [Isolated Splits](https://blog.chromium.org/2021/11/chrome-android-faster-launch-times-less-memory.html), which improved startup time by preloading the majority of the browser process code on a background thread.  
+  
+We know that benchmarks are just one of many ways of measuring the speed of a browser. At the end of the day, what matters most is that Chrome is actually faster and more efficient in everyday usage, so we’ll continue to invest in innovative performance improvements that push the envelope of what’s possible in modern computing.  
+  
+Posted by Max Christoff, Senior Director, Chrome Engineering  
+  
+
+*Data source for Mac statistics: [Speedometer 2.0](https://browserbench.org/Speedometer2.0/) comparing Chrome 99.0.4812.0 --enable-features=CanvasOopRasterization --use-cmd-decoder=passthrough vs. Safari 15.2 17612.3.6.1.6 on a MacBook Pro (14", 2021), Apple M1 Max, 10 cores (8 performance, 2 efficiency), 32 GPU cores, 64gb device connected to power.*
+
+*Data source for Android statistics: [Real-world data](https://www.google.com/chrome/privacy/whitepaper.html#usagestats) anonymously aggregated from Chrome clients.*

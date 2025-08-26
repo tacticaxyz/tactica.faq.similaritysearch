@@ -1,0 +1,10 @@
+URL:https://blog.chromium.org/2009/03/times-they-are-changin.html
+# The Times They Are A-Changin'
+- **Published**: 2009-03-17T10:12:00.000-07:00
+Since we launched Google Chrome in September of 2008, we've tried to provide insight into the product and its development here on the Chromium blog. In that time, we've made a lot of changes to Google Chrome to provide a better experience, and now that change is coming to the Chromium Blog. This morning, we launched a new blog, called the [Google Chrome Blog](http://chrome.blogspot.com/).
+
+The Google Chrome Blog is intended to highlight points of interest to general users, in a way that is accessible to as wide an audience as possible. It's where you will read about new features that have been released, find interesting tips on how to get the most out of Google Chrome, and stay plugged into the product in general. Many of the types of posts that previously would have surfaced here, such as announcements of our [spell-checking improvements](http://blog.chromium.org/2009/02/spell-check-dictionary-improvements.html), will now appear on this new blog instead of the Chromium blog.
+
+Have no fear, the Chromium blog will still exist, but now with a renewed focus on the original purpose of the Chromium blog. The blog will be dedicated to announcements of things that are happening within the Chromium project itself. We've always felt it important that, as an open source product, we do our work in the open (from [general](http://dev.chromium.org/developers/discussion-groups) and [technical](http://dev.chromium.org/developers/technical-discussion-groups) discussion groups to [code reviews](http://codereview.chromium.org/) to [design docs](http://dev.chromium.org/developers/design-documents)) and stay in touch with the open source community. We're going to take this opportunity to try to be more communicative about project status, and news of note particularly to the developer community. We hope these changes make for a better experience for you, so please [let us know](http://www.google.com/support/chrome/bin/request.py?contact_type=feedback) what you think!
+
+Posted by Ian Fette, Product Manager

@@ -1,0 +1,14 @@
+URL:https://blog.chromium.org/2008/10/content-not-chrome.html
+# Content, not 'Chrome'
+- **Published**: 2008-10-15T14:06:00.000-07:00
+In user-experience lingo, 'chrome' refers to the frame of an application - the toolbars, titlebars and buttons that surround your primary content. In Google Chrome, we strove to eliminate as much of this as possible - not just because it leads to a simpler, cleaner design, but because we felt that your web applications should not appear to be constrained within the bulky cruft of a browser - they should feel like first-class applications on your desktop.
+
+This notion of "content, not chrome" was the mostly-quiet, sometimes-loud guiding principle behind our design; in combination with our tab-dragging work, it lead us to think of Google Chrome as a lightweight, tabbed window manager for the web. You may have noticed, for example, that Google Chrome doesn't use the traditional "browser titlebar - navigation toolbar - tabstrip" layout common in browsers today; in the Google Chrome world, we think of tabs as the equivalent of titlebars for web pages, and they deserve top-level placement and prominence, and should be the container for everything related to them - title, toolbar and content.
+
+To achieve the streamlined feel we were after, we knew we would have to cut some things, and while we had our own intuitions about what was and wasn't useful in current browsers, we had no idea how those ideas matched to reality. So in typical Google fashion, we turned to data; we ran long studies of the browsing habits of thousands of volunteers, compiled giant charts of what features people did and didn't use, argued over and incorporated that data into our designs and prototypes, ran experiments, watched how our test users reacted, listened to their feedback, and then repeated the cycle over and over and over again.
+
+Even the the more subtle parts of our first-level UI were subjected to similarly intense scrutiny - "what shade of blue best suits XP users", "should the tabs start 18 or 19 pixels below the top of the window?", "what's the correct offset between our buttons?". The answers to these questions were debated and tested for our entire development cycle, and we saw that opinions consistently differed greatly depending on whether we had been Windows 3.1, OS7 or even NeXT users and developers.
+
+We realize that browser UI is controversial and that despite our data-driven approach, much of it remains subjective, so we've documented many of the major UI decisions and thought processes behind Google Chrome on our [UX Site](http://dev.chromium.org/user-experience), we encourage you to read about our work, challenge our assumptions, and let us know how you think things could be improved.
+
+Posted by Glen Murphy, Software Engineer

@@ -1,0 +1,2 @@
+URL:https://source.chromium.org/chromium/chromium/src/+/main:third_party\blink\web_tests\virtual\cross-partition-blob-url\README.md
+This directory is for tests that need the BlockCrossPartitionBlobUrlFetching and EnforceNoopenerOnBlobURLNavigation feature enabled.

@@ -1,0 +1,8 @@
+URL:https://source.chromium.org/chromium/chromium/src/+/main:third_party\catapult\third_party\gsutil\third_party\google-auth-library-python-httplib2\SECURITY.md
+# Security Policy
+
+To report a security issue, please use [g.co/vulnz](https://g.co/vulnz).
+
+The Google Security Team will respond within 5 working days of your report on g.co/vulnz.
+
+We use g.co/vulnz for our intake, and do coordination and disclosure here using GitHub Security Advisory to privately discuss and fix the issue.

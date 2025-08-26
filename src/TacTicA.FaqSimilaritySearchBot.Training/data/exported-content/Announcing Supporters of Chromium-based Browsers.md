@@ -1,0 +1,20 @@
+URL:https://blog.chromium.org/2025/01/announcing-supporters-of-chromium-based.html
+# Announcing Supporters of Chromium-based Browsers
+- **Published**: 2025-01-09T09:01:00.000-08:00
+Since Google [announced](https://blog.chromium.org/2008/09/welcome-to-chromium_02.html) the Chromium project in 2008, we have been excited to build on the great foundations of open-source web browsers and contribute to the continued development of a rich web platform. Today, Chromium is used by hundreds of different projects globally, including big browsers like Chrome, home electronics from LG, application frameworks like Electron and even custom applications like Bloomberg terminals and SpaceX capsule control software.
+
+In 2024, Google made over [100,000 commits](https://chrome-commit-tracker.arthursonzogni.com/organizations/commits?repositories=chromium&organizations=all&grouping=yearly&colors=organizations&kind=author&metric=commit&chart=line&dates=2000-01-01,2024-12-05) to Chromium, accounting for ~94 percent of contributions. While we have no intention of reducing this investment, we continue to welcome others stepping up to invest more.
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeqerR7xRgvX5EFinZOzdwMKzR3rffD9F6fUVFNKnInPaw2JGqxUuGcSRjj_uwWDz4ToXCv-dHd-lxsVVI4HR0eEVvf5DaB4AM05spBOIzWRCrl9vh5588W0tTMC0a6FZaS_Z4SCIpXrZXlScC3pe7APdwdeAY8MVPb1QsSjKuwj_1SXCj-iNkNy24HPkT/s1600/Screenshot%202025-01-09%2010.34.33%20AM.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeqerR7xRgvX5EFinZOzdwMKzR3rffD9F6fUVFNKnInPaw2JGqxUuGcSRjj_uwWDz4ToXCv-dHd-lxsVVI4HR0eEVvf5DaB4AM05spBOIzWRCrl9vh5588W0tTMC0a6FZaS_Z4SCIpXrZXlScC3pe7APdwdeAY8MVPb1QsSjKuwj_1SXCj-iNkNy24HPkT/s1600/Screenshot%202025-01-09%2010.34.33%20AM.png)
+
+Google also continues to invest heavily in the shared infrastructure of the Open Source project to "keep the lights on", including having thousands of servers endlessly running millions of tests, responding to hundreds of incoming bugs per day, ensuring the important ones get fixed, and constantly investing in code health to keep the whole project maintainable. This work represents hundreds of millions of US dollars in annual investment just for maintenance costs before any new feature, innovation or other business priorities can be addressed.
+
+Sustainable funding of critical open source infrastructure remains a hot industry-wide topic of discussion and over the years we’ve heard from many companies and developers about how critical the Chromium project is to their work. They’ve also shared how they would like to support the continued health of the project, beyond direct engineering support.
+
+Today Google is pleased to announce our partnership with [The Linux Foundation](http://www.linuxfoundation.org) and the launch of the **[Supporters of Chromium-based Browsers](https://www.linuxfoundation.org/supporters-of-chromium-based-browsers)**. The goal of this initiative is to foster a sustainable environment of open-source contributions towards the health of the Chromium ecosystem and financially support a community of developers who want to contribute to the project, encouraging widespread support and continued technological progress for Chromium embedders.
+
+The **Supporters of Chromium-based Browsers** fund willbe managed by [the Linux Foundation](https://www.linuxfoundation.org/), following their long established practices for open governance, prioritizing transparency, inclusivity, and community-driven development. We’re thrilled to have Meta, Microsoft, and Opera on-board as the initial members to pledge their support.
+
+We welcome this additional investment into Chromium’s commons and we’re looking forward to working with the other members of the **Supporters of Chromium-based Browsers** to ensure that it meets the needs of the wider Chromium community. At the same time, we remain committed to being the responsible steward of the Chromium project and to the massive investment necessary to keep Chromium working well for the entire web industry.
+
+Posted by Shruthi Sreekanta 

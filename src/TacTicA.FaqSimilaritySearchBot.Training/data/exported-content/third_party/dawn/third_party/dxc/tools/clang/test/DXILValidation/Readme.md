@@ -1,0 +1,2 @@
+URL:https://source.chromium.org/chromium/chromium/src/+/main:third_party\dawn\third_party\dxc\tools\clang\test\DXILValidation\Readme.md
+Files in this directory are used by tests implemented ValidationTest.cpp

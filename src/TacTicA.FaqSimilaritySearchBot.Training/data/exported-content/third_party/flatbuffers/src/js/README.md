@@ -1,0 +1,2 @@
+URL:https://source.chromium.org/chromium/chromium/src/+/main:third_party\flatbuffers\src\js\README.md
+This folder is intentionally empty and will contain transpiled js modules in Common JS format after compiling with tsc.

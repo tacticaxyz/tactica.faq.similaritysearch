@@ -1,0 +1,6 @@
+URL:https://source.chromium.org/chromium/chromium/src/+/main:docs\sheriff.md
+# This document has moved
+
+NOTE: Please update your link to this file!
+
+[The new file location is //docs/gardener.md](gardener.md)

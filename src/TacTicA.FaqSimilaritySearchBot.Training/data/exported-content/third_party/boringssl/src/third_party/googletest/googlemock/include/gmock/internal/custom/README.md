@@ -1,0 +1,19 @@
+URL:https://source.chromium.org/chromium/chromium/src/+/main:third_party\boringssl\src\third_party\googletest\googlemock\include\gmock\internal\custom\README.md
+# Customization Points
+
+The custom directory is an injection point for custom user configurations.
+
+## Header `gmock-port.h`
+
+The following macros can be defined:
+
+### Flag related macros:
+
+*   `GMOCK_DECLARE_bool_(name)`
+*   `GMOCK_DECLARE_int32_(name)`
+*   `GMOCK_DECLARE_string_(name)`
+*   `GMOCK_DEFINE_bool_(name, default_val, doc)`
+*   `GMOCK_DEFINE_int32_(name, default_val, doc)`
+*   `GMOCK_DEFINE_string_(name, default_val, doc)`
+*   `GMOCK_FLAG_GET(flag_name)`
+*   `GMOCK_FLAG_SET(flag_name, value)`

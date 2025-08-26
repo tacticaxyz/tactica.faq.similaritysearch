@@ -1,0 +1,16 @@
+URL:https://blog.chromium.org/2010/09/google-chrome-frame-stable-and-speedy.html
+# Google Chrome Frame: Stable and Speedy
+- **Published**: 2010-09-22T10:39:00.000-07:00
+Today, we’re very happy to take the Beta tag off of Google Chrome Frame and promote it to the Stable channel. This stable channel release provides our most polished version of Google Chrome Frame to date, allowing users to access modern web technologies like HTML5 on legacy browsers. You now can [download the stable version of Google Chrome Frame](http://www.google.com/chromeframe/) and users of the Beta will be automatically updated to it in the days ahead. If you’re an IT administrator, we’ve also posted an [MSI installer](http://www.google.com/chromeframe/eula.html?msi=true) for deploying Google Chrome Frame in your network.  
+  
+When Google Chrome Frame [went into beta](http://blog.chromium.org/2010/06/google-chrome-frame-now-in-beta.html) in June, the team set aggressive goals for speed and stability before delivering a stable channel release. We wanted it to start much faster and to reduce crashes by an order of magnitude. After months of polishing, Google Chrome Frame now starts three times faster on Windows Vista and Windows 7 and the most common conflicts with other plug-ins have been fixed.  
+  
+Thanks in part to how simple it is to enable rendering with Google Chrome Frame, sites like [DeviantART](http://muro.deviantart.com/), [Hootsuite](http://hootsuite.com/), and [github](http://github.com/) have added support, and [Ruby on Rails](http://rubyonrails.org/) is making a better-performing, more standards compliant experience the default for all users of Rails apps. Google applications like Orkut, Google Docs, and YouTube have already begun adding Google Chrome Frame support. Gmail and Google Calendar are planning to adopt Google Chrome Frame in the near future to improve performance and ease the transition for users as they drop support for legacy browsers.  
+  
+  
+  
+A stable release is just the beginning for Google Chrome Frame. We’ve set aggressive goals for future releases: we’re working on making start-up speed even faster and removing the current requirement for administrator rights to install the plug-in. Expect more improvements and features in the near future, as we plan to release on the [same schedule](http://blog.chromium.org/2010/07/release-early-release-often.html) as Google Chrome.  
+  
+We would not have made it this far without strong community support and feedback. The users and contributors to the preview versions have helped improve and shape the product in huge ways. If you’d like to get involved or just see what’s coming soon, you can subscribe to the new [beta channel](http://www.google.com/chromeframe/?extra=betachannel) or if you are adventurous, try the [dev channel](http://www.google.com/chromeframe/?extra=devchannel) to experience the very latest. The whole team continues to listen to your feedback through our [project forum](https://groups.google.com/group/google-chrome-frame?pli=1) and we look forward to working with you to improve Google Chrome Frame even further.  
+  
+Posted by Tomas Gunnarsson, Software Engineer and Robert Shield, Software Engineer

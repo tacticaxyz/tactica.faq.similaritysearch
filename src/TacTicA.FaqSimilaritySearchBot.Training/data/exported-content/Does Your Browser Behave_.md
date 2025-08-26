@@ -1,0 +1,20 @@
+URL:https://blog.chromium.org/2010/03/does-your-browser-behave.html
+# Does Your Browser Behave?
+- **Published**: 2010-03-11T06:54:00.000-08:00
+Last June, we [launched](http://blog.chromium.org/2009/06/launching-sputnik-into-orbit.html) the [Sputnik](http://code.google.com/p/sputniktests/) JavaScript conformance test suite, a comprehensive set of more than 5000 tests. Today we're releasing a [test runner](http://sputnik.googlelabs.com/) for Sputnik, that allows you to easily run the complete test suite from within your browser.
+
+Sputnik touches all aspects of the JavaScript language defined in the 3rd edition of the [ECMA-262 spec](http://www.ecma-international.org/publications/standards/Ecma-262.htm). In many ways it can be seen as a continuation of and a complement to existing browser conformance testing tools, such as the [Acid3](http://acid3.acidtests.org/) test. While we are always focused on improving speed, Sputnik is not about testing how fast your browser executes JavaScript, but rather whether it does so correctly.
+
+Since we released the Sputnik tests as an open source project, the most requested feature has been the ability to run the tests in a browser, and we are excited to launch that functionality today. The new test runner lets you run the tests from a single URL and quickly see the results in your browser. This makes it easier both for users to see how well their browser conforms to the JavaScript spec, as well as for browser makers to find bugs and incompatibilities.
+
+You can also use Sputnik to [compare](http://sputnik.googlelabs.com/compare) browser conformance. For example, below is an experimental plot that compares five popular browsers and which we hope to update as new stable versions of the browsers are released. We created this chart by running Sputnik in each of the five browsers and then plotting each browser such that the fewer tests a browser fails the closer it is to the center and the more failing tests two browsers have in common the closer they are placed to each other. In this example, when running Sputnik on a Windows machine, we saw the following results: Opera 10.50: 78 failures, Safari 4: 159 failures, Chrome 4: 218 failures, Firefox 3.6: 259 failures and Internet Explorer 8: 463 failures.
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqnkF5PEjlPGevw8Q2qtmsKJWkn7WbOf5TpvcTnjmoO0tvJuv6b51cq-6aelfEGSlUoLHQtATP4sgTgantDD3xUFCZHBJFjnVPOI4YKKR2DH6j92vHk5cYGFrO8ZGly4caeN-lWQzjFwFd/s400/sputnik.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqnkF5PEjlPGevw8Q2qtmsKJWkn7WbOf5TpvcTnjmoO0tvJuv6b51cq-6aelfEGSlUoLHQtATP4sgTgantDD3xUFCZHBJFjnVPOI4YKKR2DH6j92vHk5cYGFrO8ZGly4caeN-lWQzjFwFd/s1600-h/sputnik.png)
+
+When we first released the Sputnik test suite we noted that to be compatible with the web you sometimes had to be incompatible with the JavaScript spec. Since then a new version of the spec, ECMAScript 5, has been released. Besides introducing a number of new language features, ECMAScript 5 changes how many existing features are defined to bring them in line with how they are used on the web. We are updating the Sputnik tests to reflect those changes so that 0 failures would mean not only compatibility with the spec but also compatibility with the web.
+
+We are excited to see the efforts on conformance testing by other browser makers. For example, where Sputnik tests the language features in ECMAScript 5 which were also present in ECMAScript 3, Microsoft's [es5conform](http://es5conform.codeplex.com/) project tests the new language features that were added in ECMAScript 5.
+
+Incompatibilities between browsers remain one of the biggest challenges for web developers. We hope that giving users and browser vendors an easy way to test their browser will help promote browser robustness and compatibility across the industry.
+
+Posted by Christian Plesner Hansen, Software Engineer

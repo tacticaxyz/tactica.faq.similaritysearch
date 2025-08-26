@@ -1,0 +1,2 @@
+URL:https://source.chromium.org/chromium/chromium/src/+/main:third_party\dawn\third_party\dxc\tools\clang\test\HLSLFileCheck\hlsl\preprocessor\version_defines\Readme.md
+The shaders in this directory test the builtin definition of version macros covering DXC version, HLSL versions, and target stage and version information.

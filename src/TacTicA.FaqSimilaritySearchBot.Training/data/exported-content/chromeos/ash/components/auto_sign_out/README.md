@@ -1,0 +1,2 @@
+URL:https://source.chromium.org/chromium/chromium/src/+/main:chromeos\ash\components\auto_sign_out\README.md
+Automatic Sign-Out is a ChromeOS enterprise feature which automatically signs a user out of their curerent session when their account signs in on a different ChromeOS device.

@@ -1,0 +1,11 @@
+URL:https://blog.chromium.org/2010/03/native-client-and-web-portability.html
+# Native Client and Web Portability
+- **Published**: 2010-03-17T15:15:00.000-07:00
+One of the most important principles of the web is portability: a web page renders and behaves the same way, regardless of the browser’s operating system or the type of hardware it’s running on. When we first released Native Client a year ago, we supported all popular operating systems (Windows, Mac OS X, and Linux) but only on machines with x86 processors. Today, we’re happy to say that you can build and run Native Client binaries for all of the most popular processor architectures: x86-32, x86-64, and ARM. Even better, our [initial benchmarks](http://nativeclient.googlecode.com/svn/data/site/NaCl_SFI.pdf) indicate that Native Client executables perform at 97% of the speed of an unmodified executable on both ARM and x86-64 processors. These results indicate that a browser running on virtually any modern computer or cell phone could run a fast, performance-sensitive Native Client application.
+
+However, we recognize that just running on today’s most popular architectures isn’t enough; if a new processor architecture emerges, it should be able to run all Native Client modules already released without requiring developers to recompile their code. That’s why we’re also [developing technology](http://nativeclient.googlecode.com/svn/data/site/pnacl.pdf) that will enable developers to distribute a portable representation of Native Client programs using LLVM bitcode. Using this technology, a browser running on any type of processor could translate the portable representation into a native binary without access to the source code of the program.
+
+If you’d like to review our instruction-set support or give us feedback about the technology, please visit our [project on Google Code](http://code.google.com/p/nativeclient) and join our [Google Group](https://groups.google.com/group/native-client-discuss).
+
+  
+Posted by Brad Chen, Native Client Team

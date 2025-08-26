@@ -1,0 +1,11 @@
+URL:https://source.chromium.org/chromium/chromium/src/+/main:third_party\oak\src\oak_functions_containers_app\README.md
+<!-- Oak Logo Start -->
+<!-- An HTML element is intentionally used since GitHub recommends this approach to handle different images in dark/light modes. Ref: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to -->
+<!-- markdownlint-disable-next-line MD033 -->
+<h1><picture><source media="(prefers-color-scheme: dark)" srcset="/docs/oak-logo/svgs/oak-containers-negative-colour.svg?sanitize=true"><source media="(prefers-color-scheme: light)" srcset="/docs/oak-logo/svgs/oak-containers.svg?sanitize=true"><img alt="Project Oak Containers Logo" src="/docs/oak-logo/svgs/oak-containers.svg?sanitize=true"></picture></h1>
+<!-- Oak Logo End -->
+
+# Oak Functions App For Oak Containers
+
+Implementation of the trusted part (inside the TEE) of the Oak Functions
+application on Oak Containers.

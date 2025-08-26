@@ -1,0 +1,36 @@
+URL:https://blog.chromium.org/2011/01/more-about-chrome-html-video-codec.html
+# More about the Chrome HTML Video Codec Change
+- **Published**: 2011-01-14T11:45:00.001-08:00
+There has been a lot of discussion regarding this week’s [announcement](http://blog.chromium.org/2011/01/html-video-codec-support-in-chrome.html) of upcoming changes to HTML video codec support in Chrome. The future of web video is an important topic, we welcome the debate, and want to address some of the questions raised.  
+  
+**Why is Google supporting WebM for the HTML <video> tag?**  
+  
+This week’s announcement was solely related to the HTML <video> tag, which is part of the emerging set of standards commonly referred to as “HTML5.” We believe there is great promise in the <video> tag and want to see it succeed. As it stands, the organizations involved in defining the HTML video standard are at an impasse. There is no agreement on which video codec should be the baseline standard. Firefox and Opera support the open WebM and Ogg Theora codecs and will not support H.264 due to its licensing requirements; Safari and IE9 support H.264. With this status quo, all publishers and developers using the <video> tag will be forced to support multiple formats.  
+  
+This is not an ideal situation and we want to see a viable baseline codec that all browsers can support. It is clear that there will not be agreement to specify H.264 as the baseline codec in the HTML video standard due to its licensing requirements. Furthermore, we genuinely believe that core web technologies need to be open and community developed to enable the same great innovation that has brought the web to where it is today. These facts led us to join the efforts of the web community and invest in an open alternative, WebM.  
+  
+**Why didn’t you select H.264 as the baseline codec for the HTML <video> tag in Chrome?**  
+  
+We acknowledge that H.264 has broader support in the publisher, developer, and hardware community today (though [support](http://www.webmproject.org/about/supporters/) across the ecosystem for WebM is growing rapidly). However, as stated above, there will not be agreement to make it the baseline in the HTML video standard due to its licensing requirements. To use and distribute H.264, browser and OS vendors, hardware manufacturers, and publishers who charge for content must pay significant royalties—with no guarantee the fees won’t increase in the future. To companies like Google, the license fees may not be material, but to the next great video startup and those in emerging markets these fees stifle innovation.  
+  
+But it's not just the license fees; an even more important consideration is the pace of innovation and what incentives drive development. No community development process is perfect, but it’s generally the case that the community-driven development of the core web platform components is done with user experience, security and performance in mind. When technology decisions are clouded by conflicting incentives to collect patent royalties, the priorities and outcome are less clear and the process tends to take a lot longer. This is not good for the long term health of web video. We believe the web will suffer if there isn't a truly open, rapidly evolving, community developed alternative and have made significant investments to ensure there is one.  
+  
+**Does this mean I will no longer be able to play H.264 videos in Chrome?**  
+  
+H.264 plays an important role in video and the vast majority of the H.264 videos on the web today are viewed in plug-ins such as Flash and Silverlight. These plug-ins are and will continue to be supported in Chrome. Our announcement was only related to the <video> tag, which is part of the emerging HTML platform. While the HTML video platform offers great promise, few sites use it today and therefore few users will be immediately impacted by this change.  
+  
+**Isn’t this just an effort by Google to control the web video format?**  
+  
+WebM is backed by many in the web community. Google views its role like any other community member and has no desire or intent to control the WebM format. Our goal is to see the HTML <video> tag become a first-class video platform. As with many other web platform efforts, we expect the majority of organizations and individuals contributing to WebM won’t be affiliated with Google or any single entity.  
+  
+Developers have already [created](http://blog.webmproject.org/2010/08/ffmpeg-vp8-decoder-implementation.html) high-quality alternative (yet compatible) implementations of WebM, and we think that kind of choice is great for everyone.  
+  
+**Won’t this decision force publishers to create multiple copies of their videos?**  
+  
+Some have expressed concern that our announcement will force publishers and developers to maintain multiple copies of their content when they otherwise would not have had to. Google is among the largest publishers of video content in the world, and as such we are sympathetic to this concern. Remember, Firefox and Opera have never supported H.264 due to its licensing requirements, they both support WebM and Ogg Theora. Therefore, unless publishers and developers using the HTML <video> tag don’t plan to support the large portion of the desktop and mobile web that use these browsers, they will have to support a format other than H.264 anyway (which is why we are working to establish a baseline codec for HTML video). More broadly, given the proliferation of devices, platforms, and connectivity types used to access the web, most content providers already produce multiple versions of their videos to optimize for these devices. We’re confident that the rapid evolution of HTML video and WebM over the coming year will make the combination a compelling solution for content providers and developers and the proliferation of WebM capable devices will make their investments highly leveraged.  
+  
+Bottom line, we are at an impasse in the evolution of HTML video. Having no baseline codec in the HTML specification is far from ideal. This is why we're joining others in the community to invest in WebM and encouraging every browser vendor to adopt it for the emerging HTML video platform (the WebM Project team will soon release plugins that enable WebM support in Safari and IE9 via the HTML standard <video> tag). Our choice was to make a decision today and invest in open technology to move the platform forward, or to accept the status quo of a fragmented platform where the pace of innovation may be clouded by the interests of those collecting royalties. Seen in this light, we are choosing to bet on the open web and are confident this decision will spur innovation that benefits users and the industry.  
+  
+Posted by Mike Jazayeri, Product Manager  
+
+Updated: Clarified that the Safari and IE9 plug-ins to be released by the WebM Project Team enable WebM playback via the HTML standard <video> tag canPlayType interface and not an alternate non-standard method.

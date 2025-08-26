@@ -1,0 +1,16 @@
+URL:https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html
+# An experiment in helping users and web publishers create deeper connections on Chrome
+- **Published**: 2021-05-19T08:01:00.001-07:00
+Today, people have many ways to keep up with their favorite websites, including subscribing to mailing lists, notifications and RSS. It’s a lot for any one person to manage, so we’re exploring how to simplify the experience of getting the latest and greatest from your favorite sites directly in Chrome, building on the open RSS web standard. Our vision is to help people build a direct connection with their favorite publishers and creators on the web.  
+  
+In the coming weeks, some Android users in the US on Chrome Canary may see an experimental Follow feature designed to help people get the latest content from sites they follow. Our goal for this feature is to allow people to follow the websites they care about, from the large publishers to the small neighborhood blogs, by tapping a Follow button in Chrome. When websites publish content, users can see updates from sites they have followed in a new Following section on the New Tab page:
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_VxGxLwYfNqVlfvsYcAUguLJqeARcva_ZhOMlrW-Uc8-41e0rj0BzkHSA69HVUoRAqE1wvORTl2crpYE_ZuS8R9KD91FfmLbihsZc29hi5wQ6jast0FJ2SnhL2tB1WfPZYYDLx8pMZdAk/w640-h557/WC+Chrome+blogpost+final.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_VxGxLwYfNqVlfvsYcAUguLJqeARcva_ZhOMlrW-Uc8-41e0rj0BzkHSA69HVUoRAqE1wvORTl2crpYE_ZuS8R9KD91FfmLbihsZc29hi5wQ6jast0FJ2SnhL2tB1WfPZYYDLx8pMZdAk/s2048/WC+Chrome+blogpost+final.png)
+
+  
+
+Keeping a site’s RSS [up-to-date](https://developers.google.com/search/blog/2014/10/best-practices-for-xml-sitemaps-rssatom) will ensure Chrome can provide the latest content to users with this experiment. We will provide more guidance to web publishers as we learn and evaluate whether this feature will graduate from an experiment to a broader rollout in Chrome.   
+  
+We welcome feedback from publishers, bloggers, creators, and citizens of the open web (like you!) on this experiment as we aim to build deeper engagement between users and web publishers in Chrome. You can also stay up-to-date and ask us questions via [@GoogleCreators](https://twitter.com/googlecreators) on Twitter or via email to webcreators@google.com. As part of this year’s Google I/O, we’ll be hosting a Meet Up for web publishers, creators and developers who would like to learn more, ask questions and share feedback. You can [sign up for I/O](https://events.google.com/io?lng=en) (free this year) and [register for the Following on the Open Web session](https://www.google.com/url?q=https://gdg.community.dev/events/details/google-io-community-lounge-meetups-presents-following-on-the-open-web-discussion-feedback/&sa=D&source=editors&ust=1621437836496000&usg=AOvVaw21OtSVY8MrF5KbwCBNO59i), being held on May 19 (today) at 11 AM PT.
+
+Posted by Janice Wong, Product Manager, Google Chrome

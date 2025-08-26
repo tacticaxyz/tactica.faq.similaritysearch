@@ -1,0 +1,17 @@
+URL:https://blog.chromium.org/2010/05/future-of-o3d.html
+# The future of O3D
+- **Published**: 2010-05-07T10:00:00.000-07:00
+We [launched](http://googlecode.blogspot.com/2009/04/toward-open-web-standard-for-3d.html) the O3D API about a year ago to start a discussion within the web community about establishing a new standard for 3D graphics on the web. Since then, we’ve also helped develop [WebGL](http://www.khronos.org/webgl/), a 3D graphics API based on OpenGL ES 2.0 that has gradually emerged as a standard, and is supported by other browser and hardware vendors like Mozilla, Apple and Opera.   
+  
+At Google, we’re deeply committed to implementing and advancing standards, so as of today, the O3D project is changing direction, evolving from its current plug-in implementation into a JavaScript library that runs on top of WebGL. Users and developers will still be able to download the O3D plug-in and source code for at least one year, but other than a maintenance release, we plan to stop developing O3D as a plug-in and focus on improving WebGL and O3D as a JavaScript library.  
+  
+We did not take this decision lightly. In initial discussions we had about WebGL, we were concerned that JavaScript would be too slow to drive a low-level API like OpenGL and we were convinced that a higher level approach like the O3D scene graph would yield better results. We were also cognizant of the lack of installed OpenGL drivers on many Windows machines, and that this could hamper WebGL’s adoption.   
+  
+Since then, JavaScript has become a lot faster. We've been very impressed by the demos that developers have created with WebGL, and with the [ANGLE](http://code.google.com/p/angleproject/) project, we believe that Chromium will be able to run WebGL content on Windows computers without having to rely on installed OpenGL drivers.  
+  
+The JavaScript implementation of O3D is still in its infancy, but you can find a copy of it on the [O3D project site](http://code.google.com/p/o3d/) and see it running some of the O3D samples from a WebGL enabled browser (alas, no [Beach Demo](http://www.youtube.com/watch?v=uofWfXOzX-g) yet). Because browsers lack some requisite functionality like compressed asset loading, not all the features of O3D can be implemented purely in JavaScript. We plan to work to give the browser this functionality, and all capabilities necessary for delivering high-quality 3D content.  
+  
+We’d like to thank the developers who have contributed to O3D by delivering valuable feedback, submitting changes to the plugin and developing applications. To help you convert your application to the new WebGL implementation of O3D, we will keep our [discussion group](https://groups.google.com/group/o3d-discuss?pli=1) open where our engineering team will answer your questions and provide you with technical advice. For those of you concerned about support for Internet Explorer, we’ll recommend using [Google Chrome Frame](http://code.google.com/chrome/chromeframe/) once it supports WebGL, and hope to see IE implement WebGL natively someday. We hope you will continue working with us and the rest of the WebGL community on moving 3D on the web forward.  
+  
+  
+Posted by Matt Papakipos, Engineering Director, and Vangelis Kokkevis, Software Engineer

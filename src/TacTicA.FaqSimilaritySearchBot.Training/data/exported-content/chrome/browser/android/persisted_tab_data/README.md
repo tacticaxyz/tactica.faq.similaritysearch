@@ -1,0 +1,2 @@
+URL:https://source.chromium.org/chromium/chromium/src/+/main:chrome\browser\android\persisted_tab_data\README.md
+PersistedTabData is a framework which enables developers to create Tab keyed objects which are persisted across restarts.

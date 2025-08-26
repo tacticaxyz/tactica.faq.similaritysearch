@@ -1,0 +1,2 @@
+URL:https://source.chromium.org/chromium/chromium/src/+/main:content\browser\reduce_accept_language\README.md
+A full README can be found at: [/components/reduce_accept_language/README.md](/components/reduce_accept_language/README.md)

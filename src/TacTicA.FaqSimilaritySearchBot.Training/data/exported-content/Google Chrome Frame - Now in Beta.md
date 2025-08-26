@@ -1,0 +1,14 @@
+URL:https://blog.chromium.org/2010/06/google-chrome-frame-now-in-beta.html
+# Google Chrome Frame - Now in Beta
+- **Published**: 2010-06-08T14:53:00.000-07:00
+Web developers have been itching to develop with HTML5 but have been held back by legacy browsers. [Google Chrome Frame](http://www.google.com/chromeframe/) can help break this impasse by allowing applications to target HTML5 on versions of Internet Explorer. Today, we’re excited to announce that Google Chrome Frame has graduated from Developer Preview into Beta.  
+  
+Since our [initial launch](http://blog.chromium.org/2009/09/introducing-google-chrome-frame.html), we've been listening to developers: Instead of adding new bells and whistles, we've fixed more than 200 bugs to make integration with Internet Explorer seamless while improving security, stability, and performance. For example, we’ve improved our handling of Internet Explorer’s InPrivate browsing, cache clearing, and cookie blocking. All of the enhancements and features of [Google Chrome 5.0](http://chrome.blogspot.com/2010/05/new-chrome-stable-release-welcome-mac.html) are available in Google Chrome Frame too, including HTML5 audio and video, canvas, geolocation, workers, and databases.  
+  
+As we've worked on these improvements, we’ve been excited to see sites adopting Google Chrome Frame, including [Meebo](http://www.meebo.com) and all the blogs hosted by [WordPress](http://www.wordpress.com). In addition to our launch partner Google Wave, some other Google properties, including Orkut and YouTube are also relying on Google Chrome Frame to deliver HTML5 experiences to millions of users.  
+  
+For those of you who want to develop HTML5 applications and deploy them broadly, we encourage you to [give Google Chrome Frame a try](http://www.google.com/chromeframe/). Existing users will be auto-updated to the beta, so if you downloaded Google Chrome Frame before, you’ll automatically get the new version. We’re also creating a new [dev channel](http://www.google.com/chromeframe/eula.html?extra=devchannel) release, where you can try out the cutting-edge features we’re developing. For information on getting started with Google Chrome Frame, our project [documentation](http://www.chromium.org/developers/how-tos/chrome-frame-getting-started) is the place to start.  
+  
+We’re always working hard to improve, so expect further enhancements and performance improvements in both the developer and beta versions in the coming weeks. You can help by giving us [feedback](https://groups.google.com/group/google-chrome-frame) and [filing bugs](http://code.google.com/p/chromium/issues/entry?template=ChromeFrame%20Issue), and we’ll have more to share in the days ahead.
+
+Posted by Amit Joshi, Software Engineer, and Alex Russell, Software Engineer

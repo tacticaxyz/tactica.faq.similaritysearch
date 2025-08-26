@@ -1,0 +1,2 @@
+URL:https://source.chromium.org/chromium/chromium/src/+/main:components\page_load_metrics\browser\observers\README.md
+See [`chrome/browser/page_load_metrics/observers/README.md`](/chrome/browser/page_load_metrics/observers/README.md)

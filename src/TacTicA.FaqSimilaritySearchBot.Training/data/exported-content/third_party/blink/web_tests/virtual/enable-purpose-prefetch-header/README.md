@@ -1,0 +1,2 @@
+URL:https://source.chromium.org/chromium/chromium/src/+/main:third_party\blink\web_tests\virtual\enable-purpose-prefetch-header\README.md
+This directory is for testing if the feature RemovePurposeHeaderForPrefetch is disabled due to a killswitch.  See https://crbug.com/420724819

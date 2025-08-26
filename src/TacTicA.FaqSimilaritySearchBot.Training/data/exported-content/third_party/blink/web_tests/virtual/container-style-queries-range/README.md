@@ -1,0 +1,2 @@
+URL:https://source.chromium.org/chromium/chromium/src/+/main:third_party\blink\web_tests\virtual\container-style-queries-range\README.md
+Test container queries with style range syntax flag disables, see https://github.com/w3c/csswg-drafts/issues/8376#issuecomment-2751161553.

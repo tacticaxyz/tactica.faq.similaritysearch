@@ -1,0 +1,16 @@
+URL:https://blog.chromium.org/2010/02/extending-google-chrome-25621-miles.html
+# Extending Google Chrome 25,621 Miles
+- **Published**: 2010-02-04T10:08:00.000-08:00
+At the end of 2009, we traveled around the world — to the Czech Republic, Russia, and Argentina — meeting with developers and talking to them about [Google Chrome Extensions](http://code.google.com/chrome/extensions/) and [HTML5](http://www.whatwg.org/specs/web-apps/current-work/).
+
+In the first leg of our trip, we headed to Europe for [Google Developer Day Prague](http://code.google.com/intl/cs/events/developerday/2009/home.html) and [Google Developer Day Moscow](http://code.google.com/intl/ru/events/developerday/2009/home.html) on November 6th and 10th. Google Developer Days are one-day events featuring seminars and office hours about Google developer products like Android, Google App Engine, and of course Google Chrome! More than 800 developers were on hand in Prague and more than 1,500 in Moscow to learn, among lots of other things, how to develop extensions for Google Chrome. Below is video of the talk Brian gave about extensions in Moscow. You can also watch [video of this talk translated into Russian](http://www.youtube.com/watch?v=H89xmKCP1wE) or [video of a similar talk from Prague](http://www.youtube.com/watch?v=-N_EpuoZmaw) and view [slides from Prague](http://dl.google.com/gdd/2009/intl/cs/GDD2009-Chrome-Extensions.pdf) or [slides from Moscow](http://dl.google.com/gdd/2009/intl/ru/GDD2009-Chrome-extensions.pdf).
+
+Our next and last stop was Buenos Aires for [Google DevFest Argentina](https://sites.google.com/a/mazalan.com.ar/devfest/). Google DevFests are more focused versions of Google Developer Days. On November 17th, another 800 or so developers attended this event. There, we covered the Google Chrome platform in a couple sessions — on HTML5 and extensions. Below are slides from the talk Mihai gave on HTML5. You can also view [slides from the extension talk](http://www.slideshare.net/mihaiionescu/google-chrome-extensions-devfest09).
+
+[HTML5 and Google Chrome - DevFest09](http://www.slideshare.net/mihaiionescu/html5-and-google-chrome-devfest09 "HTML5 and Google Chrome - DevFest09")
+
+View more [documents](http://www.slideshare.net/) from [mihaiionescu](http://www.slideshare.net/mihaiionescu).
+
+For us, the best part of being at these events was seeing and hearing about all the interest in Google Chrome from developers everywhere and all the cool things those developers are building with the browser. If you'd like to get involved too, there are a bunch of community-organized Google Chrome events going on now. Check out the [Google Technology User Group site](http://www.gtugs.org/) to find a group or [Meetup](http://www.meetup.com/) to find an event near you. And if there isn't a nearby group or event already, why not create your own! We have a [collection of hackathon-in-a-box resources](http://sites.google.com/site/hackathoninabox/chrome) to help you do so.
+
+Posted by Brian Kennish and Mihai Ionescu, Developer Advocates

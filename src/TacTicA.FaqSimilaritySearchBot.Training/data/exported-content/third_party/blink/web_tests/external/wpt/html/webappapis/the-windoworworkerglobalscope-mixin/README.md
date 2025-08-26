@@ -1,0 +1,2 @@
+URL:https://source.chromium.org/chromium/chromium/src/+/main:third_party\blink\web_tests\external\wpt\html\webappapis\the-windoworworkerglobalscope-mixin\README.md
+`self.crossOriginIsolated` is tested in `html/cross-origin-opener-policy/coep.https.html`, `html/cross-origin-opener-policy/no-https.html`, `html/infrastructure/safe-passing-of-structured-data/shared-array-buffers/no-coop-coep.https.any.js`, and `html/infrastructure/safe-passing-of-structured-data/shared-array-buffers/resources/nested-worker-success.js`.
