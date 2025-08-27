@@ -2,7 +2,7 @@
 
 A sophisticated AI-powered chatbot solution designed to help users quickly find answers to [Chromium codebase] questions. The bot uses vector embeddings and RAG (Retrieval Augmented Generation) to provide accurate, citation-backed responses.
 
-![Play with it In Production](https://tactica.xyz/#/similarity-search)
+[Play with it In Production]([https://tactica.xyz/#/similarity-search](https://tactica.xyz/#/similarity-search))
 
 This bot DOES NOT replace ChatGPT, Gemini, Copilot or other super-powerful models. Instead, it can quickly retrieve relevant information from your internal documents.
 
