@@ -132,6 +132,10 @@ dotnet build --configuration Release
 cd "[PATH_TO_SOURCES]\src\TacTicA.FaqSimilaritySearchBot.Training" ; dotnet run --configuration Release
 ```
 
+The process is super straightforward and NOT optimized. So it will run super slow... for couple of hours.
+
+![1](https://github.com/tacticaxyz/tactica.faq.similaritysearch/blob/main/images/builddb.gif)
+
 ### 4. Serve Locally
 
 Depending on the similarity search you want to use, make sure `$WebPath` in `build.ps1` points to the right Web Project:
