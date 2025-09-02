@@ -1,0 +1,3917 @@
+Q: How to use rust in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:docs/rust.md
+
+Q: How to define rust ffi interface in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:docs/rust-ffi.md
+
+Q: rust toolchain in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:docs/security/rust-toolchain.md
+
+Q: Chromium os developer library guides on rust?
+A: https://source.chromium.org/chromium/chromium/src/+/main:docs/website/site/chromium-os/developer-library/guides/rust/rust-on-cros/index.md
+
+Q: Memory safety rust and c interoperability in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:docs/website/site/Home/chromium-security/memory-safety/rust-and-c-interoperability/index.md
+
+Q: What is rust styleguide in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:styleguide/rust/rust.md
+
+Q: How is testing gtest interop rust in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:testing/rust_gtest_interop/README.md
+
+Q: rust in boringssl crypto in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/boringssl/src/rust/bssl-crypto/README.md
+
+Q: rust in boringssl in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/boringssl/src/rust/bssl-sys/README.md
+
+Q: How rust used in flatbuffers in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/flatbuffers/src/docs/source/RustUsage.md
+
+Q: How rust used in third party flatbuffers in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/flatbuffers/src/rust/flatbuffers/README.md
+
+Q: How rust used in third party oak proto in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/oak/src/oak_proto_rust/README.md
+
+Q: How rust used in third party oak opentelemetry in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/oak/src/third_party/opentelemetry/opentelemetry-rust/README.md
+
+Q: How rust used in third party hypervisor firmware virtio in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/oak/src/third_party/rust-hypervisor-firmware-virtio/README.md
+
+Q: How rust used in third party protobuf in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/protobuf/rust/release_crates/protobuf/README.md
+
+Q: How to compile C C++ dependencies for rust in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/cc/README.md
+
+Q: How rust used in third party adler2 in Chromium crates?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/adler2-v2/README.md
+
+Q: How rust used in third party anstyle in Chromium crates?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/anstyle-v1/README.md
+
+Q: How rust used in third party anyhow in Chromium crates?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/anyhow-v1/README.md
+
+Q: How rust used in third party arrayvec in Chromium crates?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/arrayvec-v0_7/README.md
+
+Q: How rust used in third party autocfg v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/autocfg-v1/README.md
+
+Q: How rust used in third party base64 v0 22 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/base64-v0_22/README.md
+
+Q: How rust used in third party bitflags v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/bitflags-v1/README.md
+
+Q: How rust used in third party bitflags v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/bitflags-v2/README.md
+
+Q: How rust used in third party bytemuck derive v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/bytemuck_derive-v1/README.md
+
+Q: How rust used in third party bytemuck v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/bytemuck-v1/README.md
+
+Q: How rust used in third party bytes v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/bytes-v1/README.md
+
+Q: How rust used in third party calendrical calculations v0 2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/calendrical_calculations-v0_2/README.md
+
+Q: How rust used in third party cfg if v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/cfg-if-v1/README.md
+
+Q: How rust used in third party clap builder v4 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/clap_builder-v4/README.md
+
+Q: How rust used in third party clap lex v0 7 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/clap_lex-v0_7/README.md
+
+Q: How rust used in third party clap v4 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/clap-v4/README.md
+
+Q: How rust used in third party codespan reporting v0 12 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/codespan-reporting-v0_12/README.md
+
+Q: How rust used in third party combine v4 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/combine-v4/README.md
+
+Q: How rust used in third party core maths v0 1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/core_maths-v0_1/README.md
+
+Q: How rust used in third party crc32fast v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/crc32fast-v1/README.md
+
+Q: How rust used in third party cxxbridge macro v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/cxxbridge-macro-v1/README.md
+
+Q: How rust used in third party cxx v1 .bcr in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/cxx-v1/.bcr/README.md
+
+Q: How rust used in third party cxx v1 .devcontainer in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/cxx-v1/.devcontainer/README.md
+
+Q: How rust used in third party cxx v1 .vscode in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/cxx-v1/.vscode/README.md
+
+Q: How rust used in third party cxx v1 book in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/cxx-v1/book/README.md
+
+Q: How rust used in third party cxx v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/cxx-v1/README.md
+
+Q: How rust used in third party cxx v1 tests in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/cxx-v1/tests/README.md
+
+Q: How rust used in third party derivre v0 3 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/derivre-v0_3/README.md
+
+Q: How rust used in third party diplomat core v0 12 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/diplomat_core-v0_12/README.md
+
+Q: How rust used in third party diplomat runtime v0 12 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/diplomat-runtime-v0_12/README.md
+
+Q: How rust used in third party diplomat v0 12 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/diplomat-v0_12/README.md
+
+Q: How rust used in third party displaydoc v0 2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/displaydoc-v0_2/README.md
+
+Q: How rust used in third party encoding rs v0 8 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/encoding_rs-v0_8/README.md
+
+Q: How rust used in third party equivalent v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/equivalent-v1/README.md
+
+Q: How rust used in third party fdeflate v0 3 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/fdeflate-v0_3/README.md
+
+Q: How rust used in third party fend core v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/fend-core-v1/README.md
+
+Q: How rust used in third party fixed decimal v0 7 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/fixed_decimal-v0_7/README.md
+
+Q: How rust used in third party flate2 v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/flate2-v1/README.md
+
+Q: How rust used in third party foldhash v0 1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/foldhash-v0_1/README.md
+
+Q: How rust used in third party font types v0 9 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/font-types-v0_9/README.md
+
+Q: How rust used in third party hashbrown v0 15 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/hashbrown-v0_15/README.md
+
+Q: How rust used in third party heck v0 5 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/heck-v0_5/README.md
+
+Q: How rust used in third party hex v0 4 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/hex-v0_4/README.md
+
+Q: How rust used in third party icu calendar data v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_calendar_data-v2/README.md
+
+Q: How rust used in third party icu calendar v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_calendar-v2/README.md
+
+Q: How rust used in third party icu casemap data v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_casemap_data-v2/README.md
+
+Q: How rust used in third party icu casemap v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_casemap-v2/README.md
+
+Q: How rust used in third party icu collections v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_collections-v2/README.md
+
+Q: How rust used in third party icu decimal data v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_decimal_data-v2/README.md
+
+Q: How rust used in third party icu decimal v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_decimal-v2/README.md
+
+Q: How rust used in third party icu experimental data v0 3 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_experimental_data-v0_3/README.md
+
+Q: How rust used in third party icu experimental v0 3 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_experimental-v0_3/README.md
+
+Q: How rust used in third party icu list data v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_list_data-v2/README.md
+
+Q: How rust used in third party icu list v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_list-v2/README.md
+
+Q: How rust used in third party icu locale core v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_locale_core-v2/README.md
+
+Q: How rust used in third party icu locale data v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_locale_data-v2/README.md
+
+Q: How rust used in third party icu locale v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_locale-v2/README.md
+
+Q: How rust used in third party icu normalizer data v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_normalizer_data-v2/README.md
+
+Q: How rust used in third party icu normalizer v2 benches data in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_normalizer-v2/benches/data/README.md
+
+Q: How rust used in third party icu normalizer v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_normalizer-v2/README.md
+
+Q: How rust used in third party icu normalizer v2 tests data in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_normalizer-v2/tests/data/README.md
+
+Q: How rust used in third party icu pattern v0 4 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_pattern-v0_4/README.md
+
+Q: How rust used in third party icu plurals data v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_plurals_data-v2/README.md
+
+Q: How rust used in third party icu plurals v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_plurals-v2/README.md
+
+Q: How rust used in third party icu properties data v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_properties_data-v2/README.md
+
+Q: How rust used in third party icu properties v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_properties-v2/README.md
+
+Q: How rust used in third party icu provider v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/icu_provider-v2/README.md
+
+Q: How rust used in third party indexmap v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/indexmap-v2/README.md
+
+Q: How rust used in third party indexmap v2 RELEASES in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/indexmap-v2/RELEASES.md
+
+Q: How rust used in third party itertools v0 11 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/itertools-v0_11/README.md
+
+Q: How rust used in third party itoa v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/itoa-v1/README.md
+
+Q: How rust used in third party ixdtf v0 6 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/ixdtf-v0_6/README.md
+
+Q: How rust used in third party jiff tzdb v0 1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/jiff-tzdb-v0_1/README.md
+
+Q: How rust used in third party lazy static v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/lazy_static-v1/README.md
+
+Q: How rust used in third party libc v0 2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/libc-v0_2/README.md
+
+Q: How rust used in third party libm v0 2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/libm-v0_2/README.md
+
+Q: How rust used in third party litemap v0 8 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/litemap-v0_8/README.md
+
+Q: How rust used in third party llguidance v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/llguidance-v1/README.md
+
+Q: How rust used in third party llguidance v1 json in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/llguidance-v1/src/json/README.md
+
+Q: How rust used in third party llguidance v1 lark in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/llguidance-v1/src/lark/README.md
+
+Q: How rust used in third party log v0 4 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/log-v0_4/README.md
+
+Q: How rust used in third party memchr v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/memchr-v2/README.md
+
+Q: How rust used in third party miniz oxide v0 8 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/miniz_oxide-v0_8/Readme.md
+
+Q: How rust used in third party num bigint v0 4 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/num-bigint-v0_4/README.md
+
+Q: How rust used in third party num integer v0 1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/num-integer-v0_1/README.md
+
+Q: How rust used in third party num rational v0 4 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/num-rational-v0_4/README.md
+
+Q: How rust used in third party num traits v0 2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/num-traits-v0_2/README.md
+
+Q: How rust used in third party png v0 18 benches in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/png-v0_18/benches/README.md
+
+Q: How rust used in third party png v0 18 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/png-v0_18/README.md
+
+Q: How rust used in third party potential utf v0 1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/potential_utf-v0_1/README.md
+
+Q: How rust used in third party proc macro2 v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/proc-macro2-v1/README.md
+
+Q: How rust used in third party prost derive v0 14 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/prost-derive-v0_14/README.md
+
+Q: How rust used in third party prost v0 14 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/prost-v0_14/README.md
+
+Q: How rust used in third party qr code v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/qr_code-v2/README.md
+
+Q: How rust used in third party quote v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/quote-v1/README.md
+
+Q: How rust used in third party read fonts v0 32 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/read-fonts-v0_32/README.md
+
+Q: How rust used in third party regex automata v0 4 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/regex-automata-v0_4/README.md
+
+Q: How rust used in third party regex automata v0 4 tests gen in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/regex-automata-v0_4/tests/gen/README.md
+
+Q: How rust used in third party regex syntax v0 8 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/regex-syntax-v0_8/README.md
+
+Q: How rust used in third party rustc demangle v0 1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/rustc-demangle-v0_1/README.md
+
+Q: How rust used in third party rustversion v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/rustversion-v1/README.md
+
+Q: How rust used in third party ryu v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/ryu-v1/README.md
+
+Q: How rust used in third party serde derive v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/serde_derive-v1/README.md
+
+Q: How rust used in third party serde json lenient v0 2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/serde_json_lenient-v0_2/README.md
+
+Q: How rust used in third party serde json lenient v0 2 tests in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/serde_json_lenient-v0_2/tests/README.md
+
+Q: How rust used in third party serde json v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/serde_json-v1/README.md
+
+Q: How rust used in third party serde v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/serde-v1/README.md
+
+Q: How rust used in third party simd adler32 v0 3 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/simd-adler32-v0_3/README.md
+
+Q: How rust used in third party skrifa v0 34 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/skrifa-v0_34/README.md
+
+Q: How rust used in third party small ctor v0 1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/small_ctor-v0_1/README.md
+
+Q: How rust used in third party smallvec v1 debug metadata in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/smallvec-v1/debug_metadata/README.md
+
+Q: How rust used in third party smallvec v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/smallvec-v1/README.md
+
+Q: How rust used in third party stable deref trait v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/stable_deref_trait-v1/README.md
+
+Q: How rust used in third party static assertions v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/static_assertions-v1/README.md
+
+Q: How rust used in third party strck v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/strck-v1/README.md
+
+Q: How rust used in third party strsim v0 11 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/strsim-v0_11/README.md
+
+Q: How rust used in third party strum macros v0 27 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/strum_macros-v0_27/README.md
+
+Q: How rust used in third party strum v0 27 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/strum-v0_27/README.md
+
+Q: How rust used in third party subtle v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/subtle-v2/README.md
+
+Q: How rust used in third party symphonia bundle flac v0 5 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/symphonia-bundle-flac-v0_5/README.md
+
+Q: How rust used in third party symphonia core v0 5 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/symphonia-core-v0_5/README.md
+
+Q: How rust used in third party symphonia metadata v0 5 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/symphonia-metadata-v0_5/README.md
+
+Q: How rust used in third party symphonia utils xiph v0 5 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/symphonia-utils-xiph-v0_5/README.md
+
+Q: How rust used in third party symphonia v0 5 examples in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/symphonia-v0_5/examples/README.md
+
+Q: How rust used in third party symphonia v0 5 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/symphonia-v0_5/README.md
+
+Q: How rust used in third party synstructure v0 13 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/synstructure-v0_13/README.md
+
+Q: How rust used in third party syn v2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/syn-v2/README.md
+
+Q: How rust used in third party temporal capi v0 0 12 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/temporal_capi-v0_0_12/README.md
+
+Q: How rust used in third party temporal rs v0 0 12 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/temporal_rs-v0_0_12/README.md
+
+Q: How rust used in third party temporal rs v0 0 12 tools in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/temporal_rs-v0_0_12/tools/README.md
+
+Q: How rust used in third party termcolor v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/termcolor-v1/README.md
+
+Q: How rust used in third party timezone provider v0 0 12 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/timezone_provider-v0_0_12/README.md
+
+Q: How rust used in third party tinystr v0 8 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/tinystr-v0_8/README.md
+
+Q: How rust used in third party toktrie v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/toktrie-v1/README.md
+
+Q: How rust used in third party tzif v0 4 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/tzif-v0_4/README.md
+
+Q: How rust used in third party unicode ident v1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/unicode-ident-v1/README.md
+
+Q: How rust used in third party unicode width v0 2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/unicode-width-v0_2/README.md
+
+Q: How rust used in third party winapi util v0 1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/winapi-util-v0_1/README.md
+
+Q: How rust used in third party windows sys v0 52 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/windows-sys-v0_52/readme.md
+
+Q: How rust used in third party windows targets v0 52 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/windows-targets-v0_52/readme.md
+
+Q: How rust used in third party writeable v0 6 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/writeable-v0_6/README.md
+
+Q: How rust used in third party yoke derive v0 8 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/yoke-derive-v0_8/README.md
+
+Q: How rust used in third party yoke v0 8 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/yoke-v0_8/README.md
+
+Q: How rust used in third party zerofrom derive v0 1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/zerofrom-derive-v0_1/README.md
+
+Q: How rust used in third party zerofrom v0 1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/zerofrom-v0_1/README.md
+
+Q: How rust used in third party zerotrie v0 2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/zerotrie-v0_2/README.md
+
+Q: How rust used in third party zerovec derive v0 11 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/zerovec-derive-v0_11/README.md
+
+Q: How rust used in third party zerovec v0 11 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/zerovec-v0_11/README.md
+
+Q: How rust used in third party zip v4 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/chromium_crates_io/vendor/zip-v4/README.md
+
+Q: What rust used in Chromium third party dependencies?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust/README.md
+
+Q: What rust used in toolchain backtrace in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/backtrace/README.md
+
+Q: What rust used in toolchain compiler builtins compiler builtins in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/compiler-builtins/compiler-builtins/README.md
+
+Q: What rust used in toolchain compiler builtins libm in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/compiler-builtins/libm/README.md
+
+Q: What rust used in toolchain compiler builtins in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/compiler-builtins/README.md
+
+Q: What rust used in toolchain core error in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/core/src/error.md
+
+Q: What rust used in toolchain core ffi c char in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/core/src/ffi/c_char.md
+
+Q: What rust used in toolchain core ffi c double in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/core/src/ffi/c_double.md
+
+Q: What rust used in toolchain core ffi c float in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/core/src/ffi/c_float.md
+
+Q: What rust used in toolchain core ffi c int in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/core/src/ffi/c_int.md
+
+Q: What rust used in toolchain core ffi c long in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/core/src/ffi/c_long.md
+
+Q: What rust used in toolchain core ffi c longlong in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/core/src/ffi/c_longlong.md
+
+Q: What rust used in toolchain core ffi c schar in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/core/src/ffi/c_schar.md
+
+Q: What rust used in toolchain core ffi c short in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/core/src/ffi/c_short.md
+
+Q: What rust used in toolchain core ffi c uchar in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/core/src/ffi/c_uchar.md
+
+Q: What rust used in toolchain core ffi c uint in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/core/src/ffi/c_uint.md
+
+Q: What rust used in toolchain core ffi c ulong in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/core/src/ffi/c_ulong.md
+
+Q: What rust used in toolchain core ffi c ulonglong in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/core/src/ffi/c_ulonglong.md
+
+Q: What rust used in toolchain core ffi c ushort in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/core/src/ffi/c_ushort.md
+
+Q: What rust used in toolchain core ffi c void in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/core/src/ffi/c_void.md
+
+Q: What rust used in toolchain core fmt fmt trait method doc in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/core/src/fmt/fmt_trait_method_doc.md
+
+Q: What rust used in toolchain core macros panic in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/core/src/macros/panic.md
+
+Q: What rust used in toolchain core ptr add in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/core/src/ptr/docs/add.md
+
+Q: What rust used in toolchain core ptr as uninit slice in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/core/src/ptr/docs/as_uninit_slice.md
+
+Q: What rust used in toolchain core ptr is null in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/core/src/ptr/docs/is_null.md
+
+Q: What rust used in toolchain core ptr offset in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/core/src/ptr/docs/offset.md
+
+Q: What rust used in toolchain portable simd .github ISSUE TEMPLATE blank issue in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/portable-simd/.github/ISSUE_TEMPLATE/blank_issue.md
+
+Q: What rust used in toolchain portable simd .github ISSUE TEMPLATE bug report in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/portable-simd/.github/ISSUE_TEMPLATE/bug_report.md
+
+Q: What rust used in toolchain portable simd .github ISSUE TEMPLATE feature request in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/portable-simd/.github/ISSUE_TEMPLATE/feature_request.md
+
+Q: What rust used in toolchain portable simd .github PULL REQUEST TEMPLATE in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/portable-simd/.github/PULL_REQUEST_TEMPLATE.md
+
+Q: What rust used in toolchain portable simd beginners guide in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/portable-simd/beginners-guide.md
+
+Q: What rust used in toolchain portable simd CONTRIBUTING in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/portable-simd/CONTRIBUTING.md
+
+Q: What rust used in toolchain portable simd crates core simd examples in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/portable-simd/crates/core_simd/examples/README.md
+
+Q: What rust used in toolchain portable simd crates core simd core simd docs in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/portable-simd/crates/core_simd/src/core_simd_docs.md
+
+Q: What rust used in toolchain portable simd in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/portable-simd/README.md
+
+Q: What rust used in toolchain rustc std workspace core in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/rustc-std-workspace-core/README.md
+
+Q: What rust used in toolchain rustc std workspace std in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/rustc-std-workspace-std/README.md
+
+Q: What rust used in toolchain std sys pal windows c in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/std/src/sys/pal/windows/c/README.md
+
+Q: What rust used in toolchain stdarch CONTRIBUTING in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/stdarch/CONTRIBUTING.md
+
+Q: What rust used in toolchain stdarch crates core arch MISSING in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/stdarch/crates/core_arch/MISSING.md
+
+Q: What rust used in toolchain stdarch crates core arch missing x86 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/stdarch/crates/core_arch/missing-x86.md
+
+Q: What rust used in toolchain stdarch crates core arch in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/stdarch/crates/core_arch/README.md
+
+Q: What rust used in toolchain stdarch crates core arch core arch docs in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/stdarch/crates/core_arch/src/core_arch_docs.md
+
+Q: What rust used in toolchain stdarch crates std detect in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/stdarch/crates/std_detect/README.md
+
+Q: What rust used in toolchain stdarch crates stdarch gen loongarch in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/stdarch/crates/stdarch-gen-loongarch/README.md
+
+Q: What rust used in toolchain stdarch in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/stdarch/README.md
+
+Q: What rust used in toolchain vendor addr2line 0.25.0 CHANGELOG in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/addr2line-0.25.0/CHANGELOG.md
+
+Q: What rust used in toolchain vendor addr2line 0.25.0 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/addr2line-0.25.0/README.md
+
+Q: What rust used in toolchain vendor adler2 2.0.1 CHANGELOG in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/adler2-2.0.1/CHANGELOG.md
+
+Q: What rust used in toolchain vendor adler2 2.0.1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/adler2-2.0.1/README.md
+
+Q: What rust used in toolchain vendor adler2 2.0.1 RELEASE PROCESS in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/adler2-2.0.1/RELEASE_PROCESS.md
+
+Q: What rust used in toolchain vendor cc 1.2.0 CHANGELOG in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/cc-1.2.0/CHANGELOG.md
+
+Q: What rust used in toolchain vendor cc 1.2.0 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/cc-1.2.0/README.md
+
+Q: What rust used in toolchain vendor cfg if 1.0.1 CHANGELOG in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/cfg-if-1.0.1/CHANGELOG.md
+
+Q: What rust used in toolchain vendor cfg if 1.0.1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/cfg-if-1.0.1/README.md
+
+Q: What rust used in toolchain vendor dlmalloc 0.2.9 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/dlmalloc-0.2.9/README.md
+
+Q: What rust used in toolchain vendor getopts 0.2.23 CHANGELOG in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/getopts-0.2.23/CHANGELOG.md
+
+Q: What rust used in toolchain vendor getopts 0.2.23 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/getopts-0.2.23/README.md
+
+Q: What rust used in toolchain vendor gimli 0.32.0 CHANGELOG in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/gimli-0.32.0/CHANGELOG.md
+
+Q: What rust used in toolchain vendor gimli 0.32.0 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/gimli-0.32.0/README.md
+
+Q: What rust used in toolchain vendor hashbrown 0.15.4 CHANGELOG in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/hashbrown-0.15.4/CHANGELOG.md
+
+Q: What rust used in toolchain vendor hashbrown 0.15.4 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/hashbrown-0.15.4/README.md
+
+Q: What rust used in toolchain vendor hermit abi 0.5.2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/hermit-abi-0.5.2/README.md
+
+Q: What rust used in toolchain vendor libc 0.2.174 CHANGELOG in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/libc-0.2.174/CHANGELOG.md
+
+Q: What rust used in toolchain vendor libc 0.2.174 CONTRIBUTING in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/libc-0.2.174/CONTRIBUTING.md
+
+Q: What rust used in toolchain vendor libc 0.2.174 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/libc-0.2.174/README.md
+
+Q: What rust used in toolchain vendor memchr 2.7.5 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/memchr-2.7.5/README.md
+
+Q: What rust used in toolchain vendor miniz oxide 0.8.9 LICENSE APACHE in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/miniz_oxide-0.8.9/LICENSE-APACHE.md
+
+Q: What rust used in toolchain vendor miniz oxide 0.8.9 LICENSE MIT in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/miniz_oxide-0.8.9/LICENSE-MIT.md
+
+Q: What rust used in toolchain vendor miniz oxide 0.8.9 LICENSE ZLIB in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/miniz_oxide-0.8.9/LICENSE-ZLIB.md
+
+Q: What rust used in toolchain vendor miniz oxide 0.8.9 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/miniz_oxide-0.8.9/Readme.md
+
+Q: What rust used in toolchain vendor object 0.37.1 CHANGELOG in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/object-0.37.1/CHANGELOG.md
+
+Q: What rust used in toolchain vendor object 0.37.1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/object-0.37.1/README.md
+
+Q: What rust used in toolchain vendor rand core 0.9.3 CHANGELOG in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/rand_core-0.9.3/CHANGELOG.md
+
+Q: What rust used in toolchain vendor rand core 0.9.3 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/rand_core-0.9.3/README.md
+
+Q: What rust used in toolchain vendor rand xorshift 0.4.0 CHANGELOG in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/rand_xorshift-0.4.0/CHANGELOG.md
+
+Q: What rust used in toolchain vendor rand xorshift 0.4.0 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/rand_xorshift-0.4.0/README.md
+
+Q: What rust used in toolchain vendor rand 0.9.1 CHANGELOG in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/rand-0.9.1/CHANGELOG.md
+
+Q: What rust used in toolchain vendor rand 0.9.1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/rand-0.9.1/README.md
+
+Q: What rust used in toolchain vendor r efi 5.3.0 NEWS in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/r-efi-5.3.0/NEWS.md
+
+Q: What rust used in toolchain vendor r efi 5.3.0 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/r-efi-5.3.0/README.md
+
+Q: What rust used in toolchain vendor r efi alloc 2.1.0 NEWS in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/r-efi-alloc-2.1.0/NEWS.md
+
+Q: What rust used in toolchain vendor r efi alloc 2.1.0 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/r-efi-alloc-2.1.0/README.md
+
+Q: What rust used in toolchain vendor rustc demangle 0.1.25 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/rustc-demangle-0.1.25/README.md
+
+Q: What rust used in toolchain vendor rustc literal escaper 0.0.2 CHANGELOG in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/rustc-literal-escaper-0.0.2/CHANGELOG.md
+
+Q: What rust used in toolchain vendor rustc literal escaper 0.0.2 CODE OF CONDUCT in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/rustc-literal-escaper-0.0.2/CODE_OF_CONDUCT.md
+
+Q: What rust used in toolchain vendor rustc literal escaper 0.0.2 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/rustc-literal-escaper-0.0.2/README.md
+
+Q: What rust used in toolchain vendor shlex 1.3.0 CHANGELOG in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/shlex-1.3.0/CHANGELOG.md
+
+Q: What rust used in toolchain vendor shlex 1.3.0 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/shlex-1.3.0/README.md
+
+Q: What rust used in toolchain vendor shlex 1.3.0 quoting warning in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/shlex-1.3.0/src/quoting_warning.md
+
+Q: What rust used in toolchain vendor unicode width 0.2.1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/unicode-width-0.2.1/README.md
+
+Q: What rust used in toolchain vendor unwinding 0.2.7 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/unwinding-0.2.7/README.md
+
+Q: What rust used in toolchain vendor wasi 0.11.1+wasi snapshot preview1 CODE OF CONDUCT in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/wasi-0.11.1+wasi-snapshot-preview1/CODE_OF_CONDUCT.md
+
+Q: What rust used in toolchain vendor wasi 0.11.1+wasi snapshot preview1 CONTRIBUTING in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/wasi-0.11.1+wasi-snapshot-preview1/CONTRIBUTING.md
+
+Q: What rust used in toolchain vendor wasi 0.11.1+wasi snapshot preview1 ORG CODE OF CONDUCT in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/wasi-0.11.1+wasi-snapshot-preview1/ORG_CODE_OF_CONDUCT.md
+
+Q: What rust used in toolchain vendor wasi 0.11.1+wasi snapshot preview1 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/wasi-0.11.1+wasi-snapshot-preview1/README.md
+
+Q: What rust used in toolchain vendor wasi 0.11.1+wasi snapshot preview1 SECURITY in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/wasi-0.11.1+wasi-snapshot-preview1/SECURITY.md
+
+Q: What rust used in toolchain vendor windows sys 0.59.0 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/windows-sys-0.59.0/readme.md
+
+Q: What rust used in toolchain vendor windows targets 0.52.6 in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/library/vendor/windows-targets-0.52.6/readme.md
+
+Q: What rust used in toolchain llvm libunwind in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/lib/rustlib/src/rust/src/llvm-project/libunwind/README_RUST_SGX.md
+
+Q: What to use cargo in rust toolchain in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/share/doc/cargo/README.md
+
+Q: What to use clippy in rust toolchain in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/share/doc/clippy/README.md
+
+Q: What to use rust analyzer in rust toolchain in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/share/doc/rust-analyzer/README.md
+
+Q: What to use rustc in rust toolchain in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/share/doc/rustc/README.md
+
+Q: What to use rustfmt in rust toolchain in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/rust-toolchain/share/doc/rustfmt/README.md
+
+Q: How rust  is used in skia experimental png project in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:third_party/skia/experimental/rust_png/README.md
+
+Q: What are tools for rust in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:tools/rust/README.md
+
+Q: What are tools for features rust in Chromium?
+A: https://source.chromium.org/chromium/chromium/src/+/main:tools/rust/unstable_rust_feature_usage.md
+
+Q:rust toolchain cargo
+A:https://source.chromium.org/chromium/chromium/src/+/main:third_party\rust-toolchain\share\doc\cargo\README.md
+
+Q:rust toolchain clippy
+A:https://source.chromium.org/chromium/chromium/src/+/main:third_party\rust-toolchain\share\doc\clippy\README.md
+
+Q:rust toolchain rust analyzer
+A:https://source.chromium.org/chromium/chromium/src/+/main:third_party\rust-toolchain\share\doc\rust-analyzer\README.md
+
+Q:rust toolchain rustc
+A:https://source.chromium.org/chromium/chromium/src/+/main:third_party\rust-toolchain\share\doc\rustc\README.md
+
+Q:rust toolchain rustfmt
+A:https://source.chromium.org/chromium/chromium/src/+/main:third_party\rust-toolchain\share\doc\rustfmt\README.md
+
+Q:chromium testing libfuzzer efficient fuzzing
+A:https://source.chromium.org/chromium/chromium/src/+/main:testing\libfuzzer\efficient_fuzzing.md
+
+Q:introducing skia graphite chromes
+A:https://blog.chromium.org/2025/07/introducing-skia-graphite-chromes.html
+
+Q:Home chromium security memory safety index
+A:https://source.chromium.org/chromium/chromium/src/+/main:docs\website\site\Home\chromium-security\memory-safety\index.md
+
+Q:security rule of 2
+A:https://source.chromium.org/chromium/chromium/src/+/main:docs\security\rule-of-2.md
+
+Q:Home chromium security memory safety rust and c interoperability index
+A:https://source.chromium.org/chromium/chromium/src/+/main:docs\website\site\Home\chromium-security\memory-safety\rust-and-c-interoperability\index.md
+
+Q:rust ffi
+A:https://source.chromium.org/chromium/chromium/src/+/main:docs\rust-ffi.md
+
+Q:security rust toolchain
+A:https://source.chromium.org/chromium/chromium/src/+/main:docs\security\rust-toolchain.md
+
+Q:rust
+A:https://source.chromium.org/chromium/chromium/src/+/main:docs\rust.md
+
+Q:source.chromium.org chromium chromium src main:styleguide styleguide
+A:https://source.chromium.org/chromium/chromium/src/+/main:styleguide\styleguide.md
+
+Q:exercises going further
+A:https://rust-exercises.com/100-exercises/going_further.html
+
+Q:exercises SUMMARY
+A:https://rust-exercises.com/100-exercises/SUMMARY.html
+
+Q:exercises 01 intro 00 welcome
+A:https://rust-exercises.com/100-exercises/01_intro\00_welcome.html
+
+Q:exercises 01 intro 01 syntax
+A:https://rust-exercises.com/100-exercises/01_intro\01_syntax.html
+
+Q:exercises 02 basic calculator 00 intro
+A:https://rust-exercises.com/100-exercises/02_basic_calculator\00_intro.html
+
+Q:exercises 02 basic calculator 01 integers
+A:https://rust-exercises.com/100-exercises/02_basic_calculator\01_integers.html
+
+Q:exercises 02 basic calculator 02 variables
+A:https://rust-exercises.com/100-exercises/02_basic_calculator\02_variables.html
+
+Q:exercises 02 basic calculator 03 if else
+A:https://rust-exercises.com/100-exercises/02_basic_calculator\03_if_else.html
+
+Q:exercises 02 basic calculator 04 panics
+A:https://rust-exercises.com/100-exercises/02_basic_calculator\04_panics.html
+
+Q:exercises 02 basic calculator 05 factorial
+A:https://rust-exercises.com/100-exercises/02_basic_calculator\05_factorial.html
+
+Q:exercises 02 basic calculator 06 while
+A:https://rust-exercises.com/100-exercises/02_basic_calculator\06_while.html
+
+Q:exercises 02 basic calculator 07 for
+A:https://rust-exercises.com/100-exercises/02_basic_calculator\07_for.html
+
+Q:exercises 02 basic calculator 08 overflow
+A:https://rust-exercises.com/100-exercises/02_basic_calculator\08_overflow.html
+
+Q:exercises 02 basic calculator 09 saturating
+A:https://rust-exercises.com/100-exercises/02_basic_calculator\09_saturating.html
+
+Q:exercises 02 basic calculator 10 as casting
+A:https://rust-exercises.com/100-exercises/02_basic_calculator\10_as_casting.html
+
+Q:exercises 03 ticket v1 00 intro
+A:https://rust-exercises.com/100-exercises/03_ticket_v1\00_intro.html
+
+Q:exercises 03 ticket v1 01 struct
+A:https://rust-exercises.com/100-exercises/03_ticket_v1\01_struct.html
+
+Q:exercises 03 ticket v1 02 validation
+A:https://rust-exercises.com/100-exercises/03_ticket_v1\02_validation.html
+
+Q:exercises 03 ticket v1 03 modules
+A:https://rust-exercises.com/100-exercises/03_ticket_v1\03_modules.html
+
+Q:exercises 03 ticket v1 04 visibility
+A:https://rust-exercises.com/100-exercises/03_ticket_v1\04_visibility.html
+
+Q:exercises 03 ticket v1 05 encapsulation
+A:https://rust-exercises.com/100-exercises/03_ticket_v1\05_encapsulation.html
+
+Q:exercises 03 ticket v1 06 ownership
+A:https://rust-exercises.com/100-exercises/03_ticket_v1\06_ownership.html
+
+Q:exercises 03 ticket v1 07 setters
+A:https://rust-exercises.com/100-exercises/03_ticket_v1\07_setters.html
+
+Q:exercises 03 ticket v1 08 stack
+A:https://rust-exercises.com/100-exercises/03_ticket_v1\08_stack.html
+
+Q:exercises 03 ticket v1 09 heap
+A:https://rust-exercises.com/100-exercises/03_ticket_v1\09_heap.html
+
+Q:exercises 03 ticket v1 10 references in memory
+A:https://rust-exercises.com/100-exercises/03_ticket_v1\10_references_in_memory.html
+
+Q:exercises 03 ticket v1 11 destructor
+A:https://rust-exercises.com/100-exercises/03_ticket_v1\11_destructor.html
+
+Q:exercises 03 ticket v1 12 outro
+A:https://rust-exercises.com/100-exercises/03_ticket_v1\12_outro.html
+
+Q:exercises 04 traits 00 intro
+A:https://rust-exercises.com/100-exercises/04_traits\00_intro.html
+
+Q:exercises 04 traits 01 trait
+A:https://rust-exercises.com/100-exercises/04_traits\01_trait.html
+
+Q:exercises 04 traits 02 orphan rule
+A:https://rust-exercises.com/100-exercises/04_traits\02_orphan_rule.html
+
+Q:exercises 04 traits 03 operator overloading
+A:https://rust-exercises.com/100-exercises/04_traits\03_operator_overloading.html
+
+Q:exercises 04 traits 04 derive
+A:https://rust-exercises.com/100-exercises/04_traits\04_derive.html
+
+Q:exercises 04 traits 05 trait bounds
+A:https://rust-exercises.com/100-exercises/04_traits\05_trait_bounds.html
+
+Q:exercises 04 traits 06 str slice
+A:https://rust-exercises.com/100-exercises/04_traits\06_str_slice.html
+
+Q:exercises 04 traits 07 deref
+A:https://rust-exercises.com/100-exercises/04_traits\07_deref.html
+
+Q:exercises 04 traits 08 sized
+A:https://rust-exercises.com/100-exercises/04_traits\08_sized.html
+
+Q:exercises 04 traits 09 from
+A:https://rust-exercises.com/100-exercises/04_traits\09_from.html
+
+Q:exercises 04 traits 10 assoc vs generic
+A:https://rust-exercises.com/100-exercises/04_traits\10_assoc_vs_generic.html
+
+Q:exercises 04 traits 11 clone
+A:https://rust-exercises.com/100-exercises/04_traits\11_clone.html
+
+Q:exercises 04 traits 12 copy
+A:https://rust-exercises.com/100-exercises/04_traits\12_copy.html
+
+Q:exercises 04 traits 13 drop
+A:https://rust-exercises.com/100-exercises/04_traits\13_drop.html
+
+Q:exercises 04 traits 14 outro
+A:https://rust-exercises.com/100-exercises/04_traits\14_outro.html
+
+Q:exercises 05 ticket v2 00 intro
+A:https://rust-exercises.com/100-exercises/05_ticket_v2\00_intro.html
+
+Q:exercises 05 ticket v2 01 enum
+A:https://rust-exercises.com/100-exercises/05_ticket_v2\01_enum.html
+
+Q:exercises 05 ticket v2 02 match
+A:https://rust-exercises.com/100-exercises/05_ticket_v2\02_match.html
+
+Q:exercises 05 ticket v2 03 variants with data
+A:https://rust-exercises.com/100-exercises/05_ticket_v2\03_variants_with_data.html
+
+Q:exercises 05 ticket v2 04 if let
+A:https://rust-exercises.com/100-exercises/05_ticket_v2\04_if_let.html
+
+Q:exercises 05 ticket v2 05 nullability
+A:https://rust-exercises.com/100-exercises/05_ticket_v2\05_nullability.html
+
+Q:exercises 05 ticket v2 06 fallibility
+A:https://rust-exercises.com/100-exercises/05_ticket_v2\06_fallibility.html
+
+Q:exercises 05 ticket v2 07 unwrap
+A:https://rust-exercises.com/100-exercises/05_ticket_v2\07_unwrap.html
+
+Q:exercises 05 ticket v2 08 error enums
+A:https://rust-exercises.com/100-exercises/05_ticket_v2\08_error_enums.html
+
+Q:exercises 05 ticket v2 09 error trait
+A:https://rust-exercises.com/100-exercises/05_ticket_v2\09_error_trait.html
+
+Q:exercises 05 ticket v2 10 packages
+A:https://rust-exercises.com/100-exercises/05_ticket_v2\10_packages.html
+
+Q:exercises 05 ticket v2 11 dependencies
+A:https://rust-exercises.com/100-exercises/05_ticket_v2\11_dependencies.html
+
+Q:exercises 05 ticket v2 12 thiserror
+A:https://rust-exercises.com/100-exercises/05_ticket_v2\12_thiserror.html
+
+Q:exercises 05 ticket v2 13 try from
+A:https://rust-exercises.com/100-exercises/05_ticket_v2\13_try_from.html
+
+Q:exercises 05 ticket v2 14 source
+A:https://rust-exercises.com/100-exercises/05_ticket_v2\14_source.html
+
+Q:exercises 05 ticket v2 15 outro
+A:https://rust-exercises.com/100-exercises/05_ticket_v2\15_outro.html
+
+Q:exercises 06 ticket management 00 intro
+A:https://rust-exercises.com/100-exercises/06_ticket_management\00_intro.html
+
+Q:exercises 06 ticket management 01 arrays
+A:https://rust-exercises.com/100-exercises/06_ticket_management\01_arrays.html
+
+Q:exercises 06 ticket management 02 vec
+A:https://rust-exercises.com/100-exercises/06_ticket_management\02_vec.html
+
+Q:exercises 06 ticket management 03 resizing
+A:https://rust-exercises.com/100-exercises/06_ticket_management\03_resizing.html
+
+Q:exercises 06 ticket management 04 iterators
+A:https://rust-exercises.com/100-exercises/06_ticket_management\04_iterators.html
+
+Q:exercises 06 ticket management 05 iter
+A:https://rust-exercises.com/100-exercises/06_ticket_management\05_iter.html
+
+Q:exercises 06 ticket management 06 lifetimes
+A:https://rust-exercises.com/100-exercises/06_ticket_management\06_lifetimes.html
+
+Q:exercises 06 ticket management 07 combinators
+A:https://rust-exercises.com/100-exercises/06_ticket_management\07_combinators.html
+
+Q:exercises 06 ticket management 08 impl trait
+A:https://rust-exercises.com/100-exercises/06_ticket_management\08_impl_trait.html
+
+Q:exercises 06 ticket management 09 impl trait 2
+A:https://rust-exercises.com/100-exercises/06_ticket_management\09_impl_trait_2.html
+
+Q:exercises 06 ticket management 10 slices
+A:https://rust-exercises.com/100-exercises/06_ticket_management\10_slices.html
+
+Q:exercises 06 ticket management 11 mutable slices
+A:https://rust-exercises.com/100-exercises/06_ticket_management\11_mutable_slices.html
+
+Q:exercises 06 ticket management 12 two states
+A:https://rust-exercises.com/100-exercises/06_ticket_management\12_two_states.html
+
+Q:exercises 06 ticket management 13 index
+A:https://rust-exercises.com/100-exercises/06_ticket_management\13_index.html
+
+Q:exercises 06 ticket management 14 index mut
+A:https://rust-exercises.com/100-exercises/06_ticket_management\14_index_mut.html
+
+Q:exercises 06 ticket management 15 hashmap
+A:https://rust-exercises.com/100-exercises/06_ticket_management\15_hashmap.html
+
+Q:exercises 06 ticket management 16 btreemap
+A:https://rust-exercises.com/100-exercises/06_ticket_management\16_btreemap.html
+
+Q:exercises 07 threads 00 intro
+A:https://rust-exercises.com/100-exercises/07_threads\00_intro.html
+
+Q:exercises 07 threads 01 threads
+A:https://rust-exercises.com/100-exercises/07_threads\01_threads.html
+
+Q:exercises 07 threads 02 static
+A:https://rust-exercises.com/100-exercises/07_threads\02_static.html
+
+Q:exercises 07 threads 03 leak
+A:https://rust-exercises.com/100-exercises/07_threads\03_leak.html
+
+Q:exercises 07 threads 04 scoped threads
+A:https://rust-exercises.com/100-exercises/07_threads\04_scoped_threads.html
+
+Q:exercises 07 threads 05 channels
+A:https://rust-exercises.com/100-exercises/07_threads\05_channels.html
+
+Q:exercises 07 threads 06 interior mutability
+A:https://rust-exercises.com/100-exercises/07_threads\06_interior_mutability.html
+
+Q:exercises 07 threads 07 ack
+A:https://rust-exercises.com/100-exercises/07_threads\07_ack.html
+
+Q:exercises 07 threads 08 client
+A:https://rust-exercises.com/100-exercises/07_threads\08_client.html
+
+Q:exercises 07 threads 09 bounded
+A:https://rust-exercises.com/100-exercises/07_threads\09_bounded.html
+
+Q:exercises 07 threads 10 patch
+A:https://rust-exercises.com/100-exercises/07_threads\10_patch.html
+
+Q:exercises 07 threads 11 locks
+A:https://rust-exercises.com/100-exercises/07_threads\11_locks.html
+
+Q:exercises 07 threads 12 rw lock
+A:https://rust-exercises.com/100-exercises/07_threads\12_rw_lock.html
+
+Q:exercises 07 threads 13 without channels
+A:https://rust-exercises.com/100-exercises/07_threads\13_without_channels.html
+
+Q:exercises 07 threads 14 sync
+A:https://rust-exercises.com/100-exercises/07_threads\14_sync.html
+
+Q:exercises 08 futures 00 intro
+A:https://rust-exercises.com/100-exercises/08_futures\00_intro.html
+
+Q:exercises 08 futures 01 async fn
+A:https://rust-exercises.com/100-exercises/08_futures\01_async_fn.html
+
+Q:exercises 08 futures 02 spawn
+A:https://rust-exercises.com/100-exercises/08_futures\02_spawn.html
+
+Q:exercises 08 futures 03 runtime
+A:https://rust-exercises.com/100-exercises/08_futures\03_runtime.html
+
+Q:exercises 08 futures 04 future
+A:https://rust-exercises.com/100-exercises/08_futures\04_future.html
+
+Q:exercises 08 futures 05 blocking
+A:https://rust-exercises.com/100-exercises/08_futures\05_blocking.html
+
+Q:exercises 08 futures 06 async aware primitives
+A:https://rust-exercises.com/100-exercises/08_futures\06_async_aware_primitives.html
+
+Q:exercises 08 futures 07 cancellation
+A:https://rust-exercises.com/100-exercises/08_futures\07_cancellation.html
+
+Q:exercises 08 futures 08 outro
+A:https://rust-exercises.com/100-exercises/08_futures\08_outro.html
+
+Q:nomicon aliasing
+A:https://doc.rust-lang.org/nomicon/aliasing.html
+
+Q:nomicon atomics
+A:https://doc.rust-lang.org/nomicon/atomics.html
+
+Q:nomicon beneath std
+A:https://doc.rust-lang.org/nomicon/beneath-std.html
+
+Q:nomicon borrow splitting
+A:https://doc.rust-lang.org/nomicon/borrow-splitting.html
+
+Q:nomicon casts
+A:https://doc.rust-lang.org/nomicon/casts.html
+
+Q:nomicon checked uninit
+A:https://doc.rust-lang.org/nomicon/checked-uninit.html
+
+Q:nomicon coercions
+A:https://doc.rust-lang.org/nomicon/coercions.html
+
+Q:nomicon concurrency
+A:https://doc.rust-lang.org/nomicon/concurrency.html
+
+Q:nomicon constructors
+A:https://doc.rust-lang.org/nomicon/constructors.html
+
+Q:nomicon conversions
+A:https://doc.rust-lang.org/nomicon/conversions.html
+
+Q:nomicon data
+A:https://doc.rust-lang.org/nomicon/data.html
+
+Q:nomicon destructors
+A:https://doc.rust-lang.org/nomicon/destructors.html
+
+Q:nomicon dot operator
+A:https://doc.rust-lang.org/nomicon/dot-operator.html
+
+Q:nomicon drop flags
+A:https://doc.rust-lang.org/nomicon/drop-flags.html
+
+Q:nomicon dropck
+A:https://doc.rust-lang.org/nomicon/dropck.html
+
+Q:nomicon exception safety
+A:https://doc.rust-lang.org/nomicon/exception-safety.html
+
+Q:nomicon exotic sizes
+A:https://doc.rust-lang.org/nomicon/exotic-sizes.html
+
+Q:nomicon ffi
+A:https://doc.rust-lang.org/nomicon/ffi.html
+
+Q:nomicon hrtb
+A:https://doc.rust-lang.org/nomicon/hrtb.html
+
+Q:nomicon intro
+A:https://doc.rust-lang.org/nomicon/intro.html
+
+Q:nomicon leaking
+A:https://doc.rust-lang.org/nomicon/leaking.html
+
+Q:nomicon lifetime elision
+A:https://doc.rust-lang.org/nomicon/lifetime-elision.html
+
+Q:nomicon lifetime mismatch
+A:https://doc.rust-lang.org/nomicon/lifetime-mismatch.html
+
+Q:nomicon lifetimes
+A:https://doc.rust-lang.org/nomicon/lifetimes.html
+
+Q:nomicon meet safe and unsafe
+A:https://doc.rust-lang.org/nomicon/meet-safe-and-unsafe.html
+
+Q:nomicon obrm
+A:https://doc.rust-lang.org/nomicon/obrm.html
+
+Q:nomicon other reprs
+A:https://doc.rust-lang.org/nomicon/other-reprs.html
+
+Q:nomicon ownership
+A:https://doc.rust-lang.org/nomicon/ownership.html
+
+Q:nomicon panic handler
+A:https://doc.rust-lang.org/nomicon/panic-handler.html
+
+Q:nomicon phantom data
+A:https://doc.rust-lang.org/nomicon/phantom-data.html
+
+Q:nomicon poisoning
+A:https://doc.rust-lang.org/nomicon/poisoning.html
+
+Q:nomicon races
+A:https://doc.rust-lang.org/nomicon/races.html
+
+Q:nomicon references
+A:https://doc.rust-lang.org/nomicon/references.html
+
+Q:nomicon repr rust
+A:https://doc.rust-lang.org/nomicon/repr-rust.html
+
+Q:nomicon safe unsafe meaning
+A:https://doc.rust-lang.org/nomicon/safe-unsafe-meaning.html
+
+Q:nomicon send and sync
+A:https://doc.rust-lang.org/nomicon/send-and-sync.html
+
+Q:nomicon subtyping
+A:https://doc.rust-lang.org/nomicon/subtyping.html
+
+Q:nomicon SUMMARY
+A:https://doc.rust-lang.org/nomicon/SUMMARY.html
+
+Q:nomicon transmutes
+A:https://doc.rust-lang.org/nomicon/transmutes.html
+
+Q:nomicon unbounded lifetimes
+A:https://doc.rust-lang.org/nomicon/unbounded-lifetimes.html
+
+Q:nomicon unchecked uninit
+A:https://doc.rust-lang.org/nomicon/unchecked-uninit.html
+
+Q:nomicon uninitialized
+A:https://doc.rust-lang.org/nomicon/uninitialized.html
+
+Q:nomicon unwinding
+A:https://doc.rust-lang.org/nomicon/unwinding.html
+
+Q:nomicon what unsafe does
+A:https://doc.rust-lang.org/nomicon/what-unsafe-does.html
+
+Q:nomicon working with unsafe
+A:https://doc.rust-lang.org/nomicon/working-with-unsafe.html
+
+Q:nomicon arc mutex arc and mutex
+A:https://doc.rust-lang.org/nomicon/arc-mutex\arc-and-mutex.html
+
+Q:nomicon arc mutex arc base
+A:https://doc.rust-lang.org/nomicon/arc-mutex\arc-base.html
+
+Q:nomicon arc mutex arc clone
+A:https://doc.rust-lang.org/nomicon/arc-mutex\arc-clone.html
+
+Q:nomicon arc mutex arc drop
+A:https://doc.rust-lang.org/nomicon/arc-mutex\arc-drop.html
+
+Q:nomicon arc mutex arc final
+A:https://doc.rust-lang.org/nomicon/arc-mutex\arc-final.html
+
+Q:nomicon arc mutex arc layout
+A:https://doc.rust-lang.org/nomicon/arc-mutex\arc-layout.html
+
+Q:nomicon arc mutex arc
+A:https://doc.rust-lang.org/nomicon/arc-mutex\arc.html
+
+Q:nomicon vec vec alloc
+A:https://doc.rust-lang.org/nomicon/vec\vec-alloc.html
+
+Q:nomicon vec vec dealloc
+A:https://doc.rust-lang.org/nomicon/vec\vec-dealloc.html
+
+Q:nomicon vec vec deref
+A:https://doc.rust-lang.org/nomicon/vec\vec-deref.html
+
+Q:nomicon vec vec drain
+A:https://doc.rust-lang.org/nomicon/vec\vec-drain.html
+
+Q:nomicon vec vec final
+A:https://doc.rust-lang.org/nomicon/vec\vec-final.html
+
+Q:nomicon vec vec insert remove
+A:https://doc.rust-lang.org/nomicon/vec\vec-insert-remove.html
+
+Q:nomicon vec vec into iter
+A:https://doc.rust-lang.org/nomicon/vec\vec-into-iter.html
+
+Q:nomicon vec vec layout
+A:https://doc.rust-lang.org/nomicon/vec\vec-layout.html
+
+Q:nomicon vec vec push pop
+A:https://doc.rust-lang.org/nomicon/vec\vec-push-pop.html
+
+Q:nomicon vec vec raw
+A:https://doc.rust-lang.org/nomicon/vec\vec-raw.html
+
+Q:nomicon vec vec zsts
+A:https://doc.rust-lang.org/nomicon/vec\vec-zsts.html
+
+Q:nomicon vec vec
+A:https://doc.rust-lang.org/nomicon/vec\vec.html
+
+Q:advanced testing SUMMARY
+A:https://rust-exercises.com/advanced-testing/SUMMARY.html
+
+Q:advanced testing 00 intro 00 welcome
+A:https://rust-exercises.com/advanced-testing/00_intro\00_welcome.html
+
+Q:advanced testing 01 better assertions 00 intro
+A:https://rust-exercises.com/advanced-testing/01_better_assertions\00_intro.html
+
+Q:advanced testing 01 better assertions 01 std assertions
+A:https://rust-exercises.com/advanced-testing/01_better_assertions\01_std_assertions.html
+
+Q:advanced testing 01 better assertions 02 googletest
+A:https://rust-exercises.com/advanced-testing/01_better_assertions\02_googletest.html
+
+Q:advanced testing 01 better assertions 03 eq
+A:https://rust-exercises.com/advanced-testing/01_better_assertions\03_eq.html
+
+Q:advanced testing 01 better assertions 04 options and results
+A:https://rust-exercises.com/advanced-testing/01_better_assertions\04_options_and_results.html
+
+Q:advanced testing 01 better assertions 05 enums
+A:https://rust-exercises.com/advanced-testing/01_better_assertions\05_enums.html
+
+Q:advanced testing 01 better assertions 06 collections
+A:https://rust-exercises.com/advanced-testing/01_better_assertions\06_collections.html
+
+Q:advanced testing 01 better assertions 07 custom matcher
+A:https://rust-exercises.com/advanced-testing/01_better_assertions\07_custom_matcher.html
+
+Q:advanced testing 01 better assertions 08 expect that
+A:https://rust-exercises.com/advanced-testing/01_better_assertions\08_expect_that.html
+
+Q:advanced testing 02 snapshots 00 intro
+A:https://rust-exercises.com/advanced-testing/02_snapshots\00_intro.html
+
+Q:advanced testing 02 snapshots 01 snapshots
+A:https://rust-exercises.com/advanced-testing/02_snapshots\01_snapshots.html
+
+Q:advanced testing 02 snapshots 02 storage location
+A:https://rust-exercises.com/advanced-testing/02_snapshots\02_storage_location.html
+
+Q:advanced testing 02 snapshots 03 redactions
+A:https://rust-exercises.com/advanced-testing/02_snapshots\03_redactions.html
+
+Q:advanced testing 02 snapshots 04 outro
+A:https://rust-exercises.com/advanced-testing/02_snapshots\04_outro.html
+
+Q:advanced testing 03 mocks 00 intro
+A:https://rust-exercises.com/advanced-testing/03_mocks\00_intro.html
+
+Q:advanced testing 03 mocks 01 traits
+A:https://rust-exercises.com/advanced-testing/03_mocks\01_traits.html
+
+Q:advanced testing 03 mocks 02 mockall
+A:https://rust-exercises.com/advanced-testing/03_mocks\02_mockall.html
+
+Q:advanced testing 03 mocks 03 sequences
+A:https://rust-exercises.com/advanced-testing/03_mocks\03_sequences.html
+
+Q:advanced testing 03 mocks 04 checkpoints
+A:https://rust-exercises.com/advanced-testing/03_mocks\04_checkpoints.html
+
+Q:advanced testing 03 mocks 05 foreign traits
+A:https://rust-exercises.com/advanced-testing/03_mocks\05_foreign_traits.html
+
+Q:advanced testing 03 mocks 06 outro
+A:https://rust-exercises.com/advanced-testing/03_mocks\06_outro.html
+
+Q:advanced testing 04 interlude 00 testing infrastructure
+A:https://rust-exercises.com/advanced-testing/04_interlude\00_testing_infrastructure.html
+
+Q:advanced testing 05 filesystem isolation 00 intro
+A:https://rust-exercises.com/advanced-testing/05_filesystem_isolation\00_intro.html
+
+Q:advanced testing 05 filesystem isolation 01 named tempfile
+A:https://rust-exercises.com/advanced-testing/05_filesystem_isolation\01_named_tempfile.html
+
+Q:advanced testing 05 filesystem isolation 02 tempfile
+A:https://rust-exercises.com/advanced-testing/05_filesystem_isolation\02_tempfile.html
+
+Q:advanced testing 05 filesystem isolation 03 tempdir
+A:https://rust-exercises.com/advanced-testing/05_filesystem_isolation\03_tempdir.html
+
+Q:advanced testing 05 filesystem isolation 04 outro
+A:https://rust-exercises.com/advanced-testing/05_filesystem_isolation\04_outro.html
+
+Q:advanced testing 06 database isolation 00 intro
+A:https://rust-exercises.com/advanced-testing/06_database_isolation\00_intro.html
+
+Q:advanced testing 06 database isolation 01 sqlx test
+A:https://rust-exercises.com/advanced-testing/06_database_isolation\01_sqlx_test.html
+
+Q:advanced testing 07 http mocking 00 intro
+A:https://rust-exercises.com/advanced-testing/07_http_mocking\00_intro.html
+
+Q:advanced testing 07 http mocking 01 basics
+A:https://rust-exercises.com/advanced-testing/07_http_mocking\01_basics.html
+
+Q:advanced testing 07 http mocking 02 match
+A:https://rust-exercises.com/advanced-testing/07_http_mocking\02_match.html
+
+Q:advanced testing 07 http mocking 03 checkpoints
+A:https://rust-exercises.com/advanced-testing/07_http_mocking\03_checkpoints.html
+
+Q:advanced testing 07 http mocking 04 outro
+A:https://rust-exercises.com/advanced-testing/07_http_mocking\04_outro.html
+
+Q:advanced testing 08 macros 00 intro
+A:https://rust-exercises.com/advanced-testing/08_macros\00_intro.html
+
+Q:advanced testing 08 macros 01 no op macro
+A:https://rust-exercises.com/advanced-testing/08_macros\01_no_op_macro.html
+
+Q:advanced testing 08 macros 02 test
+A:https://rust-exercises.com/advanced-testing/08_macros\02_test.html
+
+Q:advanced testing 08 macros 03 hooks
+A:https://rust-exercises.com/advanced-testing/08_macros\03_hooks.html
+
+Q:advanced testing 08 macros 04 outro
+A:https://rust-exercises.com/advanced-testing/08_macros\04_outro.html
+
+Q:advanced testing 09 test harness 00 intro
+A:https://rust-exercises.com/advanced-testing/09_test_harness\00_intro.html
+
+Q:advanced testing 09 test harness 01 harness
+A:https://rust-exercises.com/advanced-testing/09_test_harness\01_harness.html
+
+Q:advanced testing 09 test harness 02 cli
+A:https://rust-exercises.com/advanced-testing/09_test_harness\02_cli.html
+
+Q:advanced testing 09 test harness 03 outro
+A:https://rust-exercises.com/advanced-testing/09_test_harness\03_outro.html
+
+Q:advanced testing 10 capstone 00 capstone
+A:https://rust-exercises.com/advanced-testing/10_capstone\00_capstone.html
+
+Q:rust anthology 1 abstraction without overhead
+A:https://brson.github.io/rust-anthology/1/abstraction-without-overhead.html
+
+Q:rust anthology 1 all about trait objects
+A:https://brson.github.io/rust-anthology/1/all-about-trait-objects.html
+
+Q:rust anthology 1 authors
+A:https://brson.github.io/rust-anthology/1/authors.html
+
+Q:rust anthology 1 effectively using iterators
+A:https://brson.github.io/rust-anthology/1/effectively-using-iterators.html
+
+Q:rust anthology 1 enums match mutation and moves
+A:https://brson.github.io/rust-anthology/1/enums-match-mutation-and-moves.html
+
+Q:rust anthology 1 fearless concurrency
+A:https://brson.github.io/rust-anthology/1/fearless-concurrency.html
+
+Q:rust anthology 1 finding closure in rust
+A:https://brson.github.io/rust-anthology/1/finding-closure-in-rust.html
+
+Q:rust anthology 1 how rust achieves thread safety
+A:https://brson.github.io/rust-anthology/1/how-rust-achieves-thread-safety.html
+
+Q:rust anthology 1 intro
+A:https://brson.github.io/rust-anthology/1/intro.html
+
+Q:rust anthology 1 memory leaks are memory safe
+A:https://brson.github.io/rust-anthology/1/memory-leaks-are-memory-safe.html
+
+Q:rust anthology 1 myths and legends about integer overflow
+A:https://brson.github.io/rust-anthology/1/myths-and-legends-about-integer-overflow.html
+
+Q:rust anthology 1 reading rust function signatures
+A:https://brson.github.io/rust-anthology/1/reading-rust-function-signatures.html
+
+Q:rust anthology 1 rust reuse and recycle
+A:https://brson.github.io/rust-anthology/1/rust-reuse-and-recycle.html
+
+Q:rust anthology 1 rusts built in traits
+A:https://brson.github.io/rust-anthology/1/rusts-built-in-traits.html
+
+Q:rust anthology 1 strategies for solving borrowing errors
+A:https://brson.github.io/rust-anthology/1/strategies-for-solving-borrowing-errors.html
+
+Q:rust anthology 1 SUMMARY
+A:https://brson.github.io/rust-anthology/1/SUMMARY.html
+
+Q:rust anthology 1 the problem with shared mutability
+A:https://brson.github.io/rust-anthology/1/the-problem-with-shared-mutability.html
+
+Q:rust anthology 1 understanding over guesswork
+A:https://brson.github.io/rust-anthology/1/understanding-over-guesswork.html
+
+Q:rust anthology 1 what does rusts unsafe mean
+A:https://brson.github.io/rust-anthology/1/what-does-rusts-unsafe-mean.html
+
+Q:rust anthology 1 where rust really shines
+A:https://brson.github.io/rust-anthology/1/where-rust-really-shines.html
+
+Q:0
+A:https://doc.rust-lang.org/book/appendix-00.html
+
+Q:01 keywords
+A:https://doc.rust-lang.org/book/appendix-01-keywords.html
+
+Q:02 operators
+A:https://doc.rust-lang.org/book/appendix-02-operators.html
+
+Q:03 derivable traits
+A:https://doc.rust-lang.org/book/appendix-03-derivable-traits.html
+
+Q:04 macros
+A:https://doc.rust-lang.org/book/appendix-04-macros.html
+
+Q:04 useful development tools
+A:https://doc.rust-lang.org/book/appendix-04-useful-development-tools.html
+
+Q:05 editions
+A:https://doc.rust-lang.org/book/appendix-05-editions.html
+
+Q:05 translation
+A:https://doc.rust-lang.org/book/appendix-05-translation.html
+
+Q:06 newest features
+A:https://doc.rust-lang.org/book/appendix-06-newest-features.html
+
+Q:06 translation
+A:https://doc.rust-lang.org/book/appendix-06-translation.html
+
+Q:07 nightly rust
+A:https://doc.rust-lang.org/book/appendix-07-nightly-rust.html
+
+Q:ch00 00 introduction
+A:https://doc.rust-lang.org/book/ch00-00-introduction.html
+
+Q:ch01 00 getting started
+A:https://doc.rust-lang.org/book/ch01-00-getting-started.html
+
+Q:ch01 01 installation
+A:https://doc.rust-lang.org/book/ch01-01-installation.html
+
+Q:ch01 02 hello world
+A:https://doc.rust-lang.org/book/ch01-02-hello-world.html
+
+Q:ch01 03 hello cargo
+A:https://doc.rust-lang.org/book/ch01-03-hello-cargo.html
+
+Q:ch02 00 guessing game tutorial
+A:https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
+
+Q:ch03 00 common programming concepts
+A:https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html
+
+Q:ch03 01 variables and mutability
+A:https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html
+
+Q:ch03 02 data types
+A:https://doc.rust-lang.org/book/ch03-02-data-types.html
+
+Q:ch03 03 how functions work
+A:https://doc.rust-lang.org/book/ch03-03-how-functions-work.html
+
+Q:ch03 04 comments
+A:https://doc.rust-lang.org/book/ch03-04-comments.html
+
+Q:ch03 05 control flow
+A:https://doc.rust-lang.org/book/ch03-05-control-flow.html
+
+Q:ch04 00 understanding ownership
+A:https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html
+
+Q:ch04 01 what is ownership
+A:https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html
+
+Q:ch04 02 references and borrowing
+A:https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html
+
+Q:ch04 03 slices
+A:https://doc.rust-lang.org/book/ch04-03-slices.html
+
+Q:ch05 00 structs
+A:https://doc.rust-lang.org/book/ch05-00-structs.html
+
+Q:ch05 01 defining structs
+A:https://doc.rust-lang.org/book/ch05-01-defining-structs.html
+
+Q:ch05 02 example structs
+A:https://doc.rust-lang.org/book/ch05-02-example-structs.html
+
+Q:ch05 03 method syntax
+A:https://doc.rust-lang.org/book/ch05-03-method-syntax.html
+
+Q:ch06 00 enums
+A:https://doc.rust-lang.org/book/ch06-00-enums.html
+
+Q:ch06 01 defining an enum
+A:https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html
+
+Q:ch06 02 match
+A:https://doc.rust-lang.org/book/ch06-02-match.html
+
+Q:ch06 03 if let
+A:https://doc.rust-lang.org/book/ch06-03-if-let.html
+
+Q:ch07 00 managing growing projects with packages crates and modules
+A:https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html
+
+Q:ch07 00 modules
+A:https://doc.rust-lang.org/book/ch07-00-modules.html
+
+Q:ch07 01 mod and the filesystem
+A:https://doc.rust-lang.org/book/ch07-01-mod-and-the-filesystem.html
+
+Q:ch07 01 packages and crates
+A:https://doc.rust-lang.org/book/ch07-01-packages-and-crates.html
+
+Q:ch07 02 controlling visibility with pub
+A:https://doc.rust-lang.org/book/ch07-02-controlling-visibility-with-pub.html
+
+Q:ch07 02 defining modules to control scope and privacy
+A:https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html
+
+Q:ch07 03 importing names with use
+A:https://doc.rust-lang.org/book/ch07-03-importing-names-with-use.html
+
+Q:ch07 03 paths for referring to an item in the module tree
+A:https://doc.rust-lang.org/book/ch07-03-paths-for-referring-to-an-item-in-the-module-tree.html
+
+Q:ch07 04 bringing paths into scope with the use keyword
+A:https://doc.rust-lang.org/book/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html
+
+Q:ch07 05 separating modules into different files
+A:https://doc.rust-lang.org/book/ch07-05-separating-modules-into-different-files.html
+
+Q:ch08 00 common collections
+A:https://doc.rust-lang.org/book/ch08-00-common-collections.html
+
+Q:ch08 01 vectors
+A:https://doc.rust-lang.org/book/ch08-01-vectors.html
+
+Q:ch08 02 strings
+A:https://doc.rust-lang.org/book/ch08-02-strings.html
+
+Q:ch08 03 hash maps
+A:https://doc.rust-lang.org/book/ch08-03-hash-maps.html
+
+Q:ch09 00 error handling
+A:https://doc.rust-lang.org/book/ch09-00-error-handling.html
+
+Q:ch09 01 unrecoverable errors with panic
+A:https://doc.rust-lang.org/book/ch09-01-unrecoverable-errors-with-panic.html
+
+Q:ch09 02 recoverable errors with result
+A:https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html
+
+Q:ch09 03 to panic or not to panic
+A:https://doc.rust-lang.org/book/ch09-03-to-panic-or-not-to-panic.html
+
+Q:ch10 00 generics
+A:https://doc.rust-lang.org/book/ch10-00-generics.html
+
+Q:ch10 01 syntax
+A:https://doc.rust-lang.org/book/ch10-01-syntax.html
+
+Q:ch10 02 traits
+A:https://doc.rust-lang.org/book/ch10-02-traits.html
+
+Q:ch10 03 lifetime syntax
+A:https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html
+
+Q:ch11 00 testing
+A:https://doc.rust-lang.org/book/ch11-00-testing.html
+
+Q:ch11 01 writing tests
+A:https://doc.rust-lang.org/book/ch11-01-writing-tests.html
+
+Q:ch11 02 running tests
+A:https://doc.rust-lang.org/book/ch11-02-running-tests.html
+
+Q:ch11 03 test organization
+A:https://doc.rust-lang.org/book/ch11-03-test-organization.html
+
+Q:ch12 00 an io project
+A:https://doc.rust-lang.org/book/ch12-00-an-io-project.html
+
+Q:ch12 01 accepting command line arguments
+A:https://doc.rust-lang.org/book/ch12-01-accepting-command-line-arguments.html
+
+Q:ch12 02 reading a file
+A:https://doc.rust-lang.org/book/ch12-02-reading-a-file.html
+
+Q:ch12 03 improving error handling and modularity
+A:https://doc.rust-lang.org/book/ch12-03-improving-error-handling-and-modularity.html
+
+Q:ch12 04 testing the librarys functionality
+A:https://doc.rust-lang.org/book/ch12-04-testing-the-librarys-functionality.html
+
+Q:ch12 05 working with environment variables
+A:https://doc.rust-lang.org/book/ch12-05-working-with-environment-variables.html
+
+Q:ch12 06 writing to stderr instead of stdout
+A:https://doc.rust-lang.org/book/ch12-06-writing-to-stderr-instead-of-stdout.html
+
+Q:ch13 00 functional features
+A:https://doc.rust-lang.org/book/ch13-00-functional-features.html
+
+Q:ch13 01 closures
+A:https://doc.rust-lang.org/book/ch13-01-closures.html
+
+Q:ch13 02 iterators
+A:https://doc.rust-lang.org/book/ch13-02-iterators.html
+
+Q:ch13 03 improving our io project
+A:https://doc.rust-lang.org/book/ch13-03-improving-our-io-project.html
+
+Q:ch13 04 performance
+A:https://doc.rust-lang.org/book/ch13-04-performance.html
+
+Q:ch14 00 more about cargo
+A:https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html
+
+Q:ch14 01 release profiles
+A:https://doc.rust-lang.org/book/ch14-01-release-profiles.html
+
+Q:ch14 02 publishing to crates io
+A:https://doc.rust-lang.org/book/ch14-02-publishing-to-crates-io.html
+
+Q:ch14 03 cargo workspaces
+A:https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html
+
+Q:ch14 04 installing binaries
+A:https://doc.rust-lang.org/book/ch14-04-installing-binaries.html
+
+Q:ch14 05 extending cargo
+A:https://doc.rust-lang.org/book/ch14-05-extending-cargo.html
+
+Q:ch15 00 smart pointers
+A:https://doc.rust-lang.org/book/ch15-00-smart-pointers.html
+
+Q:ch15 01 box
+A:https://doc.rust-lang.org/book/ch15-01-box.html
+
+Q:ch15 02 deref
+A:https://doc.rust-lang.org/book/ch15-02-deref.html
+
+Q:ch15 03 drop
+A:https://doc.rust-lang.org/book/ch15-03-drop.html
+
+Q:ch15 04 rc
+A:https://doc.rust-lang.org/book/ch15-04-rc.html
+
+Q:ch15 05 interior mutability
+A:https://doc.rust-lang.org/book/ch15-05-interior-mutability.html
+
+Q:ch15 06 reference cycles
+A:https://doc.rust-lang.org/book/ch15-06-reference-cycles.html
+
+Q:ch16 00 concurrency
+A:https://doc.rust-lang.org/book/ch16-00-concurrency.html
+
+Q:ch16 01 threads
+A:https://doc.rust-lang.org/book/ch16-01-threads.html
+
+Q:ch16 02 message passing
+A:https://doc.rust-lang.org/book/ch16-02-message-passing.html
+
+Q:ch16 03 shared state
+A:https://doc.rust-lang.org/book/ch16-03-shared-state.html
+
+Q:ch16 04 extensible concurrency sync and send
+A:https://doc.rust-lang.org/book/ch16-04-extensible-concurrency-sync-and-send.html
+
+Q:ch17 00 async await
+A:https://doc.rust-lang.org/book/ch17-00-async-await.html
+
+Q:ch17 00 oop
+A:https://doc.rust-lang.org/book/ch17-00-oop.html
+
+Q:ch17 01 futures and syntax
+A:https://doc.rust-lang.org/book/ch17-01-futures-and-syntax.html
+
+Q:ch17 01 what is oo
+A:https://doc.rust-lang.org/book/ch17-01-what-is-oo.html
+
+Q:ch17 02 concurrency with async
+A:https://doc.rust-lang.org/book/ch17-02-concurrency-with-async.html
+
+Q:ch17 02 trait objects
+A:https://doc.rust-lang.org/book/ch17-02-trait-objects.html
+
+Q:ch17 03 more futures
+A:https://doc.rust-lang.org/book/ch17-03-more-futures.html
+
+Q:ch17 03 oo design patterns
+A:https://doc.rust-lang.org/book/ch17-03-oo-design-patterns.html
+
+Q:ch17 04 streams
+A:https://doc.rust-lang.org/book/ch17-04-streams.html
+
+Q:ch17 05 traits for async
+A:https://doc.rust-lang.org/book/ch17-05-traits-for-async.html
+
+Q:ch17 06 futures tasks threads
+A:https://doc.rust-lang.org/book/ch17-06-futures-tasks-threads.html
+
+Q:ch18 00 oop
+A:https://doc.rust-lang.org/book/ch18-00-oop.html
+
+Q:ch18 00 patterns
+A:https://doc.rust-lang.org/book/ch18-00-patterns.html
+
+Q:ch18 01 all the places for patterns
+A:https://doc.rust-lang.org/book/ch18-01-all-the-places-for-patterns.html
+
+Q:ch18 01 what is oo
+A:https://doc.rust-lang.org/book/ch18-01-what-is-oo.html
+
+Q:ch18 02 refutability
+A:https://doc.rust-lang.org/book/ch18-02-refutability.html
+
+Q:ch18 02 trait objects
+A:https://doc.rust-lang.org/book/ch18-02-trait-objects.html
+
+Q:ch18 03 oo design patterns
+A:https://doc.rust-lang.org/book/ch18-03-oo-design-patterns.html
+
+Q:ch18 03 pattern syntax
+A:https://doc.rust-lang.org/book/ch18-03-pattern-syntax.html
+
+Q:ch19 00 advanced features
+A:https://doc.rust-lang.org/book/ch19-00-advanced-features.html
+
+Q:ch19 00 patterns
+A:https://doc.rust-lang.org/book/ch19-00-patterns.html
+
+Q:ch19 01 all the places for patterns
+A:https://doc.rust-lang.org/book/ch19-01-all-the-places-for-patterns.html
+
+Q:ch19 01 unsafe rust
+A:https://doc.rust-lang.org/book/ch19-01-unsafe-rust.html
+
+Q:ch19 02 advanced lifetimes
+A:https://doc.rust-lang.org/book/ch19-02-advanced-lifetimes.html
+
+Q:ch19 02 refutability
+A:https://doc.rust-lang.org/book/ch19-02-refutability.html
+
+Q:ch19 03 advanced traits
+A:https://doc.rust-lang.org/book/ch19-03-advanced-traits.html
+
+Q:ch19 03 pattern syntax
+A:https://doc.rust-lang.org/book/ch19-03-pattern-syntax.html
+
+Q:ch19 04 advanced types
+A:https://doc.rust-lang.org/book/ch19-04-advanced-types.html
+
+Q:ch19 05 advanced functions and closures
+A:https://doc.rust-lang.org/book/ch19-05-advanced-functions-and-closures.html
+
+Q:ch20 00 advanced features
+A:https://doc.rust-lang.org/book/ch20-00-advanced-features.html
+
+Q:ch20 00 final project a web server
+A:https://doc.rust-lang.org/book/ch20-00-final-project-a-web-server.html
+
+Q:ch20 01 single threaded
+A:https://doc.rust-lang.org/book/ch20-01-single-threaded.html
+
+Q:ch20 01 unsafe rust
+A:https://doc.rust-lang.org/book/ch20-01-unsafe-rust.html
+
+Q:ch20 02 advanced traits
+A:https://doc.rust-lang.org/book/ch20-02-advanced-traits.html
+
+Q:ch20 02 multithreaded
+A:https://doc.rust-lang.org/book/ch20-02-multithreaded.html
+
+Q:ch20 03 advanced types
+A:https://doc.rust-lang.org/book/ch20-03-advanced-types.html
+
+Q:ch20 03 graceful shutdown and cleanup
+A:https://doc.rust-lang.org/book/ch20-03-graceful-shutdown-and-cleanup.html
+
+Q:ch20 04 advanced functions and closures
+A:https://doc.rust-lang.org/book/ch20-04-advanced-functions-and-closures.html
+
+Q:ch20 05 macros
+A:https://doc.rust-lang.org/book/ch20-05-macros.html
+
+Q:ch21 00 final project a web server
+A:https://doc.rust-lang.org/book/ch21-00-final-project-a-web-server.html
+
+Q:ch21 01 single threaded
+A:https://doc.rust-lang.org/book/ch21-01-single-threaded.html
+
+Q:ch21 02 multithreaded
+A:https://doc.rust-lang.org/book/ch21-02-multithreaded.html
+
+Q:ch21 03 graceful shutdown and cleanup
+A:https://doc.rust-lang.org/book/ch21-03-graceful-shutdown-and-cleanup.html
+
+Q:book foreword
+A:https://doc.rust-lang.org/book/foreword.html
+
+Q:book SUMMARY
+A:https://doc.rust-lang.org/book/SUMMARY.html
+
+Q:book title page
+A:https://doc.rust-lang.org/book/title-page.html
+
+Q:cargo CHANGELOG
+A:https://doc.rust-lang.org/stable/cargo/CHANGELOG.html
+
+Q:cargo faq
+A:https://doc.rust-lang.org/stable/cargo/faq.html
+
+Q:cargo index
+A:https://doc.rust-lang.org/stable/cargo/index.html
+
+Q:cargo SUMMARY
+A:https://doc.rust-lang.org/stable/cargo/SUMMARY.html
+
+Q:cargo appendix git authentication
+A:https://doc.rust-lang.org/stable/cargo/appendix\git-authentication.html
+
+Q:cargo appendix glossary
+A:https://doc.rust-lang.org/stable/cargo/appendix\glossary.html
+
+Q:cargo commands build commands
+A:https://doc.rust-lang.org/stable/cargo/commands\build-commands.html
+
+Q:cargo commands cargo add
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-add.html
+
+Q:cargo commands cargo bench
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-bench.html
+
+Q:cargo commands cargo build
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-build.html
+
+Q:cargo commands cargo check
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-check.html
+
+Q:cargo commands cargo clean
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-clean.html
+
+Q:cargo commands cargo clippy
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-clippy.html
+
+Q:cargo commands cargo doc
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-doc.html
+
+Q:cargo commands cargo fetch
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-fetch.html
+
+Q:cargo commands cargo fix
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-fix.html
+
+Q:cargo commands cargo fmt
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-fmt.html
+
+Q:cargo commands cargo generate lockfile
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-generate-lockfile.html
+
+Q:cargo commands cargo help
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-help.html
+
+Q:cargo commands cargo info
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-info.html
+
+Q:cargo commands cargo init
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-init.html
+
+Q:cargo commands cargo install
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-install.html
+
+Q:cargo commands cargo locate project
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-locate-project.html
+
+Q:cargo commands cargo login
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-login.html
+
+Q:cargo commands cargo logout
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-logout.html
+
+Q:cargo commands cargo metadata
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-metadata.html
+
+Q:cargo commands cargo miri
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-miri.html
+
+Q:cargo commands cargo new
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-new.html
+
+Q:cargo commands cargo owner
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-owner.html
+
+Q:cargo commands cargo package
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-package.html
+
+Q:cargo commands cargo pkgid
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-pkgid.html
+
+Q:cargo commands cargo publish
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-publish.html
+
+Q:cargo commands cargo remove
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-remove.html
+
+Q:cargo commands cargo report
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-report.html
+
+Q:cargo commands cargo run
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-run.html
+
+Q:cargo commands cargo rustc
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-rustc.html
+
+Q:cargo commands cargo rustdoc
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-rustdoc.html
+
+Q:cargo commands cargo search
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-search.html
+
+Q:cargo commands cargo test
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-test.html
+
+Q:cargo commands cargo tree
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-tree.html
+
+Q:cargo commands cargo uninstall
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-uninstall.html
+
+Q:cargo commands cargo update
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-update.html
+
+Q:cargo commands cargo vendor
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-vendor.html
+
+Q:cargo commands cargo version
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-version.html
+
+Q:cargo commands cargo yank
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo-yank.html
+
+Q:cargo commands cargo
+A:https://doc.rust-lang.org/stable/cargo/commands\cargo.html
+
+Q:cargo commands deprecated and removed
+A:https://doc.rust-lang.org/stable/cargo/commands\deprecated-and-removed.html
+
+Q:cargo commands general commands
+A:https://doc.rust-lang.org/stable/cargo/commands\general-commands.html
+
+Q:cargo commands index
+A:https://doc.rust-lang.org/stable/cargo/commands\index.html
+
+Q:cargo commands manifest commands
+A:https://doc.rust-lang.org/stable/cargo/commands\manifest-commands.html
+
+Q:cargo commands package commands
+A:https://doc.rust-lang.org/stable/cargo/commands\package-commands.html
+
+Q:cargo commands publishing commands
+A:https://doc.rust-lang.org/stable/cargo/commands\publishing-commands.html
+
+Q:cargo getting started first steps
+A:https://doc.rust-lang.org/stable/cargo/getting-started\first-steps.html
+
+Q:cargo getting started index
+A:https://doc.rust-lang.org/stable/cargo/getting-started\index.html
+
+Q:cargo getting started installation
+A:https://doc.rust-lang.org/stable/cargo/getting-started\installation.html
+
+Q:cargo guide cargo home
+A:https://doc.rust-lang.org/stable/cargo/guide\cargo-home.html
+
+Q:cargo guide cargo toml vs cargo lock
+A:https://doc.rust-lang.org/stable/cargo/guide\cargo-toml-vs-cargo-lock.html
+
+Q:cargo guide continuous integration
+A:https://doc.rust-lang.org/stable/cargo/guide\continuous-integration.html
+
+Q:cargo guide creating a new project
+A:https://doc.rust-lang.org/stable/cargo/guide\creating-a-new-project.html
+
+Q:cargo guide dependencies
+A:https://doc.rust-lang.org/stable/cargo/guide\dependencies.html
+
+Q:cargo guide index
+A:https://doc.rust-lang.org/stable/cargo/guide\index.html
+
+Q:cargo guide project layout
+A:https://doc.rust-lang.org/stable/cargo/guide\project-layout.html
+
+Q:cargo guide tests
+A:https://doc.rust-lang.org/stable/cargo/guide\tests.html
+
+Q:cargo guide why cargo exists
+A:https://doc.rust-lang.org/stable/cargo/guide\why-cargo-exists.html
+
+Q:cargo guide working on an existing project
+A:https://doc.rust-lang.org/stable/cargo/guide\working-on-an-existing-project.html
+
+Q:cargo reference build cache
+A:https://doc.rust-lang.org/stable/cargo/reference\build-cache.html
+
+Q:cargo reference build script examples
+A:https://doc.rust-lang.org/stable/cargo/reference\build-script-examples.html
+
+Q:cargo reference build scripts
+A:https://doc.rust-lang.org/stable/cargo/reference\build-scripts.html
+
+Q:cargo reference cargo targets
+A:https://doc.rust-lang.org/stable/cargo/reference\cargo-targets.html
+
+Q:cargo reference config
+A:https://doc.rust-lang.org/stable/cargo/reference\config.html
+
+Q:cargo reference credential provider protocol
+A:https://doc.rust-lang.org/stable/cargo/reference\credential-provider-protocol.html
+
+Q:cargo reference environment variables
+A:https://doc.rust-lang.org/stable/cargo/reference\environment-variables.html
+
+Q:cargo reference external tools
+A:https://doc.rust-lang.org/stable/cargo/reference\external-tools.html
+
+Q:cargo reference features examples
+A:https://doc.rust-lang.org/stable/cargo/reference\features-examples.html
+
+Q:cargo reference features
+A:https://doc.rust-lang.org/stable/cargo/reference\features.html
+
+Q:cargo reference future incompat report
+A:https://doc.rust-lang.org/stable/cargo/reference\future-incompat-report.html
+
+Q:cargo reference index
+A:https://doc.rust-lang.org/stable/cargo/reference\index.html
+
+Q:cargo reference lints
+A:https://doc.rust-lang.org/stable/cargo/reference\lints.html
+
+Q:cargo reference manifest
+A:https://doc.rust-lang.org/stable/cargo/reference\manifest.html
+
+Q:cargo reference overriding dependencies
+A:https://doc.rust-lang.org/stable/cargo/reference\overriding-dependencies.html
+
+Q:cargo reference pkgid spec
+A:https://doc.rust-lang.org/stable/cargo/reference\pkgid-spec.html
+
+Q:cargo reference profiles
+A:https://doc.rust-lang.org/stable/cargo/reference\profiles.html
+
+Q:cargo reference publishing
+A:https://doc.rust-lang.org/stable/cargo/reference\publishing.html
+
+Q:cargo reference registries
+A:https://doc.rust-lang.org/stable/cargo/reference\registries.html
+
+Q:cargo reference registry authentication
+A:https://doc.rust-lang.org/stable/cargo/reference\registry-authentication.html
+
+Q:cargo reference registry index
+A:https://doc.rust-lang.org/stable/cargo/reference\registry-index.html
+
+Q:cargo reference registry web api
+A:https://doc.rust-lang.org/stable/cargo/reference\registry-web-api.html
+
+Q:cargo reference resolver
+A:https://doc.rust-lang.org/stable/cargo/reference\resolver.html
+
+Q:cargo reference running a registry
+A:https://doc.rust-lang.org/stable/cargo/reference\running-a-registry.html
+
+Q:cargo reference rust version
+A:https://doc.rust-lang.org/stable/cargo/reference\rust-version.html
+
+Q:cargo reference semver
+A:https://doc.rust-lang.org/stable/cargo/reference\semver.html
+
+Q:cargo reference source replacement
+A:https://doc.rust-lang.org/stable/cargo/reference\source-replacement.html
+
+Q:cargo reference specifying dependencies
+A:https://doc.rust-lang.org/stable/cargo/reference\specifying-dependencies.html
+
+Q:cargo reference timings
+A:https://doc.rust-lang.org/stable/cargo/reference\timings.html
+
+Q:cargo reference unstable
+A:https://doc.rust-lang.org/stable/cargo/reference\unstable.html
+
+Q:cargo reference workspaces
+A:https://doc.rust-lang.org/stable/cargo/reference\workspaces.html
+
+Q:comprehensive rust android
+A:https://google.github.io/comprehensive-rust/android.html
+
+Q:comprehensive rust bare metal
+A:https://google.github.io/comprehensive-rust/bare-metal.html
+
+Q:comprehensive rust borrowing
+A:https://google.github.io/comprehensive-rust/borrowing.html
+
+Q:comprehensive rust cargo
+A:https://google.github.io/comprehensive-rust/cargo.html
+
+Q:comprehensive rust chromium
+A:https://google.github.io/comprehensive-rust/chromium.html
+
+Q:comprehensive rust closures
+A:https://google.github.io/comprehensive-rust/closures.html
+
+Q:comprehensive rust control flow basics
+A:https://google.github.io/comprehensive-rust/control-flow-basics.html
+
+Q:comprehensive rust credits
+A:https://google.github.io/comprehensive-rust/credits.html
+
+Q:comprehensive rust error handling
+A:https://google.github.io/comprehensive-rust/error-handling.html
+
+Q:comprehensive rust generics
+A:https://google.github.io/comprehensive-rust/generics.html
+
+Q:comprehensive rust glossary
+A:https://google.github.io/comprehensive-rust/glossary.html
+
+Q:comprehensive rust hello world
+A:https://google.github.io/comprehensive-rust/hello-world.html
+
+Q:comprehensive rust index
+A:https://google.github.io/comprehensive-rust/index.html
+
+Q:comprehensive rust iterators
+A:https://google.github.io/comprehensive-rust/iterators.html
+
+Q:comprehensive rust lifetimes
+A:https://google.github.io/comprehensive-rust/lifetimes.html
+
+Q:comprehensive rust memory management
+A:https://google.github.io/comprehensive-rust/memory-management.html
+
+Q:comprehensive rust methods and traits
+A:https://google.github.io/comprehensive-rust/methods-and-traits.html
+
+Q:comprehensive rust modules
+A:https://google.github.io/comprehensive-rust/modules.html
+
+Q:comprehensive rust other resources
+A:https://google.github.io/comprehensive-rust/other-resources.html
+
+Q:comprehensive rust pattern matching
+A:https://google.github.io/comprehensive-rust/pattern-matching.html
+
+Q:comprehensive rust README
+A:https://google.github.io/comprehensive-rust/README.html
+
+Q:comprehensive rust references
+A:https://google.github.io/comprehensive-rust/references.html
+
+Q:comprehensive rust running the course
+A:https://google.github.io/comprehensive-rust/running-the-course.html
+
+Q:comprehensive rust smart pointers
+A:https://google.github.io/comprehensive-rust/smart-pointers.html
+
+Q:comprehensive rust std traits
+A:https://google.github.io/comprehensive-rust/std-traits.html
+
+Q:comprehensive rust std types
+A:https://google.github.io/comprehensive-rust/std-types.html
+
+Q:comprehensive rust SUMMARY
+A:https://google.github.io/comprehensive-rust/SUMMARY.html
+
+Q:comprehensive rust testing
+A:https://google.github.io/comprehensive-rust/testing.html
+
+Q:comprehensive rust tuples and arrays
+A:https://google.github.io/comprehensive-rust/tuples-and-arrays.html
+
+Q:comprehensive rust types and values
+A:https://google.github.io/comprehensive-rust/types-and-values.html
+
+Q:comprehensive rust unsafe rust
+A:https://google.github.io/comprehensive-rust/unsafe-rust.html
+
+Q:comprehensive rust user defined types
+A:https://google.github.io/comprehensive-rust/user-defined-types.html
+
+Q:comprehensive rust welcome day 1 afternoon
+A:https://google.github.io/comprehensive-rust/welcome-day-1-afternoon.html
+
+Q:comprehensive rust welcome day 1
+A:https://google.github.io/comprehensive-rust/welcome-day-1.html
+
+Q:comprehensive rust welcome day 2 afternoon
+A:https://google.github.io/comprehensive-rust/welcome-day-2-afternoon.html
+
+Q:comprehensive rust welcome day 2
+A:https://google.github.io/comprehensive-rust/welcome-day-2.html
+
+Q:comprehensive rust welcome day 3 afternoon
+A:https://google.github.io/comprehensive-rust/welcome-day-3-afternoon.html
+
+Q:comprehensive rust welcome day 3
+A:https://google.github.io/comprehensive-rust/welcome-day-3.html
+
+Q:comprehensive rust welcome day 4 afternoon
+A:https://google.github.io/comprehensive-rust/welcome-day-4-afternoon.html
+
+Q:comprehensive rust welcome day 4
+A:https://google.github.io/comprehensive-rust/welcome-day-4.html
+
+Q:comprehensive rust android aidl
+A:https://google.github.io/comprehensive-rust/android\aidl.html
+
+Q:comprehensive rust android build rules
+A:https://google.github.io/comprehensive-rust/android\build-rules.html
+
+Q:comprehensive rust android interoperability
+A:https://google.github.io/comprehensive-rust/android\interoperability.html
+
+Q:comprehensive rust android logging
+A:https://google.github.io/comprehensive-rust/android\logging.html
+
+Q:comprehensive rust android setup
+A:https://google.github.io/comprehensive-rust/android\setup.html
+
+Q:comprehensive rust android testing
+A:https://google.github.io/comprehensive-rust/android\testing.html
+
+Q:comprehensive rust android aidl birthday service
+A:https://google.github.io/comprehensive-rust/android\aidl\birthday-service.html
+
+Q:comprehensive rust android aidl types
+A:https://google.github.io/comprehensive-rust/android\aidl\types.html
+
+Q:comprehensive rust android aidl example service changing definition
+A:https://google.github.io/comprehensive-rust/android\aidl\example-service\changing-definition.html
+
+Q:comprehensive rust android aidl example service changing implementation
+A:https://google.github.io/comprehensive-rust/android\aidl\example-service\changing-implementation.html
+
+Q:comprehensive rust android aidl example service client
+A:https://google.github.io/comprehensive-rust/android\aidl\example-service\client.html
+
+Q:comprehensive rust android aidl example service deploy
+A:https://google.github.io/comprehensive-rust/android\aidl\example-service\deploy.html
+
+Q:comprehensive rust android aidl example service implementation
+A:https://google.github.io/comprehensive-rust/android\aidl\example-service\implementation.html
+
+Q:comprehensive rust android aidl example service interface
+A:https://google.github.io/comprehensive-rust/android\aidl\example-service\interface.html
+
+Q:comprehensive rust android aidl example service server
+A:https://google.github.io/comprehensive-rust/android\aidl\example-service\server.html
+
+Q:comprehensive rust android aidl example service service bindings
+A:https://google.github.io/comprehensive-rust/android\aidl\example-service\service-bindings.html
+
+Q:comprehensive rust android aidl example service service
+A:https://google.github.io/comprehensive-rust/android\aidl\example-service\service.html
+
+Q:comprehensive rust android aidl types arrays
+A:https://google.github.io/comprehensive-rust/android\aidl\types\arrays.html
+
+Q:comprehensive rust android aidl types file descriptor
+A:https://google.github.io/comprehensive-rust/android\aidl\types\file-descriptor.html
+
+Q:comprehensive rust android aidl types objects
+A:https://google.github.io/comprehensive-rust/android\aidl\types\objects.html
+
+Q:comprehensive rust android aidl types parcelables
+A:https://google.github.io/comprehensive-rust/android\aidl\types\parcelables.html
+
+Q:comprehensive rust android aidl types primitives
+A:https://google.github.io/comprehensive-rust/android\aidl\types\primitives.html
+
+Q:comprehensive rust android build rules binary
+A:https://google.github.io/comprehensive-rust/android\build-rules\binary.html
+
+Q:comprehensive rust android build rules library
+A:https://google.github.io/comprehensive-rust/android\build-rules\library.html
+
+Q:comprehensive rust android interoperability cpp
+A:https://google.github.io/comprehensive-rust/android\interoperability\cpp.html
+
+Q:comprehensive rust android interoperability java
+A:https://google.github.io/comprehensive-rust/android\interoperability\java.html
+
+Q:comprehensive rust android interoperability with c
+A:https://google.github.io/comprehensive-rust/android\interoperability\with-c.html
+
+Q:comprehensive rust android interoperability cpp android build cpp
+A:https://google.github.io/comprehensive-rust/android\interoperability\cpp\android-build-cpp.html
+
+Q:comprehensive rust android interoperability cpp android build rust
+A:https://google.github.io/comprehensive-rust/android\interoperability\cpp\android-build-rust.html
+
+Q:comprehensive rust android interoperability cpp android cpp genrules
+A:https://google.github.io/comprehensive-rust/android\interoperability\cpp\android-cpp-genrules.html
+
+Q:comprehensive rust android interoperability cpp bridge
+A:https://google.github.io/comprehensive-rust/android\interoperability\cpp\bridge.html
+
+Q:comprehensive rust android interoperability cpp cpp bridge
+A:https://google.github.io/comprehensive-rust/android\interoperability\cpp\cpp-bridge.html
+
+Q:comprehensive rust android interoperability cpp cpp exception
+A:https://google.github.io/comprehensive-rust/android\interoperability\cpp\cpp-exception.html
+
+Q:comprehensive rust android interoperability cpp generated cpp
+A:https://google.github.io/comprehensive-rust/android\interoperability\cpp\generated-cpp.html
+
+Q:comprehensive rust android interoperability cpp rust bridge
+A:https://google.github.io/comprehensive-rust/android\interoperability\cpp\rust-bridge.html
+
+Q:comprehensive rust android interoperability cpp rust result
+A:https://google.github.io/comprehensive-rust/android\interoperability\cpp\rust-result.html
+
+Q:comprehensive rust android interoperability cpp shared enums
+A:https://google.github.io/comprehensive-rust/android\interoperability\cpp\shared-enums.html
+
+Q:comprehensive rust android interoperability cpp shared types
+A:https://google.github.io/comprehensive-rust/android\interoperability\cpp\shared-types.html
+
+Q:comprehensive rust android interoperability cpp type mapping
+A:https://google.github.io/comprehensive-rust/android\interoperability\cpp\type-mapping.html
+
+Q:comprehensive rust android interoperability with c bindgen
+A:https://google.github.io/comprehensive-rust/android\interoperability\with-c\bindgen.html
+
+Q:comprehensive rust android interoperability with c c library
+A:https://google.github.io/comprehensive-rust/android\interoperability\with-c\c-library.html
+
+Q:comprehensive rust android interoperability with c hand written
+A:https://google.github.io/comprehensive-rust/android\interoperability\with-c\hand-written.html
+
+Q:comprehensive rust android interoperability with c run our binary
+A:https://google.github.io/comprehensive-rust/android\interoperability\with-c\run-our-binary.html
+
+Q:comprehensive rust android interoperability with c rust library
+A:https://google.github.io/comprehensive-rust/android\interoperability\with-c\rust-library.html
+
+Q:comprehensive rust android interoperability with c rust
+A:https://google.github.io/comprehensive-rust/android\interoperability\with-c\rust.html
+
+Q:comprehensive rust android interoperability with c bindgen c library
+A:https://google.github.io/comprehensive-rust/android\interoperability\with-c\bindgen\c-library.html
+
+Q:comprehensive rust android testing googletest
+A:https://google.github.io/comprehensive-rust/android\testing\googletest.html
+
+Q:comprehensive rust android testing mocking
+A:https://google.github.io/comprehensive-rust/android\testing\mocking.html
+
+Q:comprehensive rust bare metal alloc
+A:https://google.github.io/comprehensive-rust/bare-metal\alloc.html
+
+Q:comprehensive rust bare metal android
+A:https://google.github.io/comprehensive-rust/bare-metal\android.html
+
+Q:comprehensive rust bare metal aps
+A:https://google.github.io/comprehensive-rust/bare-metal\aps.html
+
+Q:comprehensive rust bare metal microcontrollers
+A:https://google.github.io/comprehensive-rust/bare-metal\microcontrollers.html
+
+Q:comprehensive rust bare metal minimal
+A:https://google.github.io/comprehensive-rust/bare-metal\minimal.html
+
+Q:comprehensive rust bare metal no std
+A:https://google.github.io/comprehensive-rust/bare-metal\no_std.html
+
+Q:comprehensive rust bare metal useful crates
+A:https://google.github.io/comprehensive-rust/bare-metal\useful-crates.html
+
+Q:comprehensive rust bare metal android vmbase
+A:https://google.github.io/comprehensive-rust/bare-metal\android\vmbase.html
+
+Q:comprehensive rust bare metal aps aarch64 rt
+A:https://google.github.io/comprehensive-rust/bare-metal\aps\aarch64-rt.html
+
+Q:comprehensive rust bare metal aps better uart
+A:https://google.github.io/comprehensive-rust/bare-metal\aps\better-uart.html
+
+Q:comprehensive rust bare metal aps entry point
+A:https://google.github.io/comprehensive-rust/bare-metal\aps\entry-point.html
+
+Q:comprehensive rust bare metal aps exceptions
+A:https://google.github.io/comprehensive-rust/bare-metal\aps\exceptions.html
+
+Q:comprehensive rust bare metal aps inline assembly
+A:https://google.github.io/comprehensive-rust/bare-metal\aps\inline-assembly.html
+
+Q:comprehensive rust bare metal aps logging
+A:https://google.github.io/comprehensive-rust/bare-metal\aps\logging.html
+
+Q:comprehensive rust bare metal aps mmio
+A:https://google.github.io/comprehensive-rust/bare-metal\aps\mmio.html
+
+Q:comprehensive rust bare metal aps other projects
+A:https://google.github.io/comprehensive-rust/bare-metal\aps\other-projects.html
+
+Q:comprehensive rust bare metal aps uart
+A:https://google.github.io/comprehensive-rust/bare-metal\aps\uart.html
+
+Q:comprehensive rust bare metal aps better uart bitflags
+A:https://google.github.io/comprehensive-rust/bare-metal\aps\better-uart\bitflags.html
+
+Q:comprehensive rust bare metal aps better uart driver
+A:https://google.github.io/comprehensive-rust/bare-metal\aps\better-uart\driver.html
+
+Q:comprehensive rust bare metal aps better uart registers
+A:https://google.github.io/comprehensive-rust/bare-metal\aps\better-uart\registers.html
+
+Q:comprehensive rust bare metal aps logging using
+A:https://google.github.io/comprehensive-rust/bare-metal\aps\logging\using.html
+
+Q:comprehensive rust bare metal aps safemmio driver
+A:https://google.github.io/comprehensive-rust/bare-metal\aps\safemmio\driver.html
+
+Q:comprehensive rust bare metal aps safemmio registers
+A:https://google.github.io/comprehensive-rust/bare-metal\aps\safemmio\registers.html
+
+Q:comprehensive rust bare metal aps safemmio using
+A:https://google.github.io/comprehensive-rust/bare-metal\aps\safemmio\using.html
+
+Q:comprehensive rust bare metal aps uart traits
+A:https://google.github.io/comprehensive-rust/bare-metal\aps\uart\traits.html
+
+Q:comprehensive rust bare metal aps uart using
+A:https://google.github.io/comprehensive-rust/bare-metal\aps\uart\using.html
+
+Q:comprehensive rust bare metal microcontrollers board support
+A:https://google.github.io/comprehensive-rust/bare-metal\microcontrollers\board-support.html
+
+Q:comprehensive rust bare metal microcontrollers debugging
+A:https://google.github.io/comprehensive-rust/bare-metal\microcontrollers\debugging.html
+
+Q:comprehensive rust bare metal microcontrollers embedded hal
+A:https://google.github.io/comprehensive-rust/bare-metal\microcontrollers\embedded-hal.html
+
+Q:comprehensive rust bare metal microcontrollers hals
+A:https://google.github.io/comprehensive-rust/bare-metal\microcontrollers\hals.html
+
+Q:comprehensive rust bare metal microcontrollers mmio
+A:https://google.github.io/comprehensive-rust/bare-metal\microcontrollers\mmio.html
+
+Q:comprehensive rust bare metal microcontrollers other projects
+A:https://google.github.io/comprehensive-rust/bare-metal\microcontrollers\other-projects.html
+
+Q:comprehensive rust bare metal microcontrollers pacs
+A:https://google.github.io/comprehensive-rust/bare-metal\microcontrollers\pacs.html
+
+Q:comprehensive rust bare metal microcontrollers probe rs
+A:https://google.github.io/comprehensive-rust/bare-metal\microcontrollers\probe-rs.html
+
+Q:comprehensive rust bare metal microcontrollers type state
+A:https://google.github.io/comprehensive-rust/bare-metal\microcontrollers\type-state.html
+
+Q:comprehensive rust bare metal useful crates aarch64 paging
+A:https://google.github.io/comprehensive-rust/bare-metal\useful-crates\aarch64-paging.html
+
+Q:comprehensive rust bare metal useful crates buddy system allocator
+A:https://google.github.io/comprehensive-rust/bare-metal\useful-crates\buddy_system_allocator.html
+
+Q:comprehensive rust bare metal useful crates spin
+A:https://google.github.io/comprehensive-rust/bare-metal\useful-crates\spin.html
+
+Q:comprehensive rust bare metal useful crates tinyvec
+A:https://google.github.io/comprehensive-rust/bare-metal\useful-crates\tinyvec.html
+
+Q:comprehensive rust bare metal useful crates zerocopy
+A:https://google.github.io/comprehensive-rust/bare-metal\useful-crates\zerocopy.html
+
+Q:comprehensive rust borrowing borrowck
+A:https://google.github.io/comprehensive-rust/borrowing\borrowck.html
+
+Q:comprehensive rust borrowing examples
+A:https://google.github.io/comprehensive-rust/borrowing\examples.html
+
+Q:comprehensive rust borrowing exercise
+A:https://google.github.io/comprehensive-rust/borrowing\exercise.html
+
+Q:comprehensive rust borrowing interior mutability
+A:https://google.github.io/comprehensive-rust/borrowing\interior-mutability.html
+
+Q:comprehensive rust borrowing shared
+A:https://google.github.io/comprehensive-rust/borrowing\shared.html
+
+Q:comprehensive rust borrowing solution
+A:https://google.github.io/comprehensive-rust/borrowing\solution.html
+
+Q:comprehensive rust borrowing interior mutability cell
+A:https://google.github.io/comprehensive-rust/borrowing\interior-mutability\cell.html
+
+Q:comprehensive rust borrowing interior mutability refcell
+A:https://google.github.io/comprehensive-rust/borrowing\interior-mutability\refcell.html
+
+Q:comprehensive rust cargo code samples
+A:https://google.github.io/comprehensive-rust/cargo\code-samples.html
+
+Q:comprehensive rust cargo running locally
+A:https://google.github.io/comprehensive-rust/cargo\running-locally.html
+
+Q:comprehensive rust cargo rust ecosystem
+A:https://google.github.io/comprehensive-rust/cargo\rust-ecosystem.html
+
+Q:comprehensive rust chromium adding third party crates
+A:https://google.github.io/comprehensive-rust/chromium\adding-third-party-crates.html
+
+Q:comprehensive rust chromium build rules
+A:https://google.github.io/comprehensive-rust/chromium\build-rules.html
+
+Q:comprehensive rust chromium cargo
+A:https://google.github.io/comprehensive-rust/chromium\cargo.html
+
+Q:comprehensive rust chromium interoperability with cpp
+A:https://google.github.io/comprehensive-rust/chromium\interoperability-with-cpp.html
+
+Q:comprehensive rust chromium policy
+A:https://google.github.io/comprehensive-rust/chromium\policy.html
+
+Q:comprehensive rust chromium setup
+A:https://google.github.io/comprehensive-rust/chromium\setup.html
+
+Q:comprehensive rust chromium testing
+A:https://google.github.io/comprehensive-rust/chromium\testing.html
+
+Q:comprehensive rust chromium adding third party crates checking in
+A:https://google.github.io/comprehensive-rust/chromium\adding-third-party-crates\checking-in.html
+
+Q:comprehensive rust chromium adding third party crates configuring cargo toml
+A:https://google.github.io/comprehensive-rust/chromium\adding-third-party-crates\configuring-cargo-toml.html
+
+Q:comprehensive rust chromium adding third party crates configuring gnrt config toml
+A:https://google.github.io/comprehensive-rust/chromium\adding-third-party-crates\configuring-gnrt-config-toml.html
+
+Q:comprehensive rust chromium adding third party crates depending on a crate
+A:https://google.github.io/comprehensive-rust/chromium\adding-third-party-crates\depending-on-a-crate.html
+
+Q:comprehensive rust chromium adding third party crates downloading crates
+A:https://google.github.io/comprehensive-rust/chromium\adding-third-party-crates\downloading-crates.html
+
+Q:comprehensive rust chromium adding third party crates generating gn build rules
+A:https://google.github.io/comprehensive-rust/chromium\adding-third-party-crates\generating-gn-build-rules.html
+
+Q:comprehensive rust chromium adding third party crates keeping up to date
+A:https://google.github.io/comprehensive-rust/chromium\adding-third-party-crates\keeping-up-to-date.html
+
+Q:comprehensive rust chromium adding third party crates resolving problems
+A:https://google.github.io/comprehensive-rust/chromium\adding-third-party-crates\resolving-problems.html
+
+Q:comprehensive rust chromium adding third party crates reviews and audits
+A:https://google.github.io/comprehensive-rust/chromium\adding-third-party-crates\reviews-and-audits.html
+
+Q:comprehensive rust chromium adding third party crates resolving problems build scripts which generate code
+A:https://google.github.io/comprehensive-rust/chromium\adding-third-party-crates\resolving-problems\build-scripts-which-generate-code.html
+
+Q:comprehensive rust chromium adding third party crates resolving problems build scripts which take arbitrary actions
+A:https://google.github.io/comprehensive-rust/chromium\adding-third-party-crates\resolving-problems\build-scripts-which-take-arbitrary-actions.html
+
+Q:comprehensive rust chromium build rules depending
+A:https://google.github.io/comprehensive-rust/chromium\build-rules\depending.html
+
+Q:comprehensive rust chromium build rules unsafe
+A:https://google.github.io/comprehensive-rust/chromium\build-rules\unsafe.html
+
+Q:comprehensive rust chromium build rules vscode
+A:https://google.github.io/comprehensive-rust/chromium\build-rules\vscode.html
+
+Q:comprehensive rust chromium interoperability with cpp error handling png
+A:https://google.github.io/comprehensive-rust/chromium\interoperability-with-cpp\error-handling-png.html
+
+Q:comprehensive rust chromium interoperability with cpp error handling qr
+A:https://google.github.io/comprehensive-rust/chromium\interoperability-with-cpp\error-handling-qr.html
+
+Q:comprehensive rust chromium interoperability with cpp error handling
+A:https://google.github.io/comprehensive-rust/chromium\interoperability-with-cpp\error-handling.html
+
+Q:comprehensive rust chromium interoperability with cpp example bindings
+A:https://google.github.io/comprehensive-rust/chromium\interoperability-with-cpp\example-bindings.html
+
+Q:comprehensive rust chromium interoperability with cpp limitations of cxx
+A:https://google.github.io/comprehensive-rust/chromium\interoperability-with-cpp\limitations-of-cxx.html
+
+Q:comprehensive rust chromium interoperability with cpp using cxx in chromium
+A:https://google.github.io/comprehensive-rust/chromium\interoperability-with-cpp\using-cxx-in-chromium.html
+
+Q:comprehensive rust chromium testing build gn
+A:https://google.github.io/comprehensive-rust/chromium\testing\build-gn.html
+
+Q:comprehensive rust chromium testing chromium import macro
+A:https://google.github.io/comprehensive-rust/chromium\testing\chromium-import-macro.html
+
+Q:comprehensive rust chromium testing rust gtest interop
+A:https://google.github.io/comprehensive-rust/chromium\testing\rust-gtest-interop.html
+
+Q:comprehensive rust closures capturing
+A:https://google.github.io/comprehensive-rust/closures\capturing.html
+
+Q:comprehensive rust closures exercise
+A:https://google.github.io/comprehensive-rust/closures\exercise.html
+
+Q:comprehensive rust closures solution
+A:https://google.github.io/comprehensive-rust/closures\solution.html
+
+Q:comprehensive rust closures syntax
+A:https://google.github.io/comprehensive-rust/closures\syntax.html
+
+Q:comprehensive rust closures traits
+A:https://google.github.io/comprehensive-rust/closures\traits.html
+
+Q:comprehensive rust concurrency async control flow
+A:https://google.github.io/comprehensive-rust/concurrency\async-control-flow.html
+
+Q:comprehensive rust concurrency async exercises
+A:https://google.github.io/comprehensive-rust/concurrency\async-exercises.html
+
+Q:comprehensive rust concurrency async pitfalls
+A:https://google.github.io/comprehensive-rust/concurrency\async-pitfalls.html
+
+Q:comprehensive rust concurrency async
+A:https://google.github.io/comprehensive-rust/concurrency\async.html
+
+Q:comprehensive rust concurrency channels
+A:https://google.github.io/comprehensive-rust/concurrency\channels.html
+
+Q:comprehensive rust concurrency send sync
+A:https://google.github.io/comprehensive-rust/concurrency\send-sync.html
+
+Q:comprehensive rust concurrency shared state
+A:https://google.github.io/comprehensive-rust/concurrency\shared-state.html
+
+Q:comprehensive rust concurrency sync exercises
+A:https://google.github.io/comprehensive-rust/concurrency\sync-exercises.html
+
+Q:comprehensive rust concurrency threads
+A:https://google.github.io/comprehensive-rust/concurrency\threads.html
+
+Q:comprehensive rust concurrency welcome async
+A:https://google.github.io/comprehensive-rust/concurrency\welcome-async.html
+
+Q:comprehensive rust concurrency welcome
+A:https://google.github.io/comprehensive-rust/concurrency\welcome.html
+
+Q:comprehensive rust concurrency async async await
+A:https://google.github.io/comprehensive-rust/concurrency\async\async-await.html
+
+Q:comprehensive rust concurrency async futures
+A:https://google.github.io/comprehensive-rust/concurrency\async\futures.html
+
+Q:comprehensive rust concurrency async runtimes
+A:https://google.github.io/comprehensive-rust/concurrency\async\runtimes.html
+
+Q:comprehensive rust concurrency async state machine
+A:https://google.github.io/comprehensive-rust/concurrency\async\state-machine.html
+
+Q:comprehensive rust concurrency async tasks
+A:https://google.github.io/comprehensive-rust/concurrency\async\tasks.html
+
+Q:comprehensive rust concurrency async runtimes tokio
+A:https://google.github.io/comprehensive-rust/concurrency\async\runtimes\tokio.html
+
+Q:comprehensive rust concurrency async control flow channels
+A:https://google.github.io/comprehensive-rust/concurrency\async-control-flow\channels.html
+
+Q:comprehensive rust concurrency async control flow join
+A:https://google.github.io/comprehensive-rust/concurrency\async-control-flow\join.html
+
+Q:comprehensive rust concurrency async control flow select
+A:https://google.github.io/comprehensive-rust/concurrency\async-control-flow\select.html
+
+Q:comprehensive rust concurrency async exercises afternoon
+A:https://google.github.io/comprehensive-rust/concurrency\async-exercises\afternoon.html
+
+Q:comprehensive rust concurrency async exercises chat app
+A:https://google.github.io/comprehensive-rust/concurrency\async-exercises\chat-app.html
+
+Q:comprehensive rust concurrency async exercises dining philosophers
+A:https://google.github.io/comprehensive-rust/concurrency\async-exercises\dining-philosophers.html
+
+Q:comprehensive rust concurrency async exercises solutions
+A:https://google.github.io/comprehensive-rust/concurrency\async-exercises\solutions.html
+
+Q:comprehensive rust concurrency async pitfalls async traits
+A:https://google.github.io/comprehensive-rust/concurrency\async-pitfalls\async-traits.html
+
+Q:comprehensive rust concurrency async pitfalls blocking executor
+A:https://google.github.io/comprehensive-rust/concurrency\async-pitfalls\blocking-executor.html
+
+Q:comprehensive rust concurrency async pitfalls cancellation
+A:https://google.github.io/comprehensive-rust/concurrency\async-pitfalls\cancellation.html
+
+Q:comprehensive rust concurrency async pitfalls pin
+A:https://google.github.io/comprehensive-rust/concurrency\async-pitfalls\pin.html
+
+Q:comprehensive rust concurrency channels bounded
+A:https://google.github.io/comprehensive-rust/concurrency\channels\bounded.html
+
+Q:comprehensive rust concurrency channels senders receivers
+A:https://google.github.io/comprehensive-rust/concurrency\channels\senders-receivers.html
+
+Q:comprehensive rust concurrency channels unbounded
+A:https://google.github.io/comprehensive-rust/concurrency\channels\unbounded.html
+
+Q:comprehensive rust concurrency send sync examples
+A:https://google.github.io/comprehensive-rust/concurrency\send-sync\examples.html
+
+Q:comprehensive rust concurrency send sync marker traits
+A:https://google.github.io/comprehensive-rust/concurrency\send-sync\marker-traits.html
+
+Q:comprehensive rust concurrency send sync send
+A:https://google.github.io/comprehensive-rust/concurrency\send-sync\send.html
+
+Q:comprehensive rust concurrency send sync sync
+A:https://google.github.io/comprehensive-rust/concurrency\send-sync\sync.html
+
+Q:comprehensive rust concurrency shared state arc
+A:https://google.github.io/comprehensive-rust/concurrency\shared-state\arc.html
+
+Q:comprehensive rust concurrency shared state example
+A:https://google.github.io/comprehensive-rust/concurrency\shared-state\example.html
+
+Q:comprehensive rust concurrency shared state mutex
+A:https://google.github.io/comprehensive-rust/concurrency\shared-state\mutex.html
+
+Q:comprehensive rust concurrency sync exercises dining philosophers
+A:https://google.github.io/comprehensive-rust/concurrency\sync-exercises\dining-philosophers.html
+
+Q:comprehensive rust concurrency sync exercises link checker
+A:https://google.github.io/comprehensive-rust/concurrency\sync-exercises\link-checker.html
+
+Q:comprehensive rust concurrency sync exercises solutions
+A:https://google.github.io/comprehensive-rust/concurrency\sync-exercises\solutions.html
+
+Q:comprehensive rust concurrency threads plain
+A:https://google.github.io/comprehensive-rust/concurrency\threads\plain.html
+
+Q:comprehensive rust concurrency threads scoped
+A:https://google.github.io/comprehensive-rust/concurrency\threads\scoped.html
+
+Q:comprehensive rust control flow basics blocks and scopes
+A:https://google.github.io/comprehensive-rust/control-flow-basics\blocks-and-scopes.html
+
+Q:comprehensive rust control flow basics break continue
+A:https://google.github.io/comprehensive-rust/control-flow-basics\break-continue.html
+
+Q:comprehensive rust control flow basics exercise
+A:https://google.github.io/comprehensive-rust/control-flow-basics\exercise.html
+
+Q:comprehensive rust control flow basics functions
+A:https://google.github.io/comprehensive-rust/control-flow-basics\functions.html
+
+Q:comprehensive rust control flow basics if
+A:https://google.github.io/comprehensive-rust/control-flow-basics\if.html
+
+Q:comprehensive rust control flow basics loops
+A:https://google.github.io/comprehensive-rust/control-flow-basics\loops.html
+
+Q:comprehensive rust control flow basics macros
+A:https://google.github.io/comprehensive-rust/control-flow-basics\macros.html
+
+Q:comprehensive rust control flow basics match
+A:https://google.github.io/comprehensive-rust/control-flow-basics\match.html
+
+Q:comprehensive rust control flow basics solution
+A:https://google.github.io/comprehensive-rust/control-flow-basics\solution.html
+
+Q:comprehensive rust control flow basics break continue labels
+A:https://google.github.io/comprehensive-rust/control-flow-basics\break-continue\labels.html
+
+Q:comprehensive rust control flow basics loops for
+A:https://google.github.io/comprehensive-rust/control-flow-basics\loops\for.html
+
+Q:comprehensive rust control flow basics loops loop
+A:https://google.github.io/comprehensive-rust/control-flow-basics\loops\loop.html
+
+Q:comprehensive rust error handling anyhow
+A:https://google.github.io/comprehensive-rust/error-handling\anyhow.html
+
+Q:comprehensive rust error handling error
+A:https://google.github.io/comprehensive-rust/error-handling\error.html
+
+Q:comprehensive rust error handling exercise
+A:https://google.github.io/comprehensive-rust/error-handling\exercise.html
+
+Q:comprehensive rust error handling panics
+A:https://google.github.io/comprehensive-rust/error-handling\panics.html
+
+Q:comprehensive rust error handling result
+A:https://google.github.io/comprehensive-rust/error-handling\result.html
+
+Q:comprehensive rust error handling solution
+A:https://google.github.io/comprehensive-rust/error-handling\solution.html
+
+Q:comprehensive rust error handling thiserror
+A:https://google.github.io/comprehensive-rust/error-handling\thiserror.html
+
+Q:comprehensive rust error handling try conversions
+A:https://google.github.io/comprehensive-rust/error-handling\try-conversions.html
+
+Q:comprehensive rust error handling try
+A:https://google.github.io/comprehensive-rust/error-handling\try.html
+
+Q:comprehensive rust exercises bare metal afternoon
+A:https://google.github.io/comprehensive-rust/exercises\bare-metal\afternoon.html
+
+Q:comprehensive rust exercises bare metal compass
+A:https://google.github.io/comprehensive-rust/exercises\bare-metal\compass.html
+
+Q:comprehensive rust exercises bare metal morning
+A:https://google.github.io/comprehensive-rust/exercises\bare-metal\morning.html
+
+Q:comprehensive rust exercises bare metal rtc
+A:https://google.github.io/comprehensive-rust/exercises\bare-metal\rtc.html
+
+Q:comprehensive rust exercises bare metal solutions afternoon
+A:https://google.github.io/comprehensive-rust/exercises\bare-metal\solutions-afternoon.html
+
+Q:comprehensive rust exercises bare metal solutions morning
+A:https://google.github.io/comprehensive-rust/exercises\bare-metal\solutions-morning.html
+
+Q:comprehensive rust exercises chromium bringing it together
+A:https://google.github.io/comprehensive-rust/exercises\chromium\bringing-it-together.html
+
+Q:comprehensive rust exercises chromium build rules
+A:https://google.github.io/comprehensive-rust/exercises\chromium\build-rules.html
+
+Q:comprehensive rust exercises chromium interoperability with cpp
+A:https://google.github.io/comprehensive-rust/exercises\chromium\interoperability-with-cpp.html
+
+Q:comprehensive rust exercises chromium solutions
+A:https://google.github.io/comprehensive-rust/exercises\chromium\solutions.html
+
+Q:comprehensive rust exercises chromium testing
+A:https://google.github.io/comprehensive-rust/exercises\chromium\testing.html
+
+Q:comprehensive rust exercises chromium third party
+A:https://google.github.io/comprehensive-rust/exercises\chromium\third-party.html
+
+Q:comprehensive rust generics dyn trait
+A:https://google.github.io/comprehensive-rust/generics\dyn-trait.html
+
+Q:comprehensive rust generics exercise
+A:https://google.github.io/comprehensive-rust/generics\exercise.html
+
+Q:comprehensive rust generics generic data
+A:https://google.github.io/comprehensive-rust/generics\generic-data.html
+
+Q:comprehensive rust generics generic functions
+A:https://google.github.io/comprehensive-rust/generics\generic-functions.html
+
+Q:comprehensive rust generics generic traits
+A:https://google.github.io/comprehensive-rust/generics\generic-traits.html
+
+Q:comprehensive rust generics impl trait
+A:https://google.github.io/comprehensive-rust/generics\impl-trait.html
+
+Q:comprehensive rust generics solution
+A:https://google.github.io/comprehensive-rust/generics\solution.html
+
+Q:comprehensive rust generics trait bounds
+A:https://google.github.io/comprehensive-rust/generics\trait-bounds.html
+
+Q:comprehensive rust hello world benefits
+A:https://google.github.io/comprehensive-rust/hello-world\benefits.html
+
+Q:comprehensive rust hello world playground
+A:https://google.github.io/comprehensive-rust/hello-world\playground.html
+
+Q:comprehensive rust hello world what is rust
+A:https://google.github.io/comprehensive-rust/hello-world\what-is-rust.html
+
+Q:comprehensive rust idiomatic leveraging the type system
+A:https://google.github.io/comprehensive-rust/idiomatic\leveraging-the-type-system.html
+
+Q:comprehensive rust idiomatic welcome
+A:https://google.github.io/comprehensive-rust/idiomatic\welcome.html
+
+Q:comprehensive rust idiomatic leveraging the type system newtype pattern
+A:https://google.github.io/comprehensive-rust/idiomatic\leveraging-the-type-system\newtype-pattern.html
+
+Q:comprehensive rust idiomatic leveraging the type system newtype pattern is it encapsulated
+A:https://google.github.io/comprehensive-rust/idiomatic\leveraging-the-type-system\newtype-pattern\is-it-encapsulated.html
+
+Q:comprehensive rust idiomatic leveraging the type system newtype pattern parse don t validate
+A:https://google.github.io/comprehensive-rust/idiomatic\leveraging-the-type-system\newtype-pattern\parse-don-t-validate.html
+
+Q:comprehensive rust idiomatic leveraging the type system newtype pattern semantic confusion
+A:https://google.github.io/comprehensive-rust/idiomatic\leveraging-the-type-system\newtype-pattern\semantic-confusion.html
+
+Q:comprehensive rust iterators collect
+A:https://google.github.io/comprehensive-rust/iterators\collect.html
+
+Q:comprehensive rust iterators exercise
+A:https://google.github.io/comprehensive-rust/iterators\exercise.html
+
+Q:comprehensive rust iterators helpers
+A:https://google.github.io/comprehensive-rust/iterators\helpers.html
+
+Q:comprehensive rust iterators intoiterator
+A:https://google.github.io/comprehensive-rust/iterators\intoiterator.html
+
+Q:comprehensive rust iterators iterator
+A:https://google.github.io/comprehensive-rust/iterators\iterator.html
+
+Q:comprehensive rust iterators motivation
+A:https://google.github.io/comprehensive-rust/iterators\motivation.html
+
+Q:comprehensive rust iterators solution
+A:https://google.github.io/comprehensive-rust/iterators\solution.html
+
+Q:comprehensive rust lifetimes exercise
+A:https://google.github.io/comprehensive-rust/lifetimes\exercise.html
+
+Q:comprehensive rust lifetimes lifetime annotations
+A:https://google.github.io/comprehensive-rust/lifetimes\lifetime-annotations.html
+
+Q:comprehensive rust lifetimes lifetime elision
+A:https://google.github.io/comprehensive-rust/lifetimes\lifetime-elision.html
+
+Q:comprehensive rust lifetimes solution
+A:https://google.github.io/comprehensive-rust/lifetimes\solution.html
+
+Q:comprehensive rust lifetimes struct lifetimes
+A:https://google.github.io/comprehensive-rust/lifetimes\struct-lifetimes.html
+
+Q:comprehensive rust memory management approaches
+A:https://google.github.io/comprehensive-rust/memory-management\approaches.html
+
+Q:comprehensive rust memory management clone
+A:https://google.github.io/comprehensive-rust/memory-management\clone.html
+
+Q:comprehensive rust memory management copy types
+A:https://google.github.io/comprehensive-rust/memory-management\copy-types.html
+
+Q:comprehensive rust memory management drop
+A:https://google.github.io/comprehensive-rust/memory-management\drop.html
+
+Q:comprehensive rust memory management exercise
+A:https://google.github.io/comprehensive-rust/memory-management\exercise.html
+
+Q:comprehensive rust memory management move
+A:https://google.github.io/comprehensive-rust/memory-management\move.html
+
+Q:comprehensive rust memory management ownership
+A:https://google.github.io/comprehensive-rust/memory-management\ownership.html
+
+Q:comprehensive rust memory management review
+A:https://google.github.io/comprehensive-rust/memory-management\review.html
+
+Q:comprehensive rust memory management solution
+A:https://google.github.io/comprehensive-rust/memory-management\solution.html
+
+Q:comprehensive rust methods and traits deriving
+A:https://google.github.io/comprehensive-rust/methods-and-traits\deriving.html
+
+Q:comprehensive rust methods and traits exercise
+A:https://google.github.io/comprehensive-rust/methods-and-traits\exercise.html
+
+Q:comprehensive rust methods and traits methods
+A:https://google.github.io/comprehensive-rust/methods-and-traits\methods.html
+
+Q:comprehensive rust methods and traits solution
+A:https://google.github.io/comprehensive-rust/methods-and-traits\solution.html
+
+Q:comprehensive rust methods and traits traits
+A:https://google.github.io/comprehensive-rust/methods-and-traits\traits.html
+
+Q:comprehensive rust methods and traits traits associated types
+A:https://google.github.io/comprehensive-rust/methods-and-traits\traits\associated-types.html
+
+Q:comprehensive rust methods and traits traits implementing
+A:https://google.github.io/comprehensive-rust/methods-and-traits\traits\implementing.html
+
+Q:comprehensive rust methods and traits traits supertraits
+A:https://google.github.io/comprehensive-rust/methods-and-traits\traits\supertraits.html
+
+Q:comprehensive rust modules encapsulation
+A:https://google.github.io/comprehensive-rust/modules\encapsulation.html
+
+Q:comprehensive rust modules exercise
+A:https://google.github.io/comprehensive-rust/modules\exercise.html
+
+Q:comprehensive rust modules filesystem
+A:https://google.github.io/comprehensive-rust/modules\filesystem.html
+
+Q:comprehensive rust modules modules
+A:https://google.github.io/comprehensive-rust/modules\modules.html
+
+Q:comprehensive rust modules paths
+A:https://google.github.io/comprehensive-rust/modules\paths.html
+
+Q:comprehensive rust modules solution
+A:https://google.github.io/comprehensive-rust/modules\solution.html
+
+Q:comprehensive rust modules visibility
+A:https://google.github.io/comprehensive-rust/modules\visibility.html
+
+Q:comprehensive rust pattern matching destructuring enums
+A:https://google.github.io/comprehensive-rust/pattern-matching\destructuring-enums.html
+
+Q:comprehensive rust pattern matching destructuring structs
+A:https://google.github.io/comprehensive-rust/pattern-matching\destructuring-structs.html
+
+Q:comprehensive rust pattern matching exercise
+A:https://google.github.io/comprehensive-rust/pattern-matching\exercise.html
+
+Q:comprehensive rust pattern matching infallible
+A:https://google.github.io/comprehensive-rust/pattern-matching\infallible.html
+
+Q:comprehensive rust pattern matching let control flow
+A:https://google.github.io/comprehensive-rust/pattern-matching\let-control-flow.html
+
+Q:comprehensive rust pattern matching match
+A:https://google.github.io/comprehensive-rust/pattern-matching\match.html
+
+Q:comprehensive rust pattern matching solution
+A:https://google.github.io/comprehensive-rust/pattern-matching\solution.html
+
+Q:comprehensive rust pattern matching let control flow if let
+A:https://google.github.io/comprehensive-rust/pattern-matching\let-control-flow\if-let.html
+
+Q:comprehensive rust pattern matching let control flow let else
+A:https://google.github.io/comprehensive-rust/pattern-matching\let-control-flow\let-else.html
+
+Q:comprehensive rust pattern matching let control flow while let
+A:https://google.github.io/comprehensive-rust/pattern-matching\let-control-flow\while-let.html
+
+Q:comprehensive rust references dangling
+A:https://google.github.io/comprehensive-rust/references\dangling.html
+
+Q:comprehensive rust references exclusive
+A:https://google.github.io/comprehensive-rust/references\exclusive.html
+
+Q:comprehensive rust references exercise
+A:https://google.github.io/comprehensive-rust/references\exercise.html
+
+Q:comprehensive rust references shared
+A:https://google.github.io/comprehensive-rust/references\shared.html
+
+Q:comprehensive rust references slices
+A:https://google.github.io/comprehensive-rust/references\slices.html
+
+Q:comprehensive rust references solution
+A:https://google.github.io/comprehensive-rust/references\solution.html
+
+Q:comprehensive rust references strings
+A:https://google.github.io/comprehensive-rust/references\strings.html
+
+Q:comprehensive rust running the course course structure
+A:https://google.github.io/comprehensive-rust/running-the-course\course-structure.html
+
+Q:comprehensive rust running the course keyboard shortcuts
+A:https://google.github.io/comprehensive-rust/running-the-course\keyboard-shortcuts.html
+
+Q:comprehensive rust running the course translations
+A:https://google.github.io/comprehensive-rust/running-the-course\translations.html
+
+Q:comprehensive rust smart pointers box
+A:https://google.github.io/comprehensive-rust/smart-pointers\box.html
+
+Q:comprehensive rust smart pointers exercise
+A:https://google.github.io/comprehensive-rust/smart-pointers\exercise.html
+
+Q:comprehensive rust smart pointers rc
+A:https://google.github.io/comprehensive-rust/smart-pointers\rc.html
+
+Q:comprehensive rust smart pointers solution
+A:https://google.github.io/comprehensive-rust/smart-pointers\solution.html
+
+Q:comprehensive rust smart pointers trait objects
+A:https://google.github.io/comprehensive-rust/smart-pointers\trait-objects.html
+
+Q:comprehensive rust std traits casting
+A:https://google.github.io/comprehensive-rust/std-traits\casting.html
+
+Q:comprehensive rust std traits comparisons
+A:https://google.github.io/comprehensive-rust/std-traits\comparisons.html
+
+Q:comprehensive rust std traits default
+A:https://google.github.io/comprehensive-rust/std-traits\default.html
+
+Q:comprehensive rust std traits exercise
+A:https://google.github.io/comprehensive-rust/std-traits\exercise.html
+
+Q:comprehensive rust std traits from and into
+A:https://google.github.io/comprehensive-rust/std-traits\from-and-into.html
+
+Q:comprehensive rust std traits operators
+A:https://google.github.io/comprehensive-rust/std-traits\operators.html
+
+Q:comprehensive rust std traits read and write
+A:https://google.github.io/comprehensive-rust/std-traits\read-and-write.html
+
+Q:comprehensive rust std traits solution
+A:https://google.github.io/comprehensive-rust/std-traits\solution.html
+
+Q:comprehensive rust std types docs
+A:https://google.github.io/comprehensive-rust/std-types\docs.html
+
+Q:comprehensive rust std types exercise
+A:https://google.github.io/comprehensive-rust/std-types\exercise.html
+
+Q:comprehensive rust std types hashmap
+A:https://google.github.io/comprehensive-rust/std-types\hashmap.html
+
+Q:comprehensive rust std types option
+A:https://google.github.io/comprehensive-rust/std-types\option.html
+
+Q:comprehensive rust std types result
+A:https://google.github.io/comprehensive-rust/std-types\result.html
+
+Q:comprehensive rust std types solution
+A:https://google.github.io/comprehensive-rust/std-types\solution.html
+
+Q:comprehensive rust std types std
+A:https://google.github.io/comprehensive-rust/std-types\std.html
+
+Q:comprehensive rust std types string
+A:https://google.github.io/comprehensive-rust/std-types\string.html
+
+Q:comprehensive rust std types vec
+A:https://google.github.io/comprehensive-rust/std-types\vec.html
+
+Q:comprehensive rust testing exercise
+A:https://google.github.io/comprehensive-rust/testing\exercise.html
+
+Q:comprehensive rust testing lints
+A:https://google.github.io/comprehensive-rust/testing\lints.html
+
+Q:comprehensive rust testing other
+A:https://google.github.io/comprehensive-rust/testing\other.html
+
+Q:comprehensive rust testing solution
+A:https://google.github.io/comprehensive-rust/testing\solution.html
+
+Q:comprehensive rust testing unit tests
+A:https://google.github.io/comprehensive-rust/testing\unit-tests.html
+
+Q:comprehensive rust tuples and arrays arrays
+A:https://google.github.io/comprehensive-rust/tuples-and-arrays\arrays.html
+
+Q:comprehensive rust tuples and arrays destructuring
+A:https://google.github.io/comprehensive-rust/tuples-and-arrays\destructuring.html
+
+Q:comprehensive rust tuples and arrays exercise
+A:https://google.github.io/comprehensive-rust/tuples-and-arrays\exercise.html
+
+Q:comprehensive rust tuples and arrays iteration
+A:https://google.github.io/comprehensive-rust/tuples-and-arrays\iteration.html
+
+Q:comprehensive rust tuples and arrays solution
+A:https://google.github.io/comprehensive-rust/tuples-and-arrays\solution.html
+
+Q:comprehensive rust tuples and arrays tuples
+A:https://google.github.io/comprehensive-rust/tuples-and-arrays\tuples.html
+
+Q:comprehensive rust types and values arithmetic
+A:https://google.github.io/comprehensive-rust/types-and-values\arithmetic.html
+
+Q:comprehensive rust types and values exercise
+A:https://google.github.io/comprehensive-rust/types-and-values\exercise.html
+
+Q:comprehensive rust types and values hello world
+A:https://google.github.io/comprehensive-rust/types-and-values\hello-world.html
+
+Q:comprehensive rust types and values inference
+A:https://google.github.io/comprehensive-rust/types-and-values\inference.html
+
+Q:comprehensive rust types and values solution
+A:https://google.github.io/comprehensive-rust/types-and-values\solution.html
+
+Q:comprehensive rust types and values values
+A:https://google.github.io/comprehensive-rust/types-and-values\values.html
+
+Q:comprehensive rust types and values variables
+A:https://google.github.io/comprehensive-rust/types-and-values\variables.html
+
+Q:comprehensive rust unsafe deep dive foundations
+A:https://google.github.io/comprehensive-rust/unsafe-deep-dive\foundations.html
+
+Q:comprehensive rust unsafe deep dive motivations
+A:https://google.github.io/comprehensive-rust/unsafe-deep-dive\motivations.html
+
+Q:comprehensive rust unsafe deep dive setup
+A:https://google.github.io/comprehensive-rust/unsafe-deep-dive\setup.html
+
+Q:comprehensive rust unsafe deep dive welcome
+A:https://google.github.io/comprehensive-rust/unsafe-deep-dive\welcome.html
+
+Q:comprehensive rust unsafe deep dive foundations actions might not be
+A:https://google.github.io/comprehensive-rust/unsafe-deep-dive\foundations\actions-might-not-be.html
+
+Q:comprehensive rust unsafe deep dive foundations data structures are safe
+A:https://google.github.io/comprehensive-rust/unsafe-deep-dive\foundations\data-structures-are-safe.html
+
+Q:comprehensive rust unsafe deep dive foundations less powerful
+A:https://google.github.io/comprehensive-rust/unsafe-deep-dive\foundations\less-powerful.html
+
+Q:comprehensive rust unsafe deep dive foundations what is unsafe
+A:https://google.github.io/comprehensive-rust/unsafe-deep-dive\foundations\what-is-unsafe.html
+
+Q:comprehensive rust unsafe deep dive foundations when is unsafe used
+A:https://google.github.io/comprehensive-rust/unsafe-deep-dive\foundations\when-is-unsafe-used.html
+
+Q:comprehensive rust unsafe deep dive motivations data structures
+A:https://google.github.io/comprehensive-rust/unsafe-deep-dive\motivations\data-structures.html
+
+Q:comprehensive rust unsafe deep dive motivations interop
+A:https://google.github.io/comprehensive-rust/unsafe-deep-dive\motivations\interop.html
+
+Q:comprehensive rust unsafe deep dive motivations performance
+A:https://google.github.io/comprehensive-rust/unsafe-deep-dive\motivations\performance.html
+
+Q:comprehensive rust unsafe rust dereferencing
+A:https://google.github.io/comprehensive-rust/unsafe-rust\dereferencing.html
+
+Q:comprehensive rust unsafe rust exercise
+A:https://google.github.io/comprehensive-rust/unsafe-rust\exercise.html
+
+Q:comprehensive rust unsafe rust mutable static
+A:https://google.github.io/comprehensive-rust/unsafe-rust\mutable-static.html
+
+Q:comprehensive rust unsafe rust solution
+A:https://google.github.io/comprehensive-rust/unsafe-rust\solution.html
+
+Q:comprehensive rust unsafe rust unions
+A:https://google.github.io/comprehensive-rust/unsafe-rust\unions.html
+
+Q:comprehensive rust unsafe rust unsafe functions
+A:https://google.github.io/comprehensive-rust/unsafe-rust\unsafe-functions.html
+
+Q:comprehensive rust unsafe rust unsafe traits
+A:https://google.github.io/comprehensive-rust/unsafe-rust\unsafe-traits.html
+
+Q:comprehensive rust unsafe rust unsafe
+A:https://google.github.io/comprehensive-rust/unsafe-rust\unsafe.html
+
+Q:comprehensive rust unsafe rust unsafe functions calling
+A:https://google.github.io/comprehensive-rust/unsafe-rust\unsafe-functions\calling.html
+
+Q:comprehensive rust unsafe rust unsafe functions extern c
+A:https://google.github.io/comprehensive-rust/unsafe-rust\unsafe-functions\extern-c.html
+
+Q:comprehensive rust unsafe rust unsafe functions rust
+A:https://google.github.io/comprehensive-rust/unsafe-rust\unsafe-functions\rust.html
+
+Q:comprehensive rust user defined types aliases
+A:https://google.github.io/comprehensive-rust/user-defined-types\aliases.html
+
+Q:comprehensive rust user defined types const
+A:https://google.github.io/comprehensive-rust/user-defined-types\const.html
+
+Q:comprehensive rust user defined types enums
+A:https://google.github.io/comprehensive-rust/user-defined-types\enums.html
+
+Q:comprehensive rust user defined types exercise
+A:https://google.github.io/comprehensive-rust/user-defined-types\exercise.html
+
+Q:comprehensive rust user defined types named structs
+A:https://google.github.io/comprehensive-rust/user-defined-types\named-structs.html
+
+Q:comprehensive rust user defined types solution
+A:https://google.github.io/comprehensive-rust/user-defined-types\solution.html
+
+Q:comprehensive rust user defined types static
+A:https://google.github.io/comprehensive-rust/user-defined-types\static.html
+
+Q:comprehensive rust user defined types tuple structs
+A:https://google.github.io/comprehensive-rust/user-defined-types\tuple-structs.html
+
+Q:macros decl macros
+A:https://lukaswirth.dev/tlborm/decl-macros.html
+
+Q:macros glossary
+A:https://lukaswirth.dev/tlborm/glossary.html
+
+Q:macros introduction
+A:https://lukaswirth.dev/tlborm/introduction.html
+
+Q:macros proc macros
+A:https://lukaswirth.dev/tlborm/proc-macros.html
+
+Q:macros SUMMARY
+A:https://lukaswirth.dev/tlborm/SUMMARY.html
+
+Q:macros syntax extensions
+A:https://lukaswirth.dev/tlborm/syntax-extensions.html
+
+Q:macros decl macros building blocks
+A:https://lukaswirth.dev/tlborm/decl-macros\building-blocks.html
+
+Q:macros decl macros macros methodical
+A:https://lukaswirth.dev/tlborm/decl-macros\macros-methodical.html
+
+Q:macros decl macros macros practical
+A:https://lukaswirth.dev/tlborm/decl-macros\macros-practical.html
+
+Q:macros decl macros macros2
+A:https://lukaswirth.dev/tlborm/decl-macros\macros2.html
+
+Q:macros decl macros minutiae
+A:https://lukaswirth.dev/tlborm/decl-macros\minutiae.html
+
+Q:macros decl macros patterns
+A:https://lukaswirth.dev/tlborm/decl-macros\patterns.html
+
+Q:macros decl macros building blocks abacus counting
+A:https://lukaswirth.dev/tlborm/decl-macros\building-blocks\abacus-counting.html
+
+Q:macros decl macros building blocks ast coercion
+A:https://lukaswirth.dev/tlborm/decl-macros\building-blocks\ast-coercion.html
+
+Q:macros decl macros building blocks counting
+A:https://lukaswirth.dev/tlborm/decl-macros\building-blocks\counting.html
+
+Q:macros decl macros building blocks parsing
+A:https://lukaswirth.dev/tlborm/decl-macros\building-blocks\parsing.html
+
+Q:macros decl macros minutiae debugging
+A:https://lukaswirth.dev/tlborm/decl-macros\minutiae\debugging.html
+
+Q:macros decl macros minutiae fragment specifiers
+A:https://lukaswirth.dev/tlborm/decl-macros\minutiae\fragment-specifiers.html
+
+Q:macros decl macros minutiae hygiene
+A:https://lukaswirth.dev/tlborm/decl-macros\minutiae\hygiene.html
+
+Q:macros decl macros minutiae identifiers
+A:https://lukaswirth.dev/tlborm/decl-macros\minutiae\identifiers.html
+
+Q:macros decl macros minutiae import export
+A:https://lukaswirth.dev/tlborm/decl-macros\minutiae\import-export.html
+
+Q:macros decl macros minutiae metavar and expansion
+A:https://lukaswirth.dev/tlborm/decl-macros\minutiae\metavar-and-expansion.html
+
+Q:macros decl macros minutiae metavar expr
+A:https://lukaswirth.dev/tlborm/decl-macros\minutiae\metavar-expr.html
+
+Q:macros decl macros minutiae scoping
+A:https://lukaswirth.dev/tlborm/decl-macros\minutiae\scoping.html
+
+Q:macros decl macros patterns callbacks
+A:https://lukaswirth.dev/tlborm/decl-macros\patterns\callbacks.html
+
+Q:macros decl macros patterns internal rules
+A:https://lukaswirth.dev/tlborm/decl-macros\patterns\internal-rules.html
+
+Q:macros decl macros patterns push down acc
+A:https://lukaswirth.dev/tlborm/decl-macros\patterns\push-down-acc.html
+
+Q:macros decl macros patterns repetition replacement
+A:https://lukaswirth.dev/tlborm/decl-macros\patterns\repetition-replacement.html
+
+Q:macros decl macros patterns tt bundling
+A:https://lukaswirth.dev/tlborm/decl-macros\patterns\tt-bundling.html
+
+Q:macros decl macros patterns tt muncher
+A:https://lukaswirth.dev/tlborm/decl-macros\patterns\tt-muncher.html
+
+Q:macros proc macros hygiene
+A:https://lukaswirth.dev/tlborm/proc-macros\hygiene.html
+
+Q:macros proc macros methodical
+A:https://lukaswirth.dev/tlborm/proc-macros\methodical.html
+
+Q:macros proc macros practical
+A:https://lukaswirth.dev/tlborm/proc-macros\practical.html
+
+Q:macros proc macros third party crates
+A:https://lukaswirth.dev/tlborm/proc-macros\third-party-crates.html
+
+Q:macros proc macros methodical attr
+A:https://lukaswirth.dev/tlborm/proc-macros\methodical\attr.html
+
+Q:macros proc macros methodical derive
+A:https://lukaswirth.dev/tlborm/proc-macros\methodical\derive.html
+
+Q:macros proc macros methodical function like
+A:https://lukaswirth.dev/tlborm/proc-macros\methodical\function-like.html
+
+Q:macros proc macros practical attr
+A:https://lukaswirth.dev/tlborm/proc-macros\practical\attr.html
+
+Q:macros proc macros practical derive
+A:https://lukaswirth.dev/tlborm/proc-macros\practical\derive.html
+
+Q:macros proc macros practical function like
+A:https://lukaswirth.dev/tlborm/proc-macros\practical\function-like.html
+
+Q:macros syntax extensions ast
+A:https://lukaswirth.dev/tlborm/syntax-extensions\ast.html
+
+Q:macros syntax extensions debugging
+A:https://lukaswirth.dev/tlborm/syntax-extensions\debugging.html
+
+Q:macros syntax extensions expansion
+A:https://lukaswirth.dev/tlborm/syntax-extensions\expansion.html
+
+Q:macros syntax extensions hygiene
+A:https://lukaswirth.dev/tlborm/syntax-extensions\hygiene.html
+
+Q:macros syntax extensions source analysis
+A:https://lukaswirth.dev/tlborm/syntax-extensions\source-analysis.html
+
+Q:rust abi
+A:https://doc.rust-lang.org/nightly/reference/abi.html
+
+Q:rust appendices
+A:https://doc.rust-lang.org/nightly/reference/appendices.html
+
+Q:rust attributes
+A:https://doc.rust-lang.org/nightly/reference/attributes.html
+
+Q:rust behavior considered undefined
+A:https://doc.rust-lang.org/nightly/reference/behavior-considered-undefined.html
+
+Q:rust behavior not considered unsafe
+A:https://doc.rust-lang.org/nightly/reference/behavior-not-considered-unsafe.html
+
+Q:rust comments
+A:https://doc.rust-lang.org/nightly/reference/comments.html
+
+Q:rust conditional compilation
+A:https://doc.rust-lang.org/nightly/reference/conditional-compilation.html
+
+Q:rust const eval
+A:https://doc.rust-lang.org/nightly/reference/const_eval.html
+
+Q:rust crates and source files
+A:https://doc.rust-lang.org/nightly/reference/crates-and-source-files.html
+
+Q:rust destructors
+A:https://doc.rust-lang.org/nightly/reference/destructors.html
+
+Q:rust dynamically sized types
+A:https://doc.rust-lang.org/nightly/reference/dynamically-sized-types.html
+
+Q:rust expressions
+A:https://doc.rust-lang.org/nightly/reference/expressions.html
+
+Q:rust glossary
+A:https://doc.rust-lang.org/nightly/reference/glossary.html
+
+Q:rust grammar
+A:https://doc.rust-lang.org/nightly/reference/grammar.html
+
+Q:rust identifiers
+A:https://doc.rust-lang.org/nightly/reference/identifiers.html
+
+Q:rust influences
+A:https://doc.rust-lang.org/nightly/reference/influences.html
+
+Q:rust inline assembly
+A:https://doc.rust-lang.org/nightly/reference/inline-assembly.html
+
+Q:rust input format
+A:https://doc.rust-lang.org/nightly/reference/input-format.html
+
+Q:rust interior mutability
+A:https://doc.rust-lang.org/nightly/reference/interior-mutability.html
+
+Q:rust introduction
+A:https://doc.rust-lang.org/nightly/reference/introduction.html
+
+Q:rust items
+A:https://doc.rust-lang.org/nightly/reference/items.html
+
+Q:rust keywords
+A:https://doc.rust-lang.org/nightly/reference/keywords.html
+
+Q:rust lexical structure
+A:https://doc.rust-lang.org/nightly/reference/lexical-structure.html
+
+Q:rust lifetime elision
+A:https://doc.rust-lang.org/nightly/reference/lifetime-elision.html
+
+Q:rust linkage
+A:https://doc.rust-lang.org/nightly/reference/linkage.html
+
+Q:rust macro ambiguity
+A:https://doc.rust-lang.org/nightly/reference/macro-ambiguity.html
+
+Q:rust macros by example
+A:https://doc.rust-lang.org/nightly/reference/macros-by-example.html
+
+Q:rust macros
+A:https://doc.rust-lang.org/nightly/reference/macros.html
+
+Q:rust memory allocation and lifetime
+A:https://doc.rust-lang.org/nightly/reference/memory-allocation-and-lifetime.html
+
+Q:rust memory model
+A:https://doc.rust-lang.org/nightly/reference/memory-model.html
+
+Q:rust names
+A:https://doc.rust-lang.org/nightly/reference/names.html
+
+Q:rust notation
+A:https://doc.rust-lang.org/nightly/reference/notation.html
+
+Q:rust panic
+A:https://doc.rust-lang.org/nightly/reference/panic.html
+
+Q:rust paths
+A:https://doc.rust-lang.org/nightly/reference/paths.html
+
+Q:rust patterns
+A:https://doc.rust-lang.org/nightly/reference/patterns.html
+
+Q:rust procedural macros
+A:https://doc.rust-lang.org/nightly/reference/procedural-macros.html
+
+Q:rust runtime
+A:https://doc.rust-lang.org/nightly/reference/runtime.html
+
+Q:rust special types and traits
+A:https://doc.rust-lang.org/nightly/reference/special-types-and-traits.html
+
+Q:rust statements and expressions
+A:https://doc.rust-lang.org/nightly/reference/statements-and-expressions.html
+
+Q:rust statements
+A:https://doc.rust-lang.org/nightly/reference/statements.html
+
+Q:rust subtyping
+A:https://doc.rust-lang.org/nightly/reference/subtyping.html
+
+Q:rust SUMMARY
+A:https://doc.rust-lang.org/nightly/reference/SUMMARY.html
+
+Q:rust test summary
+A:https://doc.rust-lang.org/nightly/reference/test-summary.html
+
+Q:rust tokens
+A:https://doc.rust-lang.org/nightly/reference/tokens.html
+
+Q:rust trait bounds
+A:https://doc.rust-lang.org/nightly/reference/trait-bounds.html
+
+Q:rust type coercions
+A:https://doc.rust-lang.org/nightly/reference/type-coercions.html
+
+Q:rust type layout
+A:https://doc.rust-lang.org/nightly/reference/type-layout.html
+
+Q:rust type system
+A:https://doc.rust-lang.org/nightly/reference/type-system.html
+
+Q:rust types
+A:https://doc.rust-lang.org/nightly/reference/types.html
+
+Q:rust unsafe keyword
+A:https://doc.rust-lang.org/nightly/reference/unsafe-keyword.html
+
+Q:rust unsafety
+A:https://doc.rust-lang.org/nightly/reference/unsafety.html
+
+Q:rust variables
+A:https://doc.rust-lang.org/nightly/reference/variables.html
+
+Q:rust visibility and privacy
+A:https://doc.rust-lang.org/nightly/reference/visibility-and-privacy.html
+
+Q:rust whitespace
+A:https://doc.rust-lang.org/nightly/reference/whitespace.html
+
+Q:rust attributes codegen
+A:https://doc.rust-lang.org/nightly/reference/attributes\codegen.html
+
+Q:rust attributes debugger
+A:https://doc.rust-lang.org/nightly/reference/attributes\debugger.html
+
+Q:rust attributes derive
+A:https://doc.rust-lang.org/nightly/reference/attributes\derive.html
+
+Q:rust attributes diagnostics
+A:https://doc.rust-lang.org/nightly/reference/attributes\diagnostics.html
+
+Q:rust attributes limits
+A:https://doc.rust-lang.org/nightly/reference/attributes\limits.html
+
+Q:rust attributes testing
+A:https://doc.rust-lang.org/nightly/reference/attributes\testing.html
+
+Q:rust attributes type system
+A:https://doc.rust-lang.org/nightly/reference/attributes\type_system.html
+
+Q:rust expressions array expr
+A:https://doc.rust-lang.org/nightly/reference/expressions\array-expr.html
+
+Q:rust expressions await expr
+A:https://doc.rust-lang.org/nightly/reference/expressions\await-expr.html
+
+Q:rust expressions block expr
+A:https://doc.rust-lang.org/nightly/reference/expressions\block-expr.html
+
+Q:rust expressions call expr
+A:https://doc.rust-lang.org/nightly/reference/expressions\call-expr.html
+
+Q:rust expressions closure expr
+A:https://doc.rust-lang.org/nightly/reference/expressions\closure-expr.html
+
+Q:rust expressions field expr
+A:https://doc.rust-lang.org/nightly/reference/expressions\field-expr.html
+
+Q:rust expressions grouped expr
+A:https://doc.rust-lang.org/nightly/reference/expressions\grouped-expr.html
+
+Q:rust expressions if expr
+A:https://doc.rust-lang.org/nightly/reference/expressions\if-expr.html
+
+Q:rust expressions literal expr
+A:https://doc.rust-lang.org/nightly/reference/expressions\literal-expr.html
+
+Q:rust expressions loop expr
+A:https://doc.rust-lang.org/nightly/reference/expressions\loop-expr.html
+
+Q:rust expressions match expr
+A:https://doc.rust-lang.org/nightly/reference/expressions\match-expr.html
+
+Q:rust expressions method call expr
+A:https://doc.rust-lang.org/nightly/reference/expressions\method-call-expr.html
+
+Q:rust expressions operator expr
+A:https://doc.rust-lang.org/nightly/reference/expressions\operator-expr.html
+
+Q:rust expressions path expr
+A:https://doc.rust-lang.org/nightly/reference/expressions\path-expr.html
+
+Q:rust expressions range expr
+A:https://doc.rust-lang.org/nightly/reference/expressions\range-expr.html
+
+Q:rust expressions return expr
+A:https://doc.rust-lang.org/nightly/reference/expressions\return-expr.html
+
+Q:rust expressions struct expr
+A:https://doc.rust-lang.org/nightly/reference/expressions\struct-expr.html
+
+Q:rust expressions tuple expr
+A:https://doc.rust-lang.org/nightly/reference/expressions\tuple-expr.html
+
+Q:rust expressions underscore expr
+A:https://doc.rust-lang.org/nightly/reference/expressions\underscore-expr.html
+
+Q:rust items associated items
+A:https://doc.rust-lang.org/nightly/reference/items\associated-items.html
+
+Q:rust items constant items
+A:https://doc.rust-lang.org/nightly/reference/items\constant-items.html
+
+Q:rust items enumerations
+A:https://doc.rust-lang.org/nightly/reference/items\enumerations.html
+
+Q:rust items extern crates
+A:https://doc.rust-lang.org/nightly/reference/items\extern-crates.html
+
+Q:rust items external blocks
+A:https://doc.rust-lang.org/nightly/reference/items\external-blocks.html
+
+Q:rust items functions
+A:https://doc.rust-lang.org/nightly/reference/items\functions.html
+
+Q:rust items generics
+A:https://doc.rust-lang.org/nightly/reference/items\generics.html
+
+Q:rust items implementations
+A:https://doc.rust-lang.org/nightly/reference/items\implementations.html
+
+Q:rust items modules
+A:https://doc.rust-lang.org/nightly/reference/items\modules.html
+
+Q:rust items static items
+A:https://doc.rust-lang.org/nightly/reference/items\static-items.html
+
+Q:rust items structs
+A:https://doc.rust-lang.org/nightly/reference/items\structs.html
+
+Q:rust items traits
+A:https://doc.rust-lang.org/nightly/reference/items\traits.html
+
+Q:rust items type aliases
+A:https://doc.rust-lang.org/nightly/reference/items\type-aliases.html
+
+Q:rust items unions
+A:https://doc.rust-lang.org/nightly/reference/items\unions.html
+
+Q:rust items use declarations
+A:https://doc.rust-lang.org/nightly/reference/items\use-declarations.html
+
+Q:rust names name resolution
+A:https://doc.rust-lang.org/nightly/reference/names\name-resolution.html
+
+Q:rust names namespaces
+A:https://doc.rust-lang.org/nightly/reference/names\namespaces.html
+
+Q:rust names preludes
+A:https://doc.rust-lang.org/nightly/reference/names\preludes.html
+
+Q:rust names scopes
+A:https://doc.rust-lang.org/nightly/reference/names\scopes.html
+
+Q:rust types array
+A:https://doc.rust-lang.org/nightly/reference/types\array.html
+
+Q:rust types boolean
+A:https://doc.rust-lang.org/nightly/reference/types\boolean.html
+
+Q:rust types closure
+A:https://doc.rust-lang.org/nightly/reference/types\closure.html
+
+Q:rust types enum
+A:https://doc.rust-lang.org/nightly/reference/types\enum.html
+
+Q:rust types function item
+A:https://doc.rust-lang.org/nightly/reference/types\function-item.html
+
+Q:rust types function pointer
+A:https://doc.rust-lang.org/nightly/reference/types\function-pointer.html
+
+Q:rust types impl trait
+A:https://doc.rust-lang.org/nightly/reference/types\impl-trait.html
+
+Q:rust types inferred
+A:https://doc.rust-lang.org/nightly/reference/types\inferred.html
+
+Q:rust types never
+A:https://doc.rust-lang.org/nightly/reference/types\never.html
+
+Q:rust types numeric
+A:https://doc.rust-lang.org/nightly/reference/types\numeric.html
+
+Q:rust types parameters
+A:https://doc.rust-lang.org/nightly/reference/types\parameters.html
+
+Q:rust types pointer
+A:https://doc.rust-lang.org/nightly/reference/types\pointer.html
+
+Q:rust types slice
+A:https://doc.rust-lang.org/nightly/reference/types\slice.html
+
+Q:rust types struct
+A:https://doc.rust-lang.org/nightly/reference/types\struct.html
+
+Q:rust types textual
+A:https://doc.rust-lang.org/nightly/reference/types\textual.html
+
+Q:rust types trait object
+A:https://doc.rust-lang.org/nightly/reference/types\trait-object.html
+
+Q:rust types tuple
+A:https://doc.rust-lang.org/nightly/reference/types\tuple.html
+
+Q:rust types union
+A:https://doc.rust-lang.org/nightly/reference/types\union.html
