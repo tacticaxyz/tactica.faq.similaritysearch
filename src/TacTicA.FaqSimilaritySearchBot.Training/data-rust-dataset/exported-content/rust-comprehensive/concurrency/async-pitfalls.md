@@ -1,0 +1,8 @@
+URL:https://google.github.io/comprehensive-rust/concurrency\async-pitfalls.html
+# Pitfalls
+
+Async / await provides convenient and efficient abstraction for concurrent
+asynchronous programming. However, the async/await model in Rust also comes with
+its share of pitfalls and footguns. We illustrate some of them in this chapter.
+
+{{%segment outline}}
