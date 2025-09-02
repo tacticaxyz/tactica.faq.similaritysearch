@@ -271,7 +271,7 @@ public class DataProcessingService : IDataProcessingService
             {
                 url = trimmed.Substring(4).Trim();
             }
-            else if (!inContent && (trimmed.StartsWith("#") || actualContent.Count > 0))
+            else if (!inContent && (trimmed.StartsWith("#") || trimmed.StartsWith("-") || trimmed.StartsWith("{") ||actualContent.Count > 0))
             {
                 inContent = true;
                 actualContent.Add(line);
